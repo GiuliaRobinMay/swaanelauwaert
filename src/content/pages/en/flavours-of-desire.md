@@ -12,7 +12,7 @@ bodyClass: "wp-singular page-template-default page page-id-68 wp-embed-responsiv
 ogImage: "/media/2026/02/b69a7dfbf5eaad18b7b69648d56c9c49.jpg"
 translations:
   nl: "/nl/flavours-of-desire-3/"
-  en: "/en/"
+  en: "/en/flavours-of-desire/"
   fr: "/fr/flavours-of-desire-2/"
 wpId: 68
 originalUrl: "https://swaanelauwaert.com/en/flavours-of-desire/"
@@ -114,7 +114,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover"><img loading="lazy" decoding="async" width="736" height="863" class="wp-block-cover__image-background wp-image-4281 size-full" alt="" src="/media/2026/01/7c754abd9bc7f6a913a765577b33dea2.jpg" data-object-fit="/en/flavours-of-desire/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#833d3a"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover"><img loading="lazy" decoding="async" width="736" height="863" class="wp-block-cover__image-background wp-image-4281 size-full" alt="" src="/media/2026/01/7c754abd9bc7f6a913a765577b33dea2.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#833d3a"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 
@@ -126,7 +126,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover is-light"><img loading="lazy" decoding="async" width="736" height="975" class="wp-block-cover__image-background wp-image-4300 size-full" alt="" src="/media/2026/01/2211d321fe9f6f2c415cafa5ab80fcc2.jpg" data-object-fit="/en/flavours-of-desire/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#828282"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover is-light"><img loading="lazy" decoding="async" width="736" height="975" class="wp-block-cover__image-background wp-image-4300 size-full" alt="" src="/media/2026/01/2211d321fe9f6f2c415cafa5ab80fcc2.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#828282"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 
@@ -138,7 +138,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover"><img loading="lazy" decoding="async" width="700" height="875" class="wp-block-cover__image-background wp-image-4301 size-full" alt="" src="/media/2026/01/bb3e19bbdc0e7db827b33c44fc650fdb-1.jpg" data-object-fit="/en/flavours-of-desire/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#d6bc98"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover"><img loading="lazy" decoding="async" width="700" height="875" class="wp-block-cover__image-background wp-image-4301 size-full" alt="" src="/media/2026/01/bb3e19bbdc0e7db827b33c44fc650fdb-1.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#d6bc98"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 

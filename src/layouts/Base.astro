@@ -21,7 +21,7 @@ interface Props {
 const { lang, title, description, path, translations = {}, bodyClass = "", inlineCss, ogImage, ogType = "website", noindex } = Astro.props;
 const t = UI[lang];
 const canonical = SITE_URL + path;
-const alternates = Object.entries(translations).filter(([l]) => (LANGS as string[]).includes(l));
+const alternates = Object.keys(translations).length > 1 ? Object.entries(translations).filter(([l]) => (LANGS as string[]).includes(l)) : [];
 const defaultOg = siteMeta.ogImage;
 ---
 <!doctype html>

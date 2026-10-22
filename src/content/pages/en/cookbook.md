@@ -11,7 +11,7 @@ bodyClass: "wp-singular page-template-default page page-id-4892 wp-embed-respons
 ogImage: "/media/2026/08/MVIMG_20260817_163817_1-scaled.jpg"
 translations:
   nl: "/nl/kookboek/"
-  en: "/en/"
+  en: "/en/cookbook/"
   fr: "/fr/livre-de-cuisine/"
 wpId: 4892
 originalUrl: "https://swaanelauwaert.com/en/cookbook/"
@@ -106,7 +106,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 
-<div id="wp-block-themeisle-blocks-content-slider-9fac4092" class="wp-block-themeisle-blocks-content-slider o-content-slider" style="--o-per-view:1;--o-gap:0px;--o-height:auto" role="region" aria-label="Content slider" data-autoplay="/en/cookbook/false" data-delay="/en/cookbook/5" data-loop="/en/cookbook/true"><div class="o-content-track">
+<div id="wp-block-themeisle-blocks-content-slider-9fac4092" class="wp-block-themeisle-blocks-content-slider o-content-slider" style="--o-per-view:1;--o-gap:0px;--o-height:auto" role="region" aria-label="Content slider" data-autoplay="false" data-delay="5" data-loop="true"><div class="o-content-track">
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-a600c585 wp-block-group-is-layout-constrained">
 

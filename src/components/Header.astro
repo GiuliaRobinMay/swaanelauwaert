@@ -5,6 +5,8 @@ const { lang, translations = {}, currentPath } = Astro.props;
 const t = UI[lang];
 const items = NAV[lang];
 const langHref = (l: Lang) => translations[l] ?? `/${l}/`;
+// Polylang lists only the languages the current page is translated into (always at least the current one).
+const available = (["nl", "en", "fr"] as Lang[]).filter((l) => l === lang || translations[l]);
 const flag = (l: Lang) => `<img decoding="async" src="${FLAGS[l]}" alt="" width="16" height="11" style="width: 16px; height: 11px;" /> ${LANG_NAMES[l]}`;
 const isCurrent = (href: string) => href === currentPath;
 ---
@@ -49,7 +51,7 @@ const isCurrent = (href: string) => href === currentPath;
                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg>
                       </button>
                       <ul class={`wp-block-navigation__submenu-container has-text-color has-contrast-color has-background has-base-background-color lang-item lang-item-${lang} current-lang wp-block-polylang-navigation-language-switcher wp-block-navigation-submenu`}>
-                        {(["nl", "en", "fr"] as Lang[]).map((l, i) => (
+                        {available.map((l, i) => (
                           <li class={`wp-block-navigation-item lang-item lang-item-${l}${l === lang ? " current-lang" : ""}${i === 0 ? " lang-item-first" : ""} wp-block-navigation-link`}>
                             <a hreflang={l} lang={l} class="wp-block-navigation-item__content" href={langHref(l)}><span class="wp-block-navigation-item__label" set:html={flag(l)} /></a>
                           </li>

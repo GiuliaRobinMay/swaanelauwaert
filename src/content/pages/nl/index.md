@@ -80,7 +80,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 
-<p class="wp-block-paragraph"><strong><a href="/nl/maria-magdalena-retreat-zuid-frankrijk-2026/">[Reserveer je plek &amp; bekijk het programma →]</a></strong></p>
+<p class="wp-block-paragraph"><strong><a href="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/">[Reserveer je plek &amp; bekijk het programma →]</a></strong></p>
 
 
 
@@ -136,15 +136,15 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large is-style-default"><img decoding="async" width="539" height="719" data-id="/5572" src="/media/2026/08/IMG-20260404-WA0004.jpg" alt="" class="wp-image-5572" /></figure>
+<figure class="wp-block-image size-large is-style-default"><img decoding="async" width="539" height="719" data-id="5572" src="/media/2026/08/IMG-20260404-WA0004.jpg" alt="" class="wp-image-5572" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" data-id="/5573" src="/media/2026/08/IMG_5348.jpeg" alt="" class="wp-image-5573" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" data-id="5573" src="/media/2026/08/IMG_5348.jpeg" alt="" class="wp-image-5573" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/5506" src="/media/2026/08/MVIMG_20260817_163817_1-1536x2048.jpg" alt="" class="wp-image-5506" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="5506" src="/media/2026/08/MVIMG_20260817_163817_1-1536x2048.jpg" alt="" class="wp-image-5506" /></figure>
 </figure>
 
 
@@ -158,42 +158,42 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 <h2 class="wp-block-heading has-text-align-left is-style-default">Do you have a question?<br>Feel free to reach out.</h2>
 
 
-<div data-test='/contact-form'
+<div data-test='contact-form'
 			id='contact-form-74'
 			class='jetpack-contact-form-container '
-			data-wp-interactive='/jetpack/form' data-wp-context='{"formId":"74","formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570","showErrors":false,"errors":[],"fields":[],"isMultiStep":false,"useAjax":true,"submissionData":null,"formattedSubmissionData":[],"submissionSuccess":false,"submissionError":null,"elementId":"jp-form-b5cd5d664c98003415ad6439fb410e6b31f38570","isSingleInputForm":false,"isForcedHorizontal":false,"conditionalLogic":[]}'
-			data-wp-on--focusin="/actions.trackFirstInteraction"
-			data-wp-watch--scroll-to-wrapper="/callbacks.scrollToWrapper"
+			data-wp-interactive='jetpack/form' data-wp-context='{"formId":"74","formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570","showErrors":false,"errors":[],"fields":[],"isMultiStep":false,"useAjax":true,"submissionData":null,"formattedSubmissionData":[],"submissionSuccess":false,"submissionError":null,"elementId":"jp-form-b5cd5d664c98003415ad6439fb410e6b31f38570","isSingleInputForm":false,"isForcedHorizontal":false,"conditionalLogic":[]}'
+			data-wp-on--focusin="actions.trackFirstInteraction"
+			data-wp-watch--scroll-to-wrapper="callbacks.scrollToWrapper"
 		>
-<div class="contact-form-submission contact-form-ajax-submission" data-wp-bind--aria-hidden="/state.isSuccessMessageAriaHidden" data-wp-class--submission-success="context.submissionSuccess" id="contact-form-success-b5cd5d664c98003415ad6439fb410e6b31f38570" tabindex="-1" aria-labelledby="contact-form-success-header-b5cd5d664c98003415ad6439fb410e6b31f38570"><p class="go-back-message"><a class="link" role="button" tabindex="0" data-wp-on--click="/actions.goBack" href="/nl/">← Terug</a></p><h4 data-wp-bind--aria-hidden="/state.isSuccessMessageAriaHidden" id="contact-form-success-header-b5cd5d664c98003415ad6439fb410e6b31f38570">Uw bericht is verzonden</h4>
+<div class="contact-form-submission contact-form-ajax-submission" data-wp-bind--aria-hidden="state.isSuccessMessageAriaHidden" data-wp-class--submission-success="context.submissionSuccess" id="contact-form-success-b5cd5d664c98003415ad6439fb410e6b31f38570" tabindex="-1" aria-labelledby="contact-form-success-header-b5cd5d664c98003415ad6439fb410e6b31f38570"><p class="go-back-message"><a class="link" role="button" tabindex="0" data-wp-on--click="actions.goBack" href="/nl/">← Terug</a></p><h4 data-wp-bind--aria-hidden="state.isSuccessMessageAriaHidden" id="contact-form-success-header-b5cd5d664c98003415ad6439fb410e6b31f38570">Uw bericht is verzonden</h4>
 
 <template data-wp-each--submission="context.formattedSubmissionData">
 					<div class="jetpack_forms_contact-form-success-summary">
 						<div class="field-name-wrapper">
-							<div class="field-type-icon" data-wp-watch="/callbacks.watchFieldTypeIcon"></div>
-							<div class="field-name" data-wp-text="context.submission.label" data-wp-bind--hidden="/!context.submission.label"></div>
+							<div class="field-type-icon" data-wp-watch="callbacks.watchFieldTypeIcon"></div>
+							<div class="field-name" data-wp-text="context.submission.label" data-wp-bind--hidden="!context.submission.label"></div>
 						</div>
-						<div class="field-value" data-wp-text="context.submission.value" data-wp-bind--hidden="/!context.submission.showPlainValue"></div>
-						<a class="field-url" data-wp-bind--href="context.submission.url" data-wp-text="context.submission.value" data-wp-bind--hidden="/!context.submission.url" target="_blank" rel="noopener noreferrer"></a>
-						<div class="field-rating" data-wp-bind--hidden="/!context.submission.rating" data-wp-watch="/callbacks.watchRatingIcons"></div>
-						<div class="field-images" data-wp-bind--hidden="/!context.submission.images">
+						<div class="field-value" data-wp-text="context.submission.value" data-wp-bind--hidden="!context.submission.showPlainValue"></div>
+						<a class="field-url" data-wp-bind--href="context.submission.url" data-wp-text="context.submission.value" data-wp-bind--hidden="!context.submission.url" target="_blank" rel="noopener noreferrer"></a>
+						<div class="field-rating" data-wp-bind--hidden="!context.submission.rating" data-wp-watch="callbacks.watchRatingIcons"></div>
+						<div class="field-images" data-wp-bind--hidden="!context.submission.images">
 							<template data-wp-each--image="context.submission.images">
-								<div class="field-image-option" data-wp-class--is-empty="/!context.image.src">
-									<figure class="field-image-option__image" data-wp-class--is-empty="/!context.image.src">
-										<img alt="" data-wp-bind--src="context.image.src" data-wp-bind--hidden="/!context.image.src" />
+								<div class="field-image-option" data-wp-class--is-empty="!context.image.src">
+									<figure class="field-image-option__image" data-wp-class--is-empty="!context.image.src">
+										<img alt="" data-wp-bind--src="context.image.src" data-wp-bind--hidden="!context.image.src" />
 										<img decoding="async" alt="" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-wp-bind--hidden="context.image.src" />
 									</figure>
 									<div class="field-image-option__label-wrapper">
 										<span class="field-image-option__label-code" data-wp-text="context.image.letterCode"></span>
-										<span class="field-image-option__label" data-wp-text="context.image.label" data-wp-bind--hidden="/!context.image.label"></span>
+										<span class="field-image-option__label" data-wp-text="context.image.label" data-wp-bind--hidden="!context.image.label"></span>
 									</div>
 								</div>
 							</template>
 						</div>
-						<div class="field-files" data-wp-bind--hidden="/!context.submission.files">
+						<div class="field-files" data-wp-bind--hidden="!context.submission.files">
 							<template data-wp-each--file="context.submission.files">
 								<div class="field-file">
-									<div class="field-file__thumbnail" data-wp-style--background-image="context.file.previewUrl" data-wp-style--mask-image="context.file.iconUrl" data-wp-bind--hidden="/!context.file.hasPreview"></div>
+									<div class="field-file__thumbnail" data-wp-style--background-image="context.file.previewUrl" data-wp-style--mask-image="context.file.iconUrl" data-wp-bind--hidden="!context.file.hasPreview"></div>
 									<svg class="field-file__icon" data-wp-bind--hidden="context.file.hasPreview" width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
 										<path d="M14 2H6C4.9 2 4 2.9 4 4V20C4 21.1 4.89 22 5.99 22H18C19.1 22 20 21.1 20 20V8L14 2ZM18 20H6V4H13V9H18V20Z" fill="currentColor"/>
 									</svg>
@@ -203,24 +203,24 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 							</template>
 						</div>
 					</div>
-				</template></div><form action='nl.html'
+				</template></div><form action='/nl/'
 				id='jp-form-b5cd5d664c98003415ad6439fb410e6b31f38570'
 				method='post'
 				class='contact-form commentsblock jetpack-contact-form__form has-no-jetpack-form-layout' aria-label="Swaane Lauwaert"
-				data-wp-on--submit="/actions.onFormSubmit"
-				data-wp-on--reset="/actions.onFormReset"
+				data-wp-on--submit="actions.onFormSubmit"
+				data-wp-on--reset="actions.onFormReset"
 				data-wp-class--submission-success="context.submissionSuccess"
-				data-wp-class--is-first-step="/state.isFirstStep"
-				data-wp-class--is-last-step="/state.isLastStep"
+				data-wp-class--is-first-step="state.isFirstStep"
+				data-wp-class--is-last-step="state.isLastStep"
 				data-wp-class--is-ajax-form="context.useAjax"
 				novalidate >
 <input type='hidden' name='jetpack_contact_form_jwt' value='eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbmNyeXB0ZWRfYXR0cmlidXRlcyI6ImpWNjQyaFEvTWhyeGRjNndOWG83RWQvVGJwREVscjdJbnNiVnN5M3ovellMRkhOL2lXcTBudSsyZGlPejhtUDhnS3BlOUJJMmNQK29RWVNXYitjWlI2ajFRdzdJSUxRS25DMXk2aWM0TmE4bHk1WGNuc0tLTEZTWHU2czBjMVAvUUFKRDdzb2NxanlLR1RpQ28ySWJEaUk0N0haUVl3N1JVMHlhejRTaEhETVRuWFRtMUpoWVdobVVHbUo2K2hwZHNteURnQ0NkQVBBbWVybmdMTnJGMnltZ0hZaUIwWVE5NUhSNGRqZ1dUWFprR2V1ZWMzYW1rbFFJS1pFeXlqZkVFOEZQelQ5SjNneW51d3g4T3JscDhad01yZmpIQnQ5VjVxdzRsZlkxcHphRDF6WkRvek5kWm4vR1dXTmZlZzNNdHE5dGtCWjJGUzRSM2RhaVE1M2FqWjliU29ZaEcwOGdmMUV5UXBPcnY0aWUva3JhUTVmVlJQbkNFcEFKZC83emd2NnlKWjBFTGVKTE5haFZtYkptWHd2LzA2Y3FNSklab3hMc2FpNVRWcUJSa2pHd3VBYTljMWk1WWhMZFM1RXlDU0JDcUNBak9wSTd1MHc1U2dkaFdmK1VRSS9mZ0FMOFZCNmFFaW91Q01ad2NyN202c2h3ajZkUytWNSs2T1BwZ21jTi96MWJrY29DaWlwMUxTVmo5aVRjbGtUaWR5WEIzOVRHclFpbnRmeVMwQUd1dWZvRFozdWJGNGMxandUMnRDZGNiRWNZVjlzRlJDQ3VNY1RoTlUxTlZKQy94RDNuQnVmUUFFVGVrMFlreDRaL0RKWkFtTmsrclphdWpnd0JaMWlTWDdDcDd5RUZHaXl5M00zOWtGWUhKcnlOTmNLaFA5U1lKWFplZmFZVlN5SWpxMjUvVGRKMk1lM3ljdk5YdWh4UUMwclZzTEdUSlJCYTQwWjlPQWoxSGhrL20yeDBjMGUydWltL256elNtZnJJTkNDazlubStCVzFHWkhpNTV6SHUyZE1BalM0K3NWRmJkemtTWHZmN2lGdEd5K0ZMSnNPempTS1J5VW1KSDhsZkxoTXVGMzZDVVkyNDdsc1VhTnZFVjRVenQ2aWVSRE5PVnZ5b1VBR3NCUzFEU2ZhbVlJbXEwQTUwalFJbWw3TUpRS0NoTHBtN2lJWGoyYlNsQ0F5UXJGSHp5TjRCcW1qSzdZcFpmdGdFNmcwT2dhQ2VERlpZL2NRazVxV0VNRDZ4bEVOcENLT3gxbDNuUlpXYkpYcUJnNGN1MEtJbFlEcDhmQTQ1ZmFHMmhOdis2T2kzTDh6d3dsMjl3bVZaK2xnT3JnbEx6S3ZUUjdIRGZDai9NVDEzeEIzOTBiZzRsWmt4QXo0PSIsImNvbnRlbnQiOiJcbjxkaXYgY2xhc3M9XCJ3cC1ibG9jay1qZXRwYWNrLWNvbnRhY3QtZm9ybSBpcy1zdHlsZS1vdXRsaW5lZFwiPltjb250YWN0LWZpZWxkIGlkPVwiXCIgcmVxdWlyZWQ9XCIxXCIgZmllbGRWYXJpYW50PVwibmFtZVwiIHBsbFZpc2liaWxpdHk9XCJcIiB0eXBlPVwibmFtZVwiIGxhYmVsPVwiTmFhbVwiIGxhYmVsY2xhc3Nlcz1cIndwLWJsb2NrLWpldHBhY2stbGFiZWxcIiBsYWJlbGhpZGRlbmJ5YmxvY2t2aXNpYmlsaXR5PVwiXCIgcGxhY2Vob2xkZXI9XCJcIiBtaW49XCJcIiBtYXg9XCJcIiBpbnB1dGNsYXNzZXM9XCJ3cC1ibG9jay1qZXRwYWNrLWlucHV0IGhhcy1zbWFsbC1mb250LXNpemVcIiBpbnB1dHN0eWxlcz1cImJvcmRlci1zdHlsZTpzb2xpZFwiIHN0eWxldmFyaWF0aW9uYXR0cmlidXRlcz1cInsmcXVvdDtib3JkZXImcXVvdDs6eyZxdW90O3N0eWxlJnF1b3Q7OiZxdW90O3NvbGlkJnF1b3Q7fX1cIiBzdHlsZXZhcmlhdGlvbmNsYXNzZXM9XCJcIiBzdHlsZXZhcmlhdGlvbnN0eWxlcz1cImJvcmRlci1zdHlsZTpzb2xpZFwiIGZpZWxkd3JhcHBlcmNsYXNzZXM9XCJ3cC1ibG9jay1qZXRwYWNrLWZpZWxkLW5hbWVcIl0mbHQ7ZGl2Jmd0O1xuXG4mbHQ7L2RpdiZndDtbL2NvbnRhY3QtZmllbGRdXG5cbltjb250YWN0LWZpZWxkIGlkPVwiXCIgcmVxdWlyZWQ9XCIxXCIgcGxsVmlzaWJpbGl0eT1cIlwiIHR5cGU9XCJlbWFpbFwiIGxhYmVsPVwiRS1tYWlsXCIgbGFiZWxjbGFzc2VzPVwid3AtYmxvY2stamV0cGFjay1sYWJlbFwiIGxhYmVsaGlkZGVuYnlibG9ja3Zpc2liaWxpdHk9XCJcIiBwbGFjZWhvbGRlcj1cIlwiIG1pbj1cIlwiIG1heD1cIlwiIGlucHV0Y2xhc3Nlcz1cIndwLWJsb2NrLWpldHBhY2staW5wdXQgaGFzLXNtYWxsLWZvbnQtc2l6ZVwiIGlucHV0c3R5bGVzPVwiYm9yZGVyLXN0eWxlOnNvbGlkXCIgc3R5bGV2YXJpYXRpb25hdHRyaWJ1dGVzPVwieyZxdW90O2JvcmRlciZxdW90Ozp7JnF1b3Q7c3R5bGUmcXVvdDs6JnF1b3Q7c29saWQmcXVvdDt9fVwiIHN0eWxldmFyaWF0aW9uY2xhc3Nlcz1cIlwiIHN0eWxldmFyaWF0aW9uc3R5bGVzPVwiYm9yZGVyLXN0eWxlOnNvbGlkXCIgZmllbGR3cmFwcGVyY2xhc3Nlcz1cIndwLWJsb2NrLWpldHBhY2stZmllbGQtZW1haWxcIl0mbHQ7ZGl2Jmd0O1xuXG4mbHQ7L2RpdiZndDtbL2NvbnRhY3QtZmllbGRdXG5cbltjb250YWN0LWZpZWxkIGlkPVwiXCIgcGxsVmlzaWJpbGl0eT1cIlwiIHR5cGU9XCJ0ZXh0YXJlYVwiIGxhYmVsPVwiQmVyaWNodFwiIGxhYmVsY2xhc3Nlcz1cIndwLWJsb2NrLWpldHBhY2stbGFiZWxcIiBsYWJlbGhpZGRlbmJ5YmxvY2t2aXNpYmlsaXR5PVwiXCIgcGxhY2Vob2xkZXI9XCJcIiBtaW49XCJcIiBtYXg9XCJcIiBpbnB1dGNsYXNzZXM9XCJ3cC1ibG9jay1qZXRwYWNrLWlucHV0IGhhcy1zbWFsbC1mb250LXNpemVcIiBpbnB1dHN0eWxlcz1cImJvcmRlci1zdHlsZTpzb2xpZFwiIHN0eWxldmFyaWF0aW9uYXR0cmlidXRlcz1cInsmcXVvdDtib3JkZXImcXVvdDs6eyZxdW90O3N0eWxlJnF1b3Q7OiZxdW90O3NvbGlkJnF1b3Q7fX1cIiBzdHlsZXZhcmlhdGlvbmNsYXNzZXM9XCJcIiBzdHlsZXZhcmlhdGlvbnN0eWxlcz1cImJvcmRlci1zdHlsZTpzb2xpZFwiIGZpZWxkd3JhcHBlcmNsYXNzZXM9XCJ3cC1ibG9jay1qZXRwYWNrLWZpZWxkLXRleHRhcmVhXCJdJmx0O2RpdiZndDtcblxuJmx0Oy9kaXYmZ3Q7Wy9jb250YWN0LWZpZWxkXVxuXG48ZGl2IGNsYXNzPVwid3AtYmxvY2stamV0cGFjay1idXR0b24gaXMtc3R5bGUtb3V0bGluZSB3cC1ibG9jay1idXR0b25cIiBzdHlsZT1cIlwiPjxidXR0b24gY2xhc3M9XCJ3cC1ibG9jay1idXR0b25fX2xpbmsgaXMtc3R5bGUtb3V0bGluZVwiIHN0eWxlPVwiXCIgZGF0YS1pZC1hdHRyPVwicGxhY2Vob2xkZXJcIiB0eXBlPVwic3VibWl0XCIgZGF0YS13cC1jbGFzcy0taXMtc3VibWl0dGluZz1cInN0YXRlLmlzU3VibWl0dGluZ1wiIGRhdGEtd3AtYmluZC0tYXJpYS1kaXNhYmxlZD1cInN0YXRlLmlzQXJpYURpc2FibGVkXCI-VmVyemVuZGVuPHNwYW4gY2xhc3M9XCJzcGlubmVyXCIgYXJpYS1oaWRkZW49XCJ0cnVlXCI-PHN2ZyB3aWR0aD1cIjI0XCIgaGVpZ2h0PVwiMjRcIiB2aWV3Qm94PVwiMCAwIDI0IDI0XCIgeG1sbnM9XCJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Z1wiPjxwYXRoIGQ9XCJNMTIsMUExMSwxMSwwLDEsMCwyMywxMiwxMSwxMSwwLDAsMCwxMiwxWm0wLDE5YTgsOCwwLDEsMSw4LThBOCw4LDAsMCwxLDEyLDIwWlwiIG9wYWNpdHk9XCIuMjVcIi8-PHBhdGggZD1cIk0xMC4xNCwxLjE2YTExLDExLDAsMCwwLTksOC45MkExLjU5LDEuNTksMCwwLDAsMi40NiwxMiwxLjUyLDEuNTIsMCwwLDAsNC4xMSwxMC43YTgsOCwwLDAsMSw2LjY2LTYuNjFBMS40MiwxLjQyLDAsMCwwLDEyLDIuNjloMEExLjU3LDEuNTcsMCwwLDAsMTAuMTQsMS4xNlpcIj48YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPVwidHJhbnNmb3JtXCIgdHlwZT1cInJvdGF0ZVwiIGR1cj1cIjAuNzVzXCIgdmFsdWVzPVwiMCAxMiAxMjszNjAgMTIgMTJcIiByZXBlYXRDb3VudD1cImluZGVmaW5pdGVcIi8-PC9wYXRoPjwvc3ZnPjxzcGFuIGNsYXNzPVwiaXMtdmlzdWFsbHktaGlkZGVuXCI-Rm9ybXVsaWVyIGluc3R1cmVuPC9zcGFuPjwvc3Bhbj48L2J1dHRvbj48L2Rpdj48L2Rpdj5cbiIsImhhc2giOiJiNWNkNWQ2NjRjOTgwMDM0MTVhZDY0MzlmYjQxMGU2YjMxZjM4NTcwIiwic291cmNlIjp7ImVudHJ5X3RpdGxlIjoiU3dhYW5lIExhdXdhZXJ0IiwiZW50cnlfcGFnZSI6MSwic291cmNlX2lkIjo3NCwic291cmNlX3R5cGUiOiJzaW5nbGUiLCJyZXF1ZXN0X3VybCI6Imh0dHBzOi8vc3dhYW5lbGF1d2FlcnQuY29tL25sIn0sInZlcnNpb24iOjIsImNpcGhlciI6ImFlcy0yNTYtZ2NtIn0.PtFDK0LvrEBmYVayKAno7RY0VRKegGibqHxHi1Tkx2I' />
 <input type='hidden' name='jetpack_form_fill_duration' value='' />
 
 <div class="wp-block-jetpack-contact-form is-style-outlined is-layout-flex wp-container-jetpack-contact-form-is-layout-18d78099 wp-block-jetpack-contact-form-is-layout-flex">
-<div class='contact-form__inset-label-wrap'  data-wp-interactive="/jetpack/form" data-wp-context='{"fieldId":"g74-naam","fieldType":"name","fieldLabel":"Naam","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"1","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='/g74-naam' data-wp-class--jetpack-field--conditionally-hidden="/state.isFieldHidden" data-wp-watch--conditional-focus="/callbacks.manageConditionalFocus" >
+<div class='contact-form__inset-label-wrap'  data-wp-interactive="jetpack/form" data-wp-context='{"fieldId":"g74-naam","fieldType":"name","fieldLabel":"Naam","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"1","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='g74-naam' data-wp-class--jetpack-field--conditionally-hidden="state.isFieldHidden" data-wp-watch--conditional-focus="callbacks.manageConditionalFocus" >
 
-<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-name grunion-field-name-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='/g74-naam' data-wp-init='/callbacks.initializeField' data-wp-on--jetpack-form-reset='/callbacks.initializeField' >
+<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-name grunion-field-name-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='g74-naam' data-wp-init='callbacks.initializeField' data-wp-on--jetpack-form-reset='callbacks.initializeField' >
 
 			<div class="notched-label">
 				<div class="notched-label__leading" style="border-style:solid"></div>
@@ -240,19 +240,19 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 					id='g74-naam'
 					value=''
 
-					data-wp-bind--aria-invalid='/state.fieldAriaInvalid'
-					data-wp-bind--value='/state.getFieldValue'
+					data-wp-bind--aria-invalid='state.fieldAriaInvalid'
+					data-wp-bind--value='state.getFieldValue'
 					aria-describedby='g74-naam-text-error-message'
-					data-wp-on--input='/actions.onFieldChange'
-					data-wp-on--blur='/actions.onFieldBlur'
-					data-wp-class--has-value='/state.hasFieldValue'
+					data-wp-on--input='actions.onFieldChange'
+					data-wp-on--blur='actions.onFieldBlur'
+					data-wp-class--has-value='state.hasFieldValue'
 
 					class='name wp-block-jetpack-input has-small-font-size grunion-field' 
 					required='true' aria-required='true' style="border-style:solid"  />
   
 	</div>
 
-			<div id="g74-naam-text-error" class="contact-form__input-error" data-wp-class--has-errors="/state.fieldHasErrors">
+			<div id="g74-naam-text-error" class="contact-form__input-error" data-wp-class--has-errors="state.fieldHasErrors">
 				<span class="contact-form__warning-icon" aria-hidden="true">
 					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path d="M8.50015 11.6402H7.50015V10.6402H8.50015V11.6402Z" />
@@ -260,14 +260,14 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 						<path fill-rule="evenodd" clip-rule="evenodd" d="M6.98331 3.0947C7.42933 2.30177 8.57096 2.30177 9.01698 3.09469L13.8771 11.7349C14.3145 12.5126 13.7525 13.4735 12.8602 13.4735H3.14004C2.24774 13.4735 1.68575 12.5126 2.12321 11.7349L6.98331 3.0947ZM8.14541 3.58496C8.08169 3.47168 7.9186 3.47168 7.85488 3.58496L2.99478 12.2251C2.93229 12.3362 3.01257 12.4735 3.14004 12.4735H12.8602C12.9877 12.4735 13.068 12.3362 13.0055 12.2251L8.14541 3.58496Z" />
 					</svg>
 				</span>
-				<span data-wp-text="/state.errorMessage" id="g74-naam-text-error-message"></span>
+				<span data-wp-text="state.errorMessage" id="g74-naam-text-error-message"></span>
 			</div>	</div>
 
 
 
-<div class='contact-form__inset-label-wrap'  data-wp-interactive="/jetpack/form" data-wp-context='{"fieldId":"g74-email","fieldType":"email","fieldLabel":"E-mail","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"1","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='/g74-email' data-wp-class--jetpack-field--conditionally-hidden="/state.isFieldHidden" data-wp-watch--conditional-focus="/callbacks.manageConditionalFocus" >
+<div class='contact-form__inset-label-wrap'  data-wp-interactive="jetpack/form" data-wp-context='{"fieldId":"g74-email","fieldType":"email","fieldLabel":"E-mail","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"1","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='g74-email' data-wp-class--jetpack-field--conditionally-hidden="state.isFieldHidden" data-wp-watch--conditional-focus="callbacks.manageConditionalFocus" >
 
-<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-email grunion-field-email-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='/g74-email' data-wp-init='/callbacks.initializeField' data-wp-on--jetpack-form-reset='/callbacks.initializeField' >
+<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-email grunion-field-email-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='g74-email' data-wp-init='callbacks.initializeField' data-wp-on--jetpack-form-reset='callbacks.initializeField' >
 
 			<div class="notched-label">
 				<div class="notched-label__leading" style="border-style:solid"></div>
@@ -287,19 +287,19 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 					id='g74-email'
 					value=''
 
-					data-wp-bind--aria-invalid='/state.fieldAriaInvalid'
-					data-wp-bind--value='/state.getFieldValue'
+					data-wp-bind--aria-invalid='state.fieldAriaInvalid'
+					data-wp-bind--value='state.getFieldValue'
 					aria-describedby='g74-email-email-error-message'
-					data-wp-on--input='/actions.onFieldChange'
-					data-wp-on--blur='/actions.onFieldBlur'
-					data-wp-class--has-value='/state.hasFieldValue'
+					data-wp-on--input='actions.onFieldChange'
+					data-wp-on--blur='actions.onFieldBlur'
+					data-wp-class--has-value='state.hasFieldValue'
 
 					class='email wp-block-jetpack-input has-small-font-size grunion-field' 
 					required='true' aria-required='true' style="border-style:solid"  />
   
 	</div>
 
-			<div id="g74-email-email-error" class="contact-form__input-error" data-wp-class--has-errors="/state.fieldHasErrors">
+			<div id="g74-email-email-error" class="contact-form__input-error" data-wp-class--has-errors="state.fieldHasErrors">
 				<span class="contact-form__warning-icon" aria-hidden="true">
 					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path d="M8.50015 11.6402H7.50015V10.6402H8.50015V11.6402Z" />
@@ -307,14 +307,14 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 						<path fill-rule="evenodd" clip-rule="evenodd" d="M6.98331 3.0947C7.42933 2.30177 8.57096 2.30177 9.01698 3.09469L13.8771 11.7349C14.3145 12.5126 13.7525 13.4735 12.8602 13.4735H3.14004C2.24774 13.4735 1.68575 12.5126 2.12321 11.7349L6.98331 3.0947ZM8.14541 3.58496C8.08169 3.47168 7.9186 3.47168 7.85488 3.58496L2.99478 12.2251C2.93229 12.3362 3.01257 12.4735 3.14004 12.4735H12.8602C12.9877 12.4735 13.068 12.3362 13.0055 12.2251L8.14541 3.58496Z" />
 					</svg>
 				</span>
-				<span data-wp-text="/state.errorMessage" id="g74-email-email-error-message"></span>
+				<span data-wp-text="state.errorMessage" id="g74-email-email-error-message"></span>
 			</div>	</div>
 
 
 
-<div class='contact-form__inset-label-wrap'  data-wp-interactive="/jetpack/form" data-wp-context='{"fieldId":"g74-bericht","fieldType":"textarea","fieldLabel":"Bericht","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='/g74-bericht' data-wp-class--jetpack-field--conditionally-hidden="/state.isFieldHidden" data-wp-watch--conditional-focus="/callbacks.manageConditionalFocus" >
+<div class='contact-form__inset-label-wrap'  data-wp-interactive="jetpack/form" data-wp-context='{"fieldId":"g74-bericht","fieldType":"textarea","fieldLabel":"Bericht","fieldValue":"","fieldPlaceholder":"","fieldIsRequired":"","fieldErrorMessage":"","fieldExtra":[],"formHash":"b5cd5d664c98003415ad6439fb410e6b31f38570"}'   data-jp-visibility-root='g74-bericht' data-wp-class--jetpack-field--conditionally-hidden="state.isFieldHidden" data-wp-watch--conditional-focus="callbacks.manageConditionalFocus" >
 
-<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-textarea grunion-field-textarea-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='/g74-bericht' data-wp-init='/callbacks.initializeField' data-wp-on--jetpack-form-reset='/callbacks.initializeField' >
+<div style="--jetpack--contact-form--notch-width: max(var(--jetpack--contact-form--input-padding-left, 16px), var(--jetpack--contact-form--border-radius));"  class='wp-block-jetpack-field-textarea grunion-field-textarea-wrap wp-block-jetpack-input-wrap has-small-font-size-wrap grunion-field-wrap'  data-jp-field-id='g74-bericht' data-wp-init='callbacks.initializeField' data-wp-on--jetpack-form-reset='callbacks.initializeField' >
 
 			<div class="notched-label">
 				<div class="notched-label__leading" style="border-style:solid"></div>
@@ -333,17 +333,17 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 		                name='g74-bericht'
 		                id='contact-form-comment-g74-bericht'
 		                rows='20'
-						data-wp-text='/state.getFieldValue'
-						data-wp-on--input='/actions.onFieldChange'
-						data-wp-on--blur='/actions.onFieldBlur'
-						data-wp-class--has-value='/state.hasFieldValue'
+						data-wp-text='state.getFieldValue'
+						data-wp-on--input='actions.onFieldChange'
+						data-wp-on--blur='actions.onFieldBlur'
+						data-wp-class--has-value='state.hasFieldValue'
 						aria-describedby='g74-bericht-textarea-error-message'
-						data-wp-bind--aria-invalid='/state.fieldAriaInvalid'
+						data-wp-bind--aria-invalid='state.fieldAriaInvalid'
 						class='textarea wp-block-jetpack-input has-small-font-size grunion-field'  ></textarea>
  
 	</div>
 
-			<div id="g74-bericht-textarea-error" class="contact-form__input-error" data-wp-class--has-errors="/state.fieldHasErrors">
+			<div id="g74-bericht-textarea-error" class="contact-form__input-error" data-wp-class--has-errors="state.fieldHasErrors">
 				<span class="contact-form__warning-icon" aria-hidden="true">
 					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<path d="M8.50015 11.6402H7.50015V10.6402H8.50015V11.6402Z" />
@@ -351,19 +351,19 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 						<path fill-rule="evenodd" clip-rule="evenodd" d="M6.98331 3.0947C7.42933 2.30177 8.57096 2.30177 9.01698 3.09469L13.8771 11.7349C14.3145 12.5126 13.7525 13.4735 12.8602 13.4735H3.14004C2.24774 13.4735 1.68575 12.5126 2.12321 11.7349L6.98331 3.0947ZM8.14541 3.58496C8.08169 3.47168 7.9186 3.47168 7.85488 3.58496L2.99478 12.2251C2.93229 12.3362 3.01257 12.4735 3.14004 12.4735H12.8602C12.9877 12.4735 13.068 12.3362 13.0055 12.2251L8.14541 3.58496Z" />
 					</svg>
 				</span>
-				<span data-wp-text="/state.errorMessage" id="g74-bericht-textarea-error-message"></span>
+				<span data-wp-text="state.errorMessage" id="g74-bericht-textarea-error-message"></span>
 			</div>	</div>
 
 
-<div class="contact-form__error" data-wp-class--show-errors="/state.showFormErrors"><span class="contact-form__warning-icon" aria-hidden="true"><i></i></span><span class="contact-form__error-message" tabindex="-1" data-wp-watch="/callbacks.focusOnValidationError" data-wp-text="/state.getFormErrorMessage"></span><ul aria-label="Formulierfouten">
-				<template data-wp-each="/state.getErrorList" data-wp-key="context.item.id">
-					<li><a data-wp-bind--href="context.item.anchor" data-wp-on--click="/actions.scrollIntoView" data-wp-text="context.item.label"></a></li>
+<div class="contact-form__error" data-wp-class--show-errors="state.showFormErrors"><span class="contact-form__warning-icon" aria-hidden="true"><i></i></span><span class="contact-form__error-message" tabindex="-1" data-wp-watch="callbacks.focusOnValidationError" data-wp-text="state.getFormErrorMessage"></span><ul aria-label="Formulierfouten">
+				<template data-wp-each="state.getErrorList" data-wp-key="context.item.id">
+					<li><a data-wp-bind--href="context.item.anchor" data-wp-on--click="actions.scrollIntoView" data-wp-text="context.item.label"></a></li>
 				</template>
-				</ul></div><div class="contact-form__error" data-wp-class--show-errors="/state.showSubmissionError" data-wp-text="context.submissionError" tabindex="-1" data-wp-watch="/callbacks.focusOnSubmissionError"></div> <div class="wp-block-jetpack-button is-style-outline wp-block-button" style=""><button data-wp-bind--disabled="/state.isAriaDisabled" class="wp-block-button__link is-style-outline" style="" data-id-attr="/placeholder" type="submit" data-wp-class--is-submitting="/state.isSubmitting" data-wp-bind--aria-disabled="/state.isAriaDisabled">Verzenden<span class="spinner" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12,1A11,11,0,1,0,23,12,11,11,0,0,0,12,1Zm0,19a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z" opacity=".25"/><path d="M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z"><animateTransform attributeName="transform" type="rotate" dur="0.75s" values="0 12 12;360 12 12" repeatCount="indefinite"/></path></svg><span class="is-visually-hidden">Formulier insturen</span></span></button></div></div>
+				</ul></div><div class="contact-form__error" data-wp-class--show-errors="state.showSubmissionError" data-wp-text="context.submissionError" tabindex="-1" data-wp-watch="callbacks.focusOnSubmissionError"></div> <div class="wp-block-jetpack-button is-style-outline wp-block-button" style=""><button data-wp-bind--disabled="state.isAriaDisabled" class="wp-block-button__link is-style-outline" style="" data-id-attr="placeholder" type="submit" data-wp-class--is-submitting="state.isSubmitting" data-wp-bind--aria-disabled="state.isAriaDisabled">Verzenden<span class="spinner" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12,1A11,11,0,1,0,23,12,11,11,0,0,0,12,1Zm0,19a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z" opacity=".25"/><path d="M10.14,1.16a11,11,0,0,0-9,8.92A1.59,1.59,0,0,0,2.46,12,1.52,1.52,0,0,0,4.11,10.7a8,8,0,0,1,6.66-6.61A1.42,1.42,0,0,0,12,2.69h0A1.57,1.57,0,0,0,10.14,1.16Z"><animateTransform attributeName="transform" type="rotate" dur="0.75s" values="0 12 12;360 12 12" repeatCount="indefinite"/></path></svg><span class="is-visually-hidden">Formulier insturen</span></span></button></div></div>
 		<input type='hidden' name='contact-form-id' value='74' />
 		<input type='hidden' name='action' value='grunion-contact-form' />
 		<input type='hidden' name='contact-form-hash' value='b5cd5d664c98003415ad6439fb410e6b31f38570' />
-<p style="display: none !important;" class="akismet-fields-container" data-prefix="/ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="204"/><script>
+<p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="204"/><script>
 document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 </script>
 </p></form>

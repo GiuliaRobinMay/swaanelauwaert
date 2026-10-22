@@ -1,7 +1,7 @@
 ---
 title: "The Eros Sanctuary"
 wpSlug: "the-eros-sanctuary-2"
-path: "/en/body-untamed/"
+path: "/en/the-eros-sanctuary-2/"
 lang: "en"
 date: "2026-01-16T10:44:22Z"
 modified: "2026-08-24T20:06:56Z"
@@ -11,7 +11,7 @@ bodyClass: "wp-singular page-template-default page page-id-66 wp-embed-responsiv
 ogImage: "/media/2026/04/8881d238fd5f3310b8212df33597bd3d.jpg"
 translations:
   nl: "/nl/the-eros-sanctuary/"
-  en: "/body-untamed/"
+  en: "/en/the-eros-sanctuary-2/"
   fr: "/fr/le-corps-libre/"
 wpId: 66
 originalUrl: "https://swaanelauwaert.com/en/the-eros-sanctuary-2/"
@@ -83,15 +83,15 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="400" height="534" data-id="/en/the-eros-sanctuary-2/5181" src="/media/2026/04/0e9a4aa194478ed4c418f7fa9463bea9.jpg" alt="" class="wp-image-5181" /></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="400" height="534" data-id="5181" src="/media/2026/04/0e9a4aa194478ed4c418f7fa9463bea9.jpg" alt="" class="wp-image-5181" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="640" height="640" data-id="/en/the-eros-sanctuary-2/5187" src="/media/2026/04/30e0d24c3b2ebaf63a21f5c7f874a14d.jpg" alt="" class="wp-image-5187" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="640" height="640" data-id="5187" src="/media/2026/04/30e0d24c3b2ebaf63a21f5c7f874a14d.jpg" alt="" class="wp-image-5187" /></figure>
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="422" height="586" data-id="/en/the-eros-sanctuary-2/5189" src="/media/2026/04/af472e9b5594e4b72110cae15f9792dc.jpg" alt="" class="wp-image-5189" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="422" height="586" data-id="5189" src="/media/2026/04/af472e9b5594e4b72110cae15f9792dc.jpg" alt="" class="wp-image-5189" /></figure>
 </figure>
 
 
@@ -171,13 +171,13 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/en/the-eros-sanctuary-2/5186" src="/media/2026/04/8881d238fd5f3310b8212df33597bd3d.jpg" alt="" class="wp-image-5186" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="5186" src="/media/2026/04/8881d238fd5f3310b8212df33597bd3d.jpg" alt="" class="wp-image-5186" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="822" height="1024" data-id="/en/the-eros-sanctuary-2/5190" src="/media/2026/04/31151a884fbb0603dff8df2a67b2bc02.jpg" alt="" class="wp-image-5190" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="822" height="1024" data-id="5190" src="/media/2026/04/31151a884fbb0603dff8df2a67b2bc02.jpg" alt="" class="wp-image-5190" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="736" height="867" data-id="/en/the-eros-sanctuary-2/5185" src="/media/2026/04/327d1cd8b43e66b8535f50d749193206.jpg" alt="" class="wp-image-5185" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="736" height="867" data-id="5185" src="/media/2026/04/327d1cd8b43e66b8535f50d749193206.jpg" alt="" class="wp-image-5185" /></figure>
 </figure>

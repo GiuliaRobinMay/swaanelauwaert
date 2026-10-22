@@ -13,7 +13,7 @@ ogImage: "/media/2026/02/5eaaabe9572dec3fc263928e634ab651.jpg"
 translations:
   nl: "/nl/levende-rituelen/"
   en: "/en/rooted-rituals/"
-  fr: "/fr/"
+  fr: "/fr/rituels-dancrage/"
 wpId: 4550
 originalUrl: "https://swaanelauwaert.com/fr/rituels-dancrage/"
 hasRawHtml: true

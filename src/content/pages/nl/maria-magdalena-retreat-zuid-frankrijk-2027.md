@@ -1,7 +1,7 @@
 ---
 title: "Maria Magdalena ‘Wild&Rooted’ Retreat Zuid Frankrijk 5-10 april 2027"
 wpSlug: "maria-magdalena-retreat-zuid-frankrijk-2027"
-path: "/nl/maria-magdalena-retreat-zuid-frankrijk-2026/"
+path: "/nl/maria-magdalena-retreat-zuid-frankrijk-2027/"
 lang: "nl"
 date: "2026-02-18T10:19:38Z"
 modified: "2026-10-17T18:26:26Z"
@@ -149,155 +149,155 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4743" src="/media/2026/02/DSCF0973-1-2048x1536.jpg" alt="" class="wp-image-4743" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="4743" src="/media/2026/02/DSCF0973-1-2048x1536.jpg" alt="" class="wp-image-4743" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4740" src="/media/2026/02/IMG_50241.jpeg" alt="" class="wp-image-4740" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" data-id="4740" src="/media/2026/02/IMG_50241.jpeg" alt="" class="wp-image-4740" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4375" src="/media/2026/01/IMG_50461.jpeg" alt="" class="wp-image-4375" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4375" src="/media/2026/01/IMG_50461.jpeg" alt="" class="wp-image-4375" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4395" src="/media/2026/02/IMG_5461.jpeg" alt="" class="wp-image-4395" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4395" src="/media/2026/02/IMG_5461.jpeg" alt="" class="wp-image-4395" /></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-6 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4779" src="/media/2026/02/DSCF0871.jpg" alt="" class="wp-image-4779" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4779" src="/media/2026/02/DSCF0871.jpg" alt="" class="wp-image-4779" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4778" src="/media/2026/02/20250408_095402.jpg" alt="" class="wp-image-4778" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4778" src="/media/2026/02/20250408_095402.jpg" alt="" class="wp-image-4778" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4777" src="/media/2026/02/20250409_123001.jpg" alt="" class="wp-image-4777" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4777" src="/media/2026/02/20250409_123001.jpg" alt="" class="wp-image-4777" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4776" src="/media/2026/02/DSCF0867.jpg" alt="" class="wp-image-4776" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4776" src="/media/2026/02/DSCF0867.jpg" alt="" class="wp-image-4776" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4775" src="/media/2026/02/DSCF0921.jpg" alt="" class="wp-image-4775" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4775" src="/media/2026/02/DSCF0921.jpg" alt="" class="wp-image-4775" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4774" src="/media/2026/02/20250408_153841.jpg" alt="" class="wp-image-4774" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4774" src="/media/2026/02/20250408_153841.jpg" alt="" class="wp-image-4774" /></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4773" src="/media/2026/02/20250408_182245.jpg" alt="" class="wp-image-4773" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4773" src="/media/2026/02/20250408_182245.jpg" alt="" class="wp-image-4773" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4772" src="/media/2026/02/20250411_084835.jpg" alt="" class="wp-image-4772" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4772" src="/media/2026/02/20250411_084835.jpg" alt="" class="wp-image-4772" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4771" src="/media/2026/02/IMG_5492.jpeg" alt="" class="wp-image-4771" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4771" src="/media/2026/02/IMG_5492.jpeg" alt="" class="wp-image-4771" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4770" src="/media/2026/02/20250408_095452.jpg" alt="" class="wp-image-4770" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4770" src="/media/2026/02/20250408_095452.jpg" alt="" class="wp-image-4770" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4769" src="/media/2026/02/20250408_124919.jpg" alt="" class="wp-image-4769" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4769" src="/media/2026/02/20250408_124919.jpg" alt="" class="wp-image-4769" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4768" src="/media/2026/02/20250408_132844.jpg" alt="" class="wp-image-4768" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4768" src="/media/2026/02/20250408_132844.jpg" alt="" class="wp-image-4768" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4767" src="/media/2026/02/IMG_5365.jpeg" alt="" class="wp-image-4767" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4767" src="/media/2026/02/IMG_5365.jpeg" alt="" class="wp-image-4767" /></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-8 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4764" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-16.48.25_c02bedbb.jpg" alt="" class="wp-image-4764" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4764" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-16.48.25_c02bedbb.jpg" alt="" class="wp-image-4764" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4763" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-19.46.35_d823a004.jpg" alt="" class="wp-image-4763" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4763" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-19.46.35_d823a004.jpg" alt="" class="wp-image-4763" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4762" src="/media/2026/02/IMG_5192.jpeg" alt="" class="wp-image-4762" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4762" src="/media/2026/02/IMG_5192.jpeg" alt="" class="wp-image-4762" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4761" src="/media/2026/02/IMG_4827.jpeg" alt="" class="wp-image-4761" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4761" src="/media/2026/02/IMG_4827.jpeg" alt="" class="wp-image-4761" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4760" src="/media/2026/02/IMG_4875.jpeg" alt="" class="wp-image-4760" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4760" src="/media/2026/02/IMG_4875.jpeg" alt="" class="wp-image-4760" /></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4759" src="/media/2026/02/IMG_4871.jpeg" alt="" class="wp-image-4759" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4759" src="/media/2026/02/IMG_4871.jpeg" alt="" class="wp-image-4759" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4758" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-17.12.51_9a544a06.jpg" alt="" class="wp-image-4758" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4758" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-17.12.51_9a544a06.jpg" alt="" class="wp-image-4758" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4757" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.09_ff18b69a.jpg" alt="" class="wp-image-4757" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="4757" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.09_ff18b69a.jpg" alt="" class="wp-image-4757" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4756" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.09_5881b57b.jpg" alt="" class="wp-image-4756" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4756" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.09_5881b57b.jpg" alt="" class="wp-image-4756" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4755" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.07_429cdf0d.jpg" alt="" class="wp-image-4755" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4755" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.07_429cdf0d.jpg" alt="" class="wp-image-4755" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4754" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.06_75a9ae80.jpg" alt="" class="wp-image-4754" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4754" src="/media/2026/02/WhatsApp-Image-2025-04-12-at-15.32.06_75a9ae80.jpg" alt="" class="wp-image-4754" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4753" src="/media/2026/02/WhatsApp-Image-2025-04-10-at-22.49.31_0b816f3d.jpg" alt="" class="wp-image-4753" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4753" src="/media/2026/02/WhatsApp-Image-2025-04-10-at-22.49.31_0b816f3d.jpg" alt="" class="wp-image-4753" /></figure>
 </figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-10 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="472" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4752" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-10.59.56_6120b4ff.jpg" alt="" class="wp-image-4752" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="472" data-id="4752" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-10.59.56_6120b4ff.jpg" alt="" class="wp-image-4752" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4751" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-07.53.48_b4b9c4b4.jpg" alt="" class="wp-image-4751" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4751" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-07.53.48_b4b9c4b4.jpg" alt="" class="wp-image-4751" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4750" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-07.53.36_ee84a043.jpg" alt="" class="wp-image-4750" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4750" src="/media/2026/02/WhatsApp-Image-2025-04-09-at-07.53.36_ee84a043.jpg" alt="" class="wp-image-4750" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4749" src="/media/2026/02/20250407_155915.jpg" alt="" class="wp-image-4749" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" data-id="4749" src="/media/2026/02/20250407_155915.jpg" alt="" class="wp-image-4749" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4748" src="/media/2026/02/IMG_5348-1.jpg" alt="" class="wp-image-4748" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4748" src="/media/2026/02/IMG_5348-1.jpg" alt="" class="wp-image-4748" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4747" src="/media/2026/02/IMG_4894.jpeg" alt="" class="wp-image-4747" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4747" src="/media/2026/02/IMG_4894.jpeg" alt="" class="wp-image-4747" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="/nl/maria-magdalena-retreat-zuid-frankrijk-2027/4746" src="/media/2026/02/IMG_5169.jpeg" alt="" class="wp-image-4746" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" data-id="4746" src="/media/2026/02/IMG_5169.jpeg" alt="" class="wp-image-4746" /></figure>
 </figure>

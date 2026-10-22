@@ -11,7 +11,7 @@ bodyClass: "blog wp-embed-responsive wp-theme-twentytwentyfive"
 ogImage: "/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-192x192.jpg"
 translations:
   nl: "/nl/journal/"
-  en: "/en/"
+  en: "/en/the-journal/"
   fr: "/fr/le-journal/"
 wpId: 48
 originalUrl: "https://swaanelauwaert.com/en/the-journal/"

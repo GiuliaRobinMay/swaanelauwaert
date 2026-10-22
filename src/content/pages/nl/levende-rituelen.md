@@ -11,7 +11,7 @@ menuOrder: 30
 bodyClass: "wp-singular page-template-default page page-id-4541 wp-embed-responsive wp-theme-twentytwentyfive"
 ogImage: "/media/2026/02/5eaaabe9572dec3fc263928e634ab651.jpg"
 translations:
-  nl: "/nl/"
+  nl: "/nl/levende-rituelen/"
   en: "/en/rooted-rituals/"
   fr: "/fr/rituels-dancrage/"
 wpId: 4541

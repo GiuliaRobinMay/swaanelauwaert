@@ -11,8 +11,8 @@ bodyClass: "wp-singular page-template-default page page-id-4531 wp-embed-respons
 ogImage: "/media/2026/01/9d110192f5f3236a1cb2cf7d956f15b0.jpg"
 translations:
   nl: "/nl/the-eros-sanctuary/"
-  en: "/en/body-untamed/"
-  fr: "/fr/"
+  en: "/en/the-eros-sanctuary-2/"
+  fr: "/fr/le-corps-libre/"
 wpId: 4531
 originalUrl: "https://swaanelauwaert.com/fr/le-corps-libre/"
 hasRawHtml: true

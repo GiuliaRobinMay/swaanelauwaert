@@ -7,7 +7,7 @@ import type { Page, Post } from "../lib/posts";
 interface Props { lang: Lang; page: Page<Post>; path: string; label: string; name: string; bodyClass?: string }
 const { lang, page, path, label, name, bodyClass = "archive" } = Astro.props;
 ---
-<Base lang={lang} title={pageTitle(`${name}`, lang)} path={path} bodyClass={`${bodyClass} wp-theme-twentytwentyfive`}>
+<Base lang={lang} title={pageTitle(`${name}`, lang)} path={path} translations={{ [lang]: path }} bodyClass={`${bodyClass} wp-theme-twentytwentyfive`}>
   <main id="wp--skip-link--target" class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--60)">
     <h1 class="wp-block-query-title">{label}: <span>{name}</span></h1>
     <PostGrid posts={page.items} lang={lang} />

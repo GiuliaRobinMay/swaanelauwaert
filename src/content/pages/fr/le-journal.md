@@ -12,7 +12,7 @@ ogImage: "/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illu
 translations:
   nl: "/nl/journal/"
   en: "/en/the-journal/"
-  fr: "/fr/"
+  fr: "/fr/le-journal/"
 wpId: 80
 originalUrl: "https://swaanelauwaert.com/fr/le-journal/"
 hasRawHtml: true

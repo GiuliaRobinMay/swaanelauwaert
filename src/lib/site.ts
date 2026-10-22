@@ -17,7 +17,7 @@ export const NAV: Record<Lang, NavItem[]> = {
   en: [
     { label: "Work with me", href: "/en/work-with-me/", children: [
       { label: "Retreats", href: "/en/rooted-rituals/" },
-      { label: "The Eros Sanctuary", href: "/en/body-untamed/" },
+      { label: "The Eros Sanctuary", href: "/en/the-eros-sanctuary-2/" },
       { label: "Flavours of Desire", href: "/en/flavours-of-desire/" },
       { label: "Sainte-Baume Guide", href: "/en/sainte-baume-guide/" },
     ] },
@@ -30,7 +30,7 @@ export const NAV: Record<Lang, NavItem[]> = {
     { label: "Werk met mij", href: "#", children: [
       { label: "Samenwerken", href: "/nl/samenwerken/" },
       { label: "Weekendretreat 27-28-29 november 2026: PLAY", href: "/nl/weekendretreat-27-28-29-november-2026-play/" },
-      { label: "Maria Magdalena Retreat Zuid Frankrijk 2027", href: "/nl/maria-magdalena-retreat-zuid-frankrijk-2026/" },
+      { label: "Maria Magdalena Retreat Zuid Frankrijk 2027", href: "/nl/maria-magdalena-retreat-zuid-frankrijk-2027/" },
       { label: "Flavours of Desire | Voeding, Verlangen & Zelfliefde", href: "/nl/flavours-of-desire-3/" },
       { label: "The Eros Sanctuary | Somatic Coaching & Sacred Sexuality", href: "/nl/the-eros-sanctuary/" },
       { label: "Sainte-Baume Gids", href: "/nl/sainte-baume-gids/" },
@@ -77,6 +77,8 @@ export const UI = {
     nextPage: "Page suivante", prevPage: "Page précédente", paginationAria: "Pagination", writtenBy: "Écrit par", in: "dans", on: "le", postNavAria: "Navigation des articles", comments: "Commentaires", morePosts: "Plus d’articles", discover: "Découvrez plus de Swaane Lauwaert", subscribeText: "Abonnez-vous pour recevoir les derniers articles par e-mail.", subscribe: "S’abonner", likeShare: "Like and share", notFound: "Page introuvable", notFoundText: "La page que vous cherchez n’existe pas.", backHome: "Retour à l’accueil", category: "Catégorie", tag: "Étiquette", author: "Auteur", month: "Mois", year: "Année", noResults: "Désolé, rien n’a été trouve.", protectedNotice: "Ce contenu est protégé par un mot de passe et réservé aux participantes du programme." },
 } as const;
 
+// WordPress prefixes the title of password-protected pages.
+export const PROTECTED_PREFIX: Record<Lang, string> = { en: "Protected: ", nl: "Beschermd: ", fr: "Protégé : " };
 export const JOURNAL_PATH: Record<Lang, string> = { en: "/en/the-journal/", nl: "/nl/journal/", fr: "/fr/le-journal/" };
 export const SUBSTACK_URL = "https://substack.com/@swaanelauwaert1";
 export const SOCIAL = [

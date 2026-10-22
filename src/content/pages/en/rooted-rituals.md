@@ -12,7 +12,7 @@ bodyClass: "wp-singular page-template-default page page-id-70 wp-embed-responsiv
 ogImage: "/media/2026/02/b40ec7271d9a610c1298162dd93302b2.jpg"
 translations:
   nl: "/nl/levende-rituelen/"
-  en: "/en/"
+  en: "/en/rooted-rituals/"
   fr: "/fr/rituels-dancrage/"
 wpId: 70
 originalUrl: "https://swaanelauwaert.com/en/rooted-rituals/"

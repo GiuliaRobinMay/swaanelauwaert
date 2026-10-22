@@ -112,7 +112,7 @@ const rewriteLinks = (html) => html.replace(/https?:\/\/(www\.)?swaanelauwaert\.
 // paths (../../wp-content/x.jpg, ../index.html, en.html#contact). Resolve them
 // against the page's own location back to absolute site URLs.
 function fixRelative(html, rawFile) {
-  if (!rawFile || !html || rawFile.startsWith(HTML2)) return html;
+  if (!rawFile || !html || rawFile.startsWith(HTML2) || rawFile.endsWith(".orig")) return html;
   const dir = path.posix.dirname(path.relative(RAW, rawFile).split(path.sep).join("/")); // e.g. "en/about" or "."
   const resolve = (val) => {
     let abs = path.posix.normalize(path.posix.join(dir === "." ? "" : dir, val));
@@ -138,14 +138,15 @@ const PAGE_OVERRIDES = {
   5530: { skip: true, redirectTo: "/en/work-with-me/" }, // empty page with a Dutch title in the English language set
 };
 const captureFile = (link) => { const s = link.replace(/^https?:\/\//, "").replace(/[^a-z0-9]+/gi, "-").replace(/^-+|-+$/g, "").slice(0, 120); const f = path.join(HTML2, `${s}.html`); return fs.existsSync(f) ? f : null; };
+// wget --backup-converted keeps the untouched download as index.html.orig (pages) / en.orig (language homes)
+const withOrig = (files) => files.flatMap((f) => [/index\.html$/.test(f) ? f + ".orig" : f.replace(/\.html$/, ".orig"), f]);
 function rawFileFor(lang, slug, isHome, link) {
   const c = isHome ? [path.join(RAW, `${lang}.html`), path.join(RAW, lang, "index.html")] : [path.join(RAW, pathOf(link).replace(/^\/|\/$/g, ""), "index.html"), path.join(RAW, lang, slug, "index.html")];
-  return c.find((f) => fs.existsSync(f)) || captureFile(link);
+  return withOrig(c).find((f) => fs.existsSync(f)) || captureFile(link);
 }
 function rawPostFile(link) {
   const p = pathOf(link).replace(/^\/|\/$/g, "");
-  const f = path.join(RAW, p, "index.html");
-  return fs.existsSync(f) ? f : captureFile(link);
+  return withOrig([path.join(RAW, p, "index.html")]).find((f) => fs.existsSync(f)) || captureFile(link);
 }
 // Returns the inner HTML of the first element whose opening tag matches `re`,
 // using a tag-depth counter so nested <div>s are handled.
@@ -188,7 +189,10 @@ function fromRaw(file) {
   const titleTag = html.match(/<title>([^<]*)<\/title>/)?.[1];
   let canonical;
   const can = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
-  if (can && !rawFile_isCapture(file)) {
+  if (can && !rawFile_isCapture(file) && /^https?:\/\//.test(can)) {
+    canonical = pathOf(can);
+    if (canonical === "/") canonical = "/en/";
+  } else if (can && !rawFile_isCapture(file)) {
     const dir = path.posix.dirname(path.relative(RAW, file).split(path.sep).join("/"));
     let abs = path.posix.normalize(path.posix.join(dir === "." ? "" : dir, can)).replace(/\/?index\.html$/, "").replace(/^(en|nl|fr)\.html$/, "$1");
     canonical = "/" + (abs ? abs.replace(/\/$/, "") + "/" : "");

@@ -11,7 +11,7 @@ bodyClass: "wp-singular page-template-default page page-id-5629 wp-embed-respons
 ogImage: "/media/2026/08/IMG_20260812_200654-scaled.jpg"
 translations:
   nl: "/nl/sainte-baume-gids/"
-  en: "/en/"
+  en: "/en/sainte-baume-guide/"
 wpId: 5629
 originalUrl: "https://swaanelauwaert.com/en/sainte-baume-guide/"
 hasRawHtml: true

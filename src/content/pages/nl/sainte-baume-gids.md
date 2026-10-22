@@ -10,7 +10,7 @@ description: "Het oerbos en de kalksteenrotsen van het Sainte-Baume-massief zijn
 bodyClass: "wp-singular page-template-default page page-id-5541 wp-embed-responsive wp-theme-twentytwentyfive"
 ogImage: "/media/2026/08/IMG_20260812_200654-scaled.jpg"
 translations:
-  nl: "/nl/"
+  nl: "/nl/sainte-baume-gids/"
   en: "/en/sainte-baume-guide/"
 wpId: 5541
 originalUrl: "https://swaanelauwaert.com/nl/sainte-baume-gids/"

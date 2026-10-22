@@ -10,7 +10,7 @@ menuOrder: 90
 bodyClass: "blog wp-embed-responsive wp-theme-twentytwentyfive"
 ogImage: "/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-192x192.jpg"
 translations:
-  nl: "/nl/"
+  nl: "/nl/journal/"
   en: "/en/the-journal/"
   fr: "/fr/le-journal/"
 wpId: 78

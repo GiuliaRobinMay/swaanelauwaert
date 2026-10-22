@@ -10,7 +10,7 @@ description: "Een gedeelde droom, een gedekte tafel. Mijn debuut-kookboek is er!
 bodyClass: "wp-singular page-template-default page page-id-4914 wp-embed-responsive wp-theme-twentytwentyfive"
 ogImage: "/media/2026/08/Screenshot-2026-08-25-001028.jpg"
 translations:
-  nl: "/nl/"
+  nl: "/nl/kookboek/"
   en: "/en/cookbook/"
   fr: "/fr/livre-de-cuisine/"
 wpId: 4914
@@ -104,7 +104,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-autoplay="/nl/kookboek/true" data-delay="/nl/kookboek/5" data-effect="/nl/kookboek/slide"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img fetchpriority="high" decoding="async" width="768" height="1024" alt="" class="wp-block-jetpack-slideshow_image wp-image-5506" data-id="/nl/kookboek/5506" src="/media/2026/08/MVIMG_20260817_163817_1-1536x2048.jpg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="768" height="1024" alt="" class="wp-block-jetpack-slideshow_image wp-image-5507" data-id="/nl/kookboek/5507" src="/media/2026/08/Photo-43-EDIT-1536x2048.jpg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="564" height="744" alt="" class="wp-block-jetpack-slideshow_image wp-image-5606" data-id="/nl/kookboek/5606" src="/media/2026/08/Screenshot-2026-08-25-001028.jpg" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<div class="wp-block-jetpack-slideshow aligncenter" data-autoplay="true" data-delay="5" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img fetchpriority="high" decoding="async" width="768" height="1024" alt="" class="wp-block-jetpack-slideshow_image wp-image-5506" data-id="5506" src="/media/2026/08/MVIMG_20260817_163817_1-1536x2048.jpg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="768" height="1024" alt="" class="wp-block-jetpack-slideshow_image wp-image-5507" data-id="5507" src="/media/2026/08/Photo-43-EDIT-1536x2048.jpg" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img decoding="async" width="564" height="744" alt="" class="wp-block-jetpack-slideshow_image wp-image-5606" data-id="5606" src="/media/2026/08/Screenshot-2026-08-25-001028.jpg" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
 
 
 

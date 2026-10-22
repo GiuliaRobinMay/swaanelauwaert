@@ -14,7 +14,7 @@ imageWidth: 957
 imageHeight: 960
 ogImage: "/media/2018/01/15380554_10155567238744832_6438037801427922619_n.jpeg"
 translations:
-  nl: "/nl/"
+  nl: "/nl/over-mij/"
   en: "/en/about/"
   fr: "/fr/a-propos/"
 wpId: 4093

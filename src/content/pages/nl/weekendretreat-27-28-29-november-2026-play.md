@@ -66,7 +66,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover"><img decoding="async" width="736" height="914" class="wp-block-cover__image-background wp-image-5450 size-full" alt="" src="/media/2026/08/54e9204e06d659f5c055fc625a80e0cb.jpg" data-object-fit="/nl/weekendretreat-27-28-29-november-2026-play/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#833d3a"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover"><img decoding="async" width="736" height="914" class="wp-block-cover__image-background wp-image-5450 size-full" alt="" src="/media/2026/08/54e9204e06d659f5c055fc625a80e0cb.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#833d3a"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 
@@ -78,7 +78,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover"><img decoding="async" width="576" height="1024" class="wp-block-cover__image-background wp-image-5451 size-large" alt="" src="/media/2026/08/752d1b97da310928b8c33c6367c0e03f.jpg" data-object-fit="/nl/weekendretreat-27-28-29-november-2026-play/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#828282"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover"><img decoding="async" width="576" height="1024" class="wp-block-cover__image-background wp-image-5451 size-large" alt="" src="/media/2026/08/752d1b97da310928b8c33c6367c0e03f.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#828282"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 
@@ -90,7 +90,7 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 <div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d8dce8eb wp-block-group-is-layout-flex">
-<div class="wp-block-cover"><img loading="lazy" decoding="async" width="736" height="920" class="wp-block-cover__image-background wp-image-5452 size-full" alt="" src="/media/2026/08/95067da75856898475877e5c4bd47736.jpg" data-object-fit="/nl/weekendretreat-27-28-29-november-2026-play/cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#d6bc98"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-cover"><img loading="lazy" decoding="async" width="736" height="920" class="wp-block-cover__image-background wp-image-5452 size-full" alt="" src="/media/2026/08/95067da75856898475877e5c4bd47736.jpg" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#d6bc98"></span><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
 </div></div>
 

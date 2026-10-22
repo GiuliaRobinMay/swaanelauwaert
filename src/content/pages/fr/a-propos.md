@@ -16,7 +16,7 @@ ogImage: "/media/2018/01/15380554_10155567238744832_6438037801427922619_n.jpeg"
 translations:
   nl: "/nl/over-mij/"
   en: "/en/about/"
-  fr: "/fr/"
+  fr: "/fr/a-propos/"
 wpId: 4100
 originalUrl: "https://swaanelauwaert.com/fr/a-propos/"
 hasRawHtml: true
