@@ -5,18 +5,18 @@ Source: https://swaanelauwaert.com
 ## Sizes
 - 4.0K	mirror/INDEX.md
 - 14M	mirror/api
-- 87M	mirror/media
-- 676K	mirror/meta
-- 1.3M	mirror/pages-index.json
+- 281M	mirror/media
+- 168K	mirror/meta
+- 1.2M	mirror/pages-index.json
 - 3.4M	mirror/pages.json
-- 390M	mirror/raw
-- 28M	mirror/screenshots
+- 389M	mirror/raw
+- 61M	mirror/screenshots
 
 ## Counts
 - raw files: 1412
 - html pages: 184
-- media files: 99
-- screenshots: 120
+- media files: 722
+- screenshots: 112
 - api dumps: 26
 
 ## Candidate URLs
