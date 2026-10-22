@@ -1,0 +1,10 @@
+HTTP/2 200 
+date: Thu, 22 Oct 2026 15:58:19 GMT
+content-type: text/html; charset=UTF-8
+content-length: 131821
+vary: Accept-Encoding
+link: <https://swaanelauwaert.com/wp-json/>; rel="https://api.w.org/", <https://swaanelauwaert.com/wp-json/wp/v2/pages/44>; rel="alternate"; title="JSON"; type="application/json", <https://swaanelauwaert.com/>; rel=shortlink
+etag: "45709-1792365845;;;"
+x-lsadc-cache: hit
+server: o2switch-PowerBoost-v3
+
