@@ -4,6 +4,7 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import NetworkInfo from "../components/NetworkInfo.astro";
 import { HTML_LANG, SITE_NAME, SITE_URL, UI, LANGS, type Lang } from "../lib/site";
+import siteMeta from "../data/site-meta.json";
 
 interface Props {
   lang: Lang;
@@ -21,7 +22,7 @@ const { lang, title, description, path, translations = {}, bodyClass = "", inlin
 const t = UI[lang];
 const canonical = SITE_URL + path;
 const alternates = Object.entries(translations).filter(([l]) => (LANGS as string[]).includes(l));
-const defaultOg = "/media/2026/01/6e3a90a15445da501f34e5ad94b4684d-e1768508723726.jpg";
+const defaultOg = siteMeta.ogImage;
 ---
 <!doctype html>
 <html lang={HTML_LANG[lang]}>
@@ -35,9 +36,10 @@ const defaultOg = "/media/2026/01/6e3a90a15445da501f34e5ad94b4684d-e176850872372
     {alternates.map(([l, href]) => <link rel="alternate" href={SITE_URL + href} hreflang={l} />)}
     {alternates.length > 0 && translations.en && <link rel="alternate" href={SITE_URL + translations.en} hreflang="x-default" />}
     <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} » Feed`} href={`${SITE_URL}/nl/feed.xml`} />
-    <link rel="icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-32x32.jpg" sizes="32x32" />
-    <link rel="icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-192x192.jpg" sizes="192x192" />
-    <link rel="apple-touch-icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-180x180.jpg" />
+    <link rel="icon" href={siteMeta.icon32} sizes="32x32" />
+    <link rel="icon" href={siteMeta.icon192} sizes="192x192" />
+    <link rel="apple-touch-icon" href={siteMeta.icon180} />
+    <meta name="msapplication-TileImage" content={SITE_URL + siteMeta.icon270} />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />

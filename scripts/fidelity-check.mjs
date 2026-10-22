@@ -16,6 +16,8 @@ const LIST = process.argv[4] || path.join(SCRATCH, "render-list.txt");
 const OUT_DIR = path.resolve("docs/fidelity");
 fs.mkdirSync(OUT_DIR, { recursive: true });
 const executablePath = process.env.PLAYWRIGHT_CHROMIUM || undefined;
+const WIDTH = parseInt(process.env.WIDTH || "1440", 10);
+const SUFFIX = WIDTH <= 600 ? "mobile" : "desktop";
 
 const files = fs.readFileSync(LIST, "utf8").split("\n").map((s) => s.trim()).filter(Boolean);
 const nameOf = (f) => { let n = f.replace(/^mirror\/raw\/swaanelauwaert\.com\//, "").replace(/\/index\.html$/, "").replace(/\.html$/, "").replace(/[^a-zA-Z0-9]+/g, "-"); return n || "root"; };
@@ -35,19 +37,19 @@ async function compare(aBuf, bBuf) {
 }
 
 const browser = await chromium.launch({ executablePath });
-const page = await browser.newPage({ viewport: { width: 1440, height: 900 }, deviceScaleFactor: 1 });
+const page = await browser.newPage({ viewport: { width: WIDTH, height: WIDTH <= 600 ? 844 : 900 }, deviceScaleFactor: 1 });
 const rows = [];
 for (const f of files) {
   const name = nameOf(f), url = urlOf(f);
   if (url === "/") continue; // root is a redirect on the rebuilt site
-  const orig = path.join(RENDERS, `${name}--desktop.png`);
+  const orig = path.join(RENDERS, `${name}--${SUFFIX}.png`);
   if (!fs.existsSync(orig)) { rows.push({ url, name, note: "no original render" }); continue; }
   try {
     const resp = await page.goto(BASE + url, { waitUntil: "networkidle", timeout: 60000 });
     await page.evaluate(async () => { const h = document.body.scrollHeight; for (let y = 0; y < h; y += 700) { window.scrollTo(0, y); await new Promise((r) => setTimeout(r, 60)); } window.scrollTo(0, 0); });
     await page.waitForTimeout(400);
     const shot = await page.screenshot({ fullPage: true });
-    fs.writeFileSync(path.join(OUT_DIR, `${name}--new.png`), shot);
+    fs.writeFileSync(path.join(OUT_DIR, `${name}--${SUFFIX}--new.png`), shot);
     const origBuf = fs.readFileSync(orig);
     const oMeta = await sharp(origBuf).metadata(), nMeta = await sharp(shot).metadata();
     const c = await compare(origBuf, shot);
@@ -58,5 +60,6 @@ for (const f of files) {
 await browser.close();
 rows.sort((a, b) => (b.pixelDiff ?? 1) - (a.pixelDiff ?? 1));
 const md = ["# Fidelity report", "", `Base: ${BASE} — original renders: ${RENDERS}`, "", "| Page | Status | Height orig → new | Height Δ | Pixel diff | Note |", "| --- | --- | --- | --- | --- | --- |", ...rows.map((r) => `| ${r.url} | ${r.status ?? ""} | ${r.hOrig ?? ""} → ${r.hNew ?? ""} | ${r.heightDiff != null ? (r.heightDiff * 100).toFixed(1) + "%" : ""} | ${r.pixelDiff != null ? (r.pixelDiff * 100).toFixed(1) + "%" : ""} | ${r.note ?? ""} |`)].join("\n");
-fs.writeFileSync("docs/fidelity-report.md", md + "\n");
-console.log("wrote docs/fidelity-report.md");
+const reportFile = WIDTH <= 600 ? "docs/fidelity-report-mobile.md" : "docs/fidelity-report.md";
+fs.writeFileSync(reportFile, md + "\n");
+console.log("wrote " + reportFile);

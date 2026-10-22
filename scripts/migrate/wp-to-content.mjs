@@ -208,6 +208,21 @@ function featured(item) {
   return { image: localMediaPath(url), imageAlt: stripTags(m?.alt_text || m?.title?.rendered || ""), imageWidth: m?.media_details?.width, imageHeight: m?.media_details?.height };
 }
 
+// Every URL path the rebuilt site serves (pages, posts, archives) — used to detect
+// links to WordPress attachment pages, which do not exist any more.
+const knownPaths = new Set([
+  ...pages.map((p) => pathOf(p.link)),
+  ...posts.map((p) => pathOf(p.link)),
+  ...categories.map((c) => `/nl/category/${c.slug}/`),
+  ...tags.map((t) => `/nl/tag/${t.slug}/`),
+  "/", "/en/", "/nl/", "/fr/",
+]);
+function unlinkAttachmentPages(html) {
+  return html.replace(/<a\b([^>]*?)href=("|')(\/[^"']*?\/)\2([^>]*)>(\s*<img\b[^>]*?src=("|')([^"']+)\6[^>]*>)/g, (all, pre, q, href, post, img, q2, src) => {
+    if (knownPaths.has(href) || /^\/(nl|en|fr)\/(category|tag|author)\//.test(href) || /^\/nl\/\d{4}\//.test(href)) return all;
+    return `<a${pre}href=${q}${src}${q}${post}>${img}`;
+  });
+}
 fs.rmSync(OUT_POSTS, { recursive: true, force: true });
 fs.rmSync(OUT_PAGES, { recursive: true, force: true });
 const stats = { posts: {}, pages: {}, rawHtmlPages: 0, rawHtmlPosts: 0 };
@@ -250,7 +265,7 @@ for (const p of pages) {
     showFeatured: raw ? extra.showsFeatured : !isHome && !!p.featured_media,
     inlineCss: extra.inlineCss || undefined,
   };
-  const body = rewriteLinks(rewriteMedia(fixRelative(extra.renderedBody ?? p.content?.rendered ?? "", raw))).trim();
+  const body = unlinkAttachmentPages(rewriteLinks(rewriteMedia(fixRelative(extra.renderedBody ?? p.content?.rendered ?? "", raw)))).trim();
   const dir = path.join(OUT_PAGES, lang);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, `${fm.wpSlug}.md`), frontmatter(fm) + "\n" + body + "\n");
@@ -287,13 +302,23 @@ for (const p of posts) {
     bodySource: extra.renderedBody ? "rendered" : "rest",
     inlineCss: extra.inlineCss || undefined,
   };
-  const body = rewriteLinks(rewriteMedia(fixRelative(extra.renderedBody ?? p.content?.rendered ?? "", raw))).trim();
+  const body = unlinkAttachmentPages(rewriteLinks(rewriteMedia(fixRelative(extra.renderedBody ?? p.content?.rendered ?? "", raw)))).trim();
   const dir = path.join(OUT_POSTS, lang);
   fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, `${date}-${p.slug}.md`), frontmatter(fm) + "\n" + body + "\n");
   stats.posts[lang] = (stats.posts[lang] || 0) + 1;
 }
 
+// site icons and default social image are referenced by the layout, not by content
+const ICON_BASE = "https://swaanelauwaert.com/wp-content/uploads/sites/50/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector";
+const siteMeta = {
+  icon32: localMediaPath(`${ICON_BASE}-32x32.jpg`),
+  icon192: localMediaPath(`${ICON_BASE}-192x192.jpg`),
+  icon180: localMediaPath(`${ICON_BASE}-180x180.jpg`),
+  icon270: localMediaPath(`${ICON_BASE}-270x270.jpg`),
+  ogImage: localMediaPath("https://swaanelauwaert.com/wp-content/uploads/sites/50/2026/01/6e3a90a15445da501f34e5ad94b4684d-e1768508723726.jpg"),
+};
+fs.writeFileSync(path.join(ROOT, "src/data/site-meta.json"), JSON.stringify(siteMeta, null, 2));
 // comments (read-only) when the REST dump exists
 const comments = dedupe(readJsonGlob("comments")).filter((c) => c.status === "approved" || c.status === undefined).map((c) => ({ id: c.id, post: c.post, parent: c.parent, author_name: decode(c.author_name || ""), date: c.date_gmt ? c.date_gmt + "Z" : c.date, content: rewriteLinks(rewriteMedia(c.content?.rendered || "")).trim(), avatar: c.author_avatar_urls?.["48"] }));
 fs.mkdirSync(path.join(ROOT, "src/data"), { recursive: true });
@@ -301,7 +326,22 @@ fs.writeFileSync(path.join(ROOT, "src/data/comments.json"), JSON.stringify(comme
 // redirects: old WordPress paths that served a canonical page under another slug, plus Polylang's root redirect
 redirects["/"] = "/en/";
 redirects["/nl/feed/"] = "/nl/feed.xml";
+// language-less page paths (Polylang resolved these to the page in the default language)
+for (const p of pages) {
+  const full = redirects[pathOf(p.link)] ?? pathOf(p.link);
+  const bare = full.replace(/^\/(en|nl|fr)\//, "/");
+  if (bare !== full && !knownPaths.has(bare) && !redirects[bare]) redirects[bare] = full;
+}
 fs.writeFileSync(path.join(ROOT, "src/data/redirects.json"), JSON.stringify(redirects, null, 2));
+// Host-level 301s (Cloudflare _redirects, Vercel vercel.json) so the old URLs are real redirects, not meta-refresh pages.
+fs.mkdirSync(path.join(ROOT, "public"), { recursive: true });
+fs.writeFileSync(path.join(ROOT, "public/_redirects"), Object.entries(redirects).map(([from, to]) => `${from} ${to} 301`).join("\n") + "\n");
+const vercelPath = path.join(ROOT, "vercel.json");
+if (fs.existsSync(vercelPath)) {
+  const v = JSON.parse(fs.readFileSync(vercelPath, "utf8"));
+  v.redirects = Object.entries(redirects).map(([source, destination]) => ({ source: source.replace(/\/$/, "") || "/", destination, permanent: true }));
+  fs.writeFileSync(vercelPath, JSON.stringify(v, null, 2) + "\n");
+}
 // taxonomies as data for archive pages
 fs.mkdirSync(path.join(ROOT, "src/data"), { recursive: true });
 fs.writeFileSync(path.join(ROOT, "src/data/taxonomies.json"), JSON.stringify({

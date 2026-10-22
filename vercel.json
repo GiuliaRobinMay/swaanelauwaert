@@ -7,15 +7,211 @@
   "headers": [
     {
       "source": "/media/(.*)",
-      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
       ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/en/werk-met-mij",
+      "destination": "/en/work-with-me/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/maria-magdalena-retreat-zuid-frankrijk-2027",
+      "destination": "/nl/maria-magdalena-retreat-zuid-frankrijk-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/en/the-eros-sanctuary-2",
+      "destination": "/en/body-untamed/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "/en/",
+      "permanent": true
+    },
+    {
+      "source": "/nl/feed",
+      "destination": "/nl/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/guide-sainte-baume",
+      "destination": "/en/guide-sainte-baume/",
+      "permanent": true
+    },
+    {
+      "source": "/sainte-baume-guide",
+      "destination": "/en/sainte-baume-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/sainte-baume-gids",
+      "destination": "/nl/sainte-baume-gids/",
+      "permanent": true
+    },
+    {
+      "source": "/work-with-me",
+      "destination": "/en/work-with-me/",
+      "permanent": true
+    },
+    {
+      "source": "/weekendretreat-27-28-29-november-2026-play",
+      "destination": "/nl/weekendretreat-27-28-29-november-2026-play/",
+      "permanent": true
+    },
+    {
+      "source": "/module-1",
+      "destination": "/en/module-1/",
+      "permanent": true
+    },
+    {
+      "source": "/the-eros-sanctuary-modules",
+      "destination": "/nl/the-eros-sanctuary-modules/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire-modules-english",
+      "destination": "/en/flavours-of-desire-modules-english/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire-2/modules",
+      "destination": "/fr/flavours-of-desire-2/modules/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire-3/modules",
+      "destination": "/nl/flavours-of-desire-3/modules/",
+      "permanent": true
+    },
+    {
+      "source": "/livre-de-cuisine",
+      "destination": "/fr/livre-de-cuisine/",
+      "permanent": true
+    },
+    {
+      "source": "/kookboek",
+      "destination": "/nl/kookboek/",
+      "permanent": true
+    },
+    {
+      "source": "/cookbook",
+      "destination": "/en/cookbook/",
+      "permanent": true
+    },
+    {
+      "source": "/maria-magdalena-retreat-zuid-frankrijk-2026",
+      "destination": "/nl/maria-magdalena-retreat-zuid-frankrijk-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/rituels-dancrage",
+      "destination": "/fr/rituels-dancrage/",
+      "permanent": true
+    },
+    {
+      "source": "/levende-rituelen",
+      "destination": "/nl/levende-rituelen/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire-2",
+      "destination": "/fr/flavours-of-desire-2/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire-3",
+      "destination": "/nl/flavours-of-desire-3/",
+      "permanent": true
+    },
+    {
+      "source": "/le-corps-libre",
+      "destination": "/fr/le-corps-libre/",
+      "permanent": true
+    },
+    {
+      "source": "/the-eros-sanctuary",
+      "destination": "/nl/the-eros-sanctuary/",
+      "permanent": true
+    },
+    {
+      "source": "/samenwerken",
+      "destination": "/nl/samenwerken/",
+      "permanent": true
+    },
+    {
+      "source": "/accompagnement",
+      "destination": "/fr/accompagnement/",
+      "permanent": true
+    },
+    {
+      "source": "/le-journal",
+      "destination": "/fr/le-journal/",
+      "permanent": true
+    },
+    {
+      "source": "/journal",
+      "destination": "/nl/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/rooted-rituals",
+      "destination": "/en/rooted-rituals/",
+      "permanent": true
+    },
+    {
+      "source": "/flavours-of-desire",
+      "destination": "/en/flavours-of-desire/",
+      "permanent": true
+    },
+    {
+      "source": "/body-untamed",
+      "destination": "/en/body-untamed/",
+      "permanent": true
+    },
+    {
+      "source": "/the-journal",
+      "destination": "/en/the-journal/",
+      "permanent": true
+    },
+    {
+      "source": "/a-propos",
+      "destination": "/fr/a-propos/",
+      "permanent": true
+    },
+    {
+      "source": "/over-mij",
+      "destination": "/nl/over-mij/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/en/about/",
+      "permanent": true
     }
   ]
 }
