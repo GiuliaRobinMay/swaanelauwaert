@@ -1,0 +1,12 @@
+---
+import ArchiveLayout from "../../../layouts/ArchiveLayout.astro";
+import { allPosts, paginated, urlOf } from "../../../lib/posts";
+import { UI } from "../../../lib/site";
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  const years = [...new Set(posts.map((p) => urlOf(p).split("/")[2]))];
+  return years.flatMap((y) => paginated(posts.filter((p) => urlOf(p).split("/")[2] === y), `/nl/${y}/`).map((x) => ({ params: { year: y, page: x.params.page }, props: { ...x.props, name: y } })));
+}
+const { page, name } = Astro.props;
+---
+<ArchiveLayout lang="nl" page={page} path={page.url(page.current)} label={UI.nl.year} name={name} bodyClass="archive date" />

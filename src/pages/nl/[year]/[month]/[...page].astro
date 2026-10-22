@@ -1,0 +1,17 @@
+---
+import ArchiveLayout from "../../../../layouts/ArchiveLayout.astro";
+import { allPosts, paginated, urlOf } from "../../../../lib/posts";
+import { UI, LOCALE, TIME_ZONE } from "../../../../lib/site";
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  const keys = [...new Set(posts.map((p) => urlOf(p).split("/").slice(2, 4).join("/")))];
+  return keys.flatMap((k) => {
+    const [y, m] = k.split("/");
+    const items = posts.filter((p) => urlOf(p).split("/").slice(2, 4).join("/") === k);
+    const name = new Intl.DateTimeFormat(LOCALE.nl, { month: "long", year: "numeric", timeZone: TIME_ZONE }).format(items[0].data.date);
+    return paginated(items, `/nl/${y}/${m}/`).map((x) => ({ params: { year: y, month: m, page: x.params.page }, props: { ...x.props, name } }));
+  });
+}
+const { page, name } = Astro.props;
+---
+<ArchiveLayout lang="nl" page={page} path={page.url(page.current)} label={UI.nl.month} name={name} bodyClass="archive date" />

@@ -19,6 +19,10 @@ on:
         description: Run the paced Playwright capture
         type: boolean
         default: true
+      run_rest_extra:
+        description: Dump extra REST collections (comments, menus)
+        type: boolean
+        default: false
       delay_ms:
         description: Delay between page loads in the capture
         default: "5000"
@@ -55,6 +59,10 @@ jobs:
         if: ${{ inputs.run_crawl }}
         run: bash scripts/mirror/crawl.sh "${{ inputs.site }}"
 
+      - name: Extra REST collections
+        if: ${{ inputs.run_rest_extra }}
+        run: bash scripts/mirror/rest-extra.sh "${{ inputs.site }}"
+
       - name: Install capture tools
         working-directory: scripts/mirror
         run: |
@@ -72,7 +80,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A mirror
-          git diff --cached --quiet || (git commit -m "chore(mirror): crawl/media update for ${{ inputs.site }}" && git push origin HEAD:${{ github.ref_name }})
+          git diff --cached --quiet || (git commit -m "chore(mirror): crawl/media update for ${{ inputs.site }}" && git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref_name }})
 
       - name: Paced screenshots and page extraction
         if: ${{ inputs.run_screenshots }}
@@ -95,5 +103,6 @@ jobs:
             echo "Nothing to commit"
           else
             git commit -m "chore(mirror): capture update for ${{ inputs.site }}"
+            git pull --rebase origin ${{ github.ref_name }}
             git push origin HEAD:${{ github.ref_name }}
           fi

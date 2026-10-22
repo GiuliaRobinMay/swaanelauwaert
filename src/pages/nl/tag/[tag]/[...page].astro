@@ -1,0 +1,16 @@
+---
+import ArchiveLayout from "../../../../layouts/ArchiveLayout.astro";
+import { allPosts, paginated } from "../../../../lib/posts";
+import taxonomies from "../../../../data/taxonomies.json";
+import { UI } from "../../../../lib/site";
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return taxonomies.tags.flatMap((t) => {
+    const items = posts.filter((p) => p.data.tagSlugs.includes(t.slug));
+    if (!items.length) return [];
+    return paginated(items, `/nl/tag/${t.slug}/`).map((x) => ({ params: { tag: t.slug, page: x.params.page }, props: { ...x.props, name: t.name } }));
+  });
+}
+const { page, name } = Astro.props;
+---
+<ArchiveLayout lang="nl" page={page} path={page.url(page.current)} label={UI.nl.tag} name={name} bodyClass="archive tag" />

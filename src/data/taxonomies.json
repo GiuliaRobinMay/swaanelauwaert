@@ -1,0 +1,216 @@
+{
+  "categories": [
+    {
+      "id": 20,
+      "slug": "actually-magazine",
+      "name": "Actually, Magazine",
+      "description": "",
+      "count": 2,
+      "parent": 0
+    },
+    {
+      "id": 22,
+      "slug": "auparleur-be",
+      "name": "AuParleur.be",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 24,
+      "slug": "charlie-rubriek",
+      "name": "Charlie Rubriek",
+      "description": "",
+      "count": 19,
+      "parent": 0
+    },
+    {
+      "id": 94,
+      "slug": "de-binnenruimte",
+      "name": "De Binnenruimte",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 1,
+      "slug": "geen-categorie",
+      "name": "Geen categorie",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 99,
+      "slug": "inner-room",
+      "name": "Inner Room",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 26,
+      "slug": "interviews",
+      "name": "Interviews",
+      "description": "",
+      "count": 3,
+      "parent": 0
+    },
+    {
+      "id": 28,
+      "slug": "kortverhaal",
+      "name": "Kortverhalen",
+      "description": "",
+      "count": 6,
+      "parent": 0
+    },
+    {
+      "id": 97,
+      "slug": "lespace-interieur",
+      "name": "L'Espace Intérieur",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 111,
+      "slug": "la-vie",
+      "name": "La vie",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 109,
+      "slug": "leven",
+      "name": "Leven",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 107,
+      "slug": "life",
+      "name": "Life",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 14,
+      "slug": "non-categorise",
+      "name": "Non-catégorisé",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 30,
+      "slug": "non-fictie",
+      "name": "Non-fictie",
+      "description": "",
+      "count": 6,
+      "parent": 0
+    },
+    {
+      "id": 32,
+      "slug": "on-est-parti",
+      "name": "On est parti!",
+      "description": "",
+      "count": 70,
+      "parent": 0
+    },
+    {
+      "id": 34,
+      "slug": "poezie",
+      "name": "Poëzie",
+      "description": "",
+      "count": 7,
+      "parent": 0
+    },
+    {
+      "id": 36,
+      "slug": "polaroid-love",
+      "name": "polaroidLOVE.",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 10,
+      "slug": "uncategorized",
+      "name": "Uncategorized",
+      "description": "",
+      "count": 0,
+      "parent": 0
+    },
+    {
+      "id": 40,
+      "slug": "une-par-jour",
+      "name": "une par jour",
+      "description": "",
+      "count": 120,
+      "parent": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 42,
+      "slug": "bouwen-in-stro-en-leem",
+      "name": "bouwen in stro en leem",
+      "count": 2
+    },
+    {
+      "id": 44,
+      "slug": "emigreren-frankrijk",
+      "name": "emigreren frankrijk",
+      "count": 16
+    },
+    {
+      "id": 46,
+      "slug": "emigreren-naar-frankrijk",
+      "name": "emigreren naar Frankrijk",
+      "count": 1
+    },
+    {
+      "id": 48,
+      "slug": "food",
+      "name": "food",
+      "count": 1
+    },
+    {
+      "id": 50,
+      "slug": "groen-leven",
+      "name": "groen leven",
+      "count": 9
+    },
+    {
+      "id": 52,
+      "slug": "moestuin-2",
+      "name": "moestuin",
+      "count": 5
+    },
+    {
+      "id": 54,
+      "slug": "pasta-met-tomatensaus",
+      "name": "Pasta met tomatensaus",
+      "count": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1340,
+      "slug": "saintebaumeguide",
+      "name": "saintebaumeguide",
+      "description": "",
+      "link": "/author/saintebaumeguide/"
+    },
+    {
+      "id": 1342,
+      "slug": "swaanelauwaert",
+      "name": "swaanelauwaert",
+      "description": "",
+      "link": "/author/swaanelauwaert/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { pageTitle } from "../../lib/site";
+export async function getStaticPaths() {
+  const homes = await getCollection("pages", (e) => !!e.data.isHome);
+  return homes.map((entry) => ({ params: { lang: entry.data.lang }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const d = entry.data;
+---
+<Base lang={d.lang} title={pageTitle(undefined, d.lang)} description={d.description ?? d.excerpt} path={d.path} translations={d.translations} bodyClass={d.bodyClass ?? "home page"} inlineCss={d.inlineCss} ogImage={d.ogImage}>
+  <main id="wp--skip-link--target" class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="margin-top:0">
+    <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained" set:html={entry.body} />
+  </main>
+</Base>

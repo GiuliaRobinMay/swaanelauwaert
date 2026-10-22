@@ -1,0 +1,20 @@
+---
+// The 3-column post grid used by The Journal and every archive page.
+import { formatDate, isoLocal, type Lang } from "../lib/site";
+import { urlOf, type Post } from "../lib/posts";
+interface Props { posts: Post[]; lang: Lang }
+const { posts, lang } = Astro.props;
+---
+<div class="wp-block-query alignwide is-layout-flow wp-block-query-is-layout-flow">
+  <ul class="columns-3 ona-post is-style-default wp-block-post-template is-layout-grid wp-container-core-post-template-is-layout-3c9dd3fb wp-block-post-template-is-layout-grid">
+    {posts.map((p) => { const href = urlOf(p); const d = p.data; return (
+      <li class={`wp-block-post post-${d.wpId} post type-post status-publish format-${d.format ?? "standard"}${d.image ? " has-post-thumbnail" : ""} hentry ${d.categorySlugs.map((c) => `category-${c}`).join(" ")} ${d.tagSlugs.map((t) => `tag-${t}`).join(" ")}`.trim()}>
+        <article class="wp-block-group is-layout-flow wp-block-group-is-layout-flow">
+          <figure class="hover-scale wp-block-post-featured-image">{d.image && <a href={href} target="_self"><img width={d.imageWidth} height={d.imageHeight} src={d.image} class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt={d.title} style="aspect-ratio:4/3;width:100%;object-fit:cover;" decoding="async" loading="lazy" /></a>}</figure>
+          <div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow" style="padding-right:10%;padding-left:10%"><h2 class="wp-block-post-title has-text-align-center"><a href={href} target="_self">{d.title}</a></h2></div>
+          <div class="wp-block-post-date has-text-align-center"><time datetime={isoLocal(d.date)}>{formatDate(d.date, lang)}</time></div>
+        </article>
+      </li>
+    ); })}
+  </ul>
+</div>

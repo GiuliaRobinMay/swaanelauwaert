@@ -1,8 +1,7 @@
 ---
-import "../styles/global.css";
+// The original site redirects "/" to the English home (Polylang). Astro's
+// `redirects` config produces the same for hosts; this page is the fallback.
 ---
 <!doctype html>
-<html lang="en">
-  <head><meta charset="utf-8" /><title>Swaane Lauwaert</title></head>
-  <body><h1 class="text-2xl">Scaffold</h1></body>
-</html>
+<html lang="en"><head><meta charset="utf-8" /><meta http-equiv="refresh" content="0; url=/en/" /><link rel="canonical" href="https://swaanelauwaert.com/en/" /><title>Swaane Lauwaert</title></head>
+<body><a href="/en/">Swaane Lauwaert</a></body></html>

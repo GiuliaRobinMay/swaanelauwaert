@@ -1,0 +1,52 @@
+---
+title: "Modder en Rio de Janeiro"
+wpSlug: "modder-en-rio-de-janeiro"
+path: "/nl/2012/05/22/modder-en-rio-de-janeiro/"
+lang: "nl"
+date: "2012-05-22T05:49:25Z"
+modified: "2012-05-22T05:49:25Z"
+author: "swaanelauwaert"
+excerpt: "Het duurt een aantal dagen voor we de tristesse uit onze kleren kunnen schudden. Ik sta ervan versteld hoe diep onze Youps onder onze huid is gekropen. Ik voel me lusteloos, heb geen zin om te schrijven, te koken of wat dan ook te doen. Ook niet echt om les te geven en Fons treedt […]"
+categories:
+  - "On est parti!"
+categorySlugs:
+  - "on-est-parti"
+tags:
+  - "emigreren frankrijk"
+tagSlugs:
+  - "emigreren-frankrijk"
+image: "/media/2012/05/IMG_1669-scaled.jpg"
+imageAlt: "IMG_1669"
+imageWidth: 2560
+imageHeight: 1912
+wpId: 230
+originalUrl: "https://swaanelauwaert.com/nl/2012/05/22/modder-en-rio-de-janeiro/"
+commentStatus: "open"
+hasRawHtml: true
+bodySource: "rendered"
+inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-core-navigation-is-layout-6e943505{justify-content:flex-end;}.wp-container-core-group-is-layout-061990c5{flex-wrap:nowrap;justify-content:flex-end;align-items:center;}.wp-container-core-group-is-layout-ec1e7a1e{flex-wrap:nowrap;justify-content:space-between;}.wp-container-4{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-fd1a9a6d{gap:0.2em;}.wp-container-core-group-is-layout-788841da{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-group-is-layout-f2b6297b > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width:480px;margin-left:auto !important;margin-right:auto !important;}.wp-container-core-group-is-layout-f2b6297b > .alignwide{max-width:480px;}.wp-container-core-group-is-layout-f2b6297b .alignfull{max-width:none;}.wp-container-core-group-is-layout-878fe601{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-group-is-layout-3a88641f{flex-wrap:nowrap;}.wp-container-core-group-is-layout-40af6500{flex-wrap:nowrap;align-items:flex-start;}.wp-container-core-group-is-layout-cba70755{flex-wrap:nowrap;justify-content:space-between;align-items:center;}.wp-container-core-post-template-is-layout-b4d04ffe > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-post-template-is-layout-b4d04ffe > * + *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-f0b6b26e{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-b61a1d7d{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-831b2db5{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-d8dce8eb{flex-direction:column;align-items:stretch;}.wp-container-core-group-is-layout-cf54d0a6{justify-content:space-between;align-items:flex-start;}\n/*# sourceURL=core-block-supports-inline-css */\n:root :where(.is-style-post-terms-1--5 a:where(:not(.wp-element-button))){border-radius: 20px;border-color: var(--wp--preset--color--accent-6);border-width: 0.8px;border-style: solid;font-weight: 400;line-height: 2.8;padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 10px;text-decoration: none;}:root :where(.is-style-post-terms-1--5 a:where(:not(.wp-element-button)):hover){text-decoration: underline;}\n:root :where(.wp-block-separator.is-style-wide--6){}:root :where(.wp-block-separator.is-style-wide--6:not(.alignfull)){max-width: var(--wp--style--global--wide-size) !important;}\n:root :where(.wp-block-separator.is-style-wide--7){}:root :where(.wp-block-separator.is-style-wide--7:not(.alignfull)){max-width: var(--wp--style--global--wide-size) !important;}\n:root :where(.wp-block-separator.is-style-wide--8){}:root :where(.wp-block-separator.is-style-wide--8:not(.alignfull)){max-width: var(--wp--style--global--wide-size) !important;}\n/*# sourceURL=block-style-variation-styles-inline-css */"
+---
+
+<p>Het duurt een aantal dagen voor we de tristesse uit onze kleren kunnen schudden. Ik sta ervan versteld hoe diep onze Youps onder onze huid is gekropen. Ik voel me lusteloos, heb geen zin om te schrijven, te koken of wat dan ook te doen. Ook niet echt om les te geven en Fons treedt me daarin bij. Hij vindt de lessen van Juffrouw Knackworst ineens zeer saai en wil liever een meester. Hij wil ook niet vormtekenen en als ik hem dan maar vrij laat tekenen komt er dit uit.</p>
+<p><a href="/modder-en-rio-de-janeiro/img_2918/" rel="attachment wp-att-231"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-231" title="IMG_2918" src="/wp-content/uploads/sites/50/2012/05/IMG_2918.jpg" alt="" width="2048" height="1536" /></a></p>
+<p>Zegt genoeg nietwaar?</p>
+<p>En zo is het een beetje voor iedereen een tijd van ‘nationale rouw binnen onze kleine enclave’.</p>
+<p>En dan begint het na een gigantisch onweer in de Pyreneeën ook nog te regenen. Niet plaatselijk boven ons hoofd ofzo maar over heel Franrkijk. En dat weten wij omdat wij ondertussen de weerkaarten als fanatiekelingen om de zoveel uur bestuderen. ‘Is er echt nergens een streepje zon waar we ons naartoe kunnen reppen?’ En goed, die eerste dagen heb je echt nog het gevoel dat je die regen de baas kunt. ‘We gaan ons toch niet klein laten krijgen door wat water he?’ Zeker niet na al die tijd van zon die ons heeft verbrand en voorzien van een leuk kleurtje. Maar goed, soms vloeit het water toch wel rijkelijk. Té rijkelijk.</p>
+<p><a href="/modder-en-rio-de-janeiro/img_2111/" rel="attachment wp-att-232"><img decoding="async" class="aligncenter size-full wp-image-232" title="IMG_2111" src="/wp-content/uploads/sites/50/2012/05/IMG_2111.jpg" alt="" width="2592" height="1936"></a></p>
+<p>Er was een tijd dat ik smalend deed over mijn medekampeerders in hun grote witte mobilhomes. Villa’s op wielen met vloerverwarming, satteliettv, douche, toilet, volledig uitgeruste keuken, etc etc</p>
+<p>Zij lachen luidop met ons: ‘Reizen jullie echt met vijf mensen in zo iets kleins rond?’ En wij denken dan binnensmonds: ‘Waarom moet je met zo’n decadent, gigantisch groot en comfortabel ding rondrijden terwijl echt kamperen toch over ‘buiten leven’ gaat? Waar is het avontuur gebleven?’</p>
+<p>Maar ik geef grif toe dat er nu met momenten toch een zekere afgunst de kop opsteekt. Zeker als ik altijd als enige met mijn armen vol afwas door de regen naar een afwasbak moet lopen. Of als wij met een bende kinderen naar de douche hollen met de paar weinige droge kleren die we nog hebben, om direct na de douche, door de gietende regen, naar de caravan te moeten rennen en meteen weer dingen mogen drogen.</p>
+<p>Of als ons gezellig caravannetje één grote droogmachine is geworden. Waar een klein electrisch blazertje de hele nacht al onze natte spullen, die overal hangen, moet proberen droog te krijgen: schoenen, botten, sokken, mutsen, jassen, broeken, etc</p>
+<p>En daardoor zitten we al snel in een stoomcabine, waar de condens langs de ramen op onze matrassen en kussens drupt. En dan moeten we een dakraampje openen waarlangs het dan weer netjes binnenregent. En zo blijft een mens bezig natuurlijk.</p>
+<p><a href="/modder-en-rio-de-janeiro/img_2108/" rel="attachment wp-att-233"><img decoding="async" class="aligncenter size-full wp-image-233" title="IMG_2108" src="/wp-content/uploads/sites/50/2012/05/IMG_2108.jpg" alt="" width="2592" height="1936"></a></p>
+<p>En on top of that worden de campings steeds vuiler en groezeliger naarmate we het binnenland van de Midi-Pyreneeën verkennen en op huizenjacht zijn.</p>
+<p>Elke keer denk je dat je het wel gezien hebt maar hoe langer hoe meer stel je een afwas en een douche uit tot ‘een betere camping’. Niet dat daar door de jongens ooit met één woord wordt over geklaagd natuurlijk.</p>
+<p>En voor we het goed en wel doorhebben worden we toch een beetje ‘Sauvage’. Bert en ik lopen al geruime tijd met een muts rond. Niet zozeer voor de koude wat mij betreft, maar eerder om mijn vettige haar te camoufleren. En omdat propere kleren allang niet meer aan de orde zijn, enkel een verse onderbroek telt nu nog, is droge modder die ergens aan kleeft nog helemaal ok.</p>
+<p>Je verschiet er echt van hoe snel een mens zijn grenzen verlegt. Modderige lakens? Zand in je wijn? Slakken tussen de afwas? Regenbotten vol water? Oorwormen in je bed? Spinnen in je toilettas? Muskusratten in de rivier naast je caravan? I mean, who cares?</p>
+<p>Maar er zijn nog grenzen. Op de laatste camping ging het even te ver. En ok, ik kan nogal vies zijn van dingen, maar als zelfs mijn mannen hun neus ophalen voor het sanitair en de dagen erop de bosjes gebruiken dan weet je gewoon dat er iets goed mis is.</p>
+<p>Ik weet dat ik douche, was en afwas wederom zal moeten uitstellen maar als er dan ook nog geen wijn meer blijkt te zijn, knapt er iets. Maar voor ik het op een gillen kan zetten moet Bert iets in mijn ogen hebben gezien en trekt hij de duisternis in met de belofte dat hij nog een flesje wijn zal versieren. Ergens&#8230;</p>
+<p>En na lange tijd komt hij zeer goed geluimd weer aangelopen mét een flesje rode wijn onder de arm. En zoals ik al vermoedde had hij weer vrienden gemaakt. Blijkt dat er op het einde van deze vuile camping een Braziliaans restaurantje is. Super gezellig volgens Bert. En de toffe Braziliaanse eigenaar had hem met veel plezier een flesje wijn meegegeven maar eerst moest Bert van zijn zelfgemaakte Armagnac proeven.</p>
+<p>En zo gebeurt het dat we avond daarop, in dit druilerig en mistroostig stukje Frankrijk, ons ineens in Rio de Janeiro bevinden. We drinken, heupwiegend op de samba, Mojito’s in een ongelooflijk kitcherig decor van felle kleuren, Braziliaanse vlaggen, papegaaien, palmbomen en spiegels versierd met pluimen! En komt het nu door de cocktails, of omdat we warm en droog zitten, ik vind het allemaal prachtig en geweldig!</p>
+<p>En ‘s avonds in bed vragen Bert en ik ons, nog steeds lachend, af hoe die verdwaalde Braziliaan ooit in dit godvergeten oord is beland. Met een grote glimlach vallen we in slaap en ik vraag me nog net af of we morgen niet wakker zullen worden en beseffen dat het één grote bizarre, Lynchiaanse droom is geweest …</p>
+<p><a href="/modder-en-rio-de-janeiro/img_2105/" rel="attachment wp-att-234"><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-234" title="IMG_2105" src="/wp-content/uploads/sites/50/2012/05/IMG_2105.jpg" alt="" width="2592" height="1936"></a></p>
+<p>En dit is het dorpje Rocamadour, weliswaar in de regen, maar toch zeer mooi.</p>

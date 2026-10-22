@@ -104,6 +104,9 @@ for (const [i, url] of urls.entries()) {
     Object.assign(rec, r);
     if (r.status !== 429) {
       Object.assign(rec, await page.evaluate(extract));
+      // keep the complete rendered HTML too (per-page inline CSS lives there)
+      fs.mkdirSync(path.join(OUT, "html"), { recursive: true });
+      fs.writeFileSync(path.join(OUT, "html", `${slug(url)}.html`), await page.content());
       if (shots < MAX_SHOTS) {
         await page.screenshot({ path: path.join(SHOTS, `${slug(url)}--desktop.png`), fullPage: true });
         await page.setViewportSize({ width: 390, height: 844 });

@@ -1,0 +1,92 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import NetworkInfo from "../components/NetworkInfo.astro";
+import { HTML_LANG, SITE_NAME, SITE_URL, UI, LANGS, type Lang } from "../lib/site";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description?: string;
+  path: string;
+  translations?: Record<string, string>;
+  bodyClass?: string;
+  inlineCss?: string;
+  ogImage?: string;
+  ogType?: string;
+  noindex?: boolean;
+}
+const { lang, title, description, path, translations = {}, bodyClass = "", inlineCss, ogImage, ogType = "website", noindex } = Astro.props;
+const t = UI[lang];
+const canonical = SITE_URL + path;
+const alternates = Object.entries(translations).filter(([l]) => (LANGS as string[]).includes(l));
+const defaultOg = "/media/2026/01/6e3a90a15445da501f34e5ad94b4684d-e1768508723726.jpg";
+---
+<!doctype html>
+<html lang={HTML_LANG[lang]}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="canonical" href={canonical} />
+    {alternates.map(([l, href]) => <link rel="alternate" href={SITE_URL + href} hreflang={l} />)}
+    {alternates.length > 0 && translations.en && <link rel="alternate" href={SITE_URL + translations.en} hreflang="x-default" />}
+    <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} » Feed`} href={`${SITE_URL}/nl/feed.xml`} />
+    <link rel="icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-32x32.jpg" sizes="32x32" />
+    <link rel="icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-192x192.jpg" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/media/2026/02/cropped-red-pomegranate-icon-on-a-white-background-illustration-vector-180x180.jpg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content={HTML_LANG[lang].replace("-", "_")} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:image" content={SITE_URL + (ogImage || defaultOg)} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {inlineCss && <style set:html={inlineCss} />}
+  </head>
+  <body class={bodyClass}>
+    <a class="skip-link screen-reader-text" id="wp-skip-link" href="#wp--skip-link--target">{t.skip}</a>
+    <div class="wp-site-blocks">
+      <Header lang={lang} translations={translations} currentPath={path} />
+      <slot />
+      <Footer lang={lang} />
+    </div>
+    <NetworkInfo />
+    <script>
+      // Mobile menu overlay and click-to-open submenus (replaces WordPress'
+      // interactivity-API navigation script).
+      const nav = document.querySelector("[data-site-nav]");
+      const container = nav?.querySelector("[data-nav-container]");
+      const openBtn = nav?.querySelector("[data-nav-open]");
+      const closeBtn = nav?.querySelector("[data-nav-close]");
+      const setOpen = (open: boolean) => {
+        if (!container) return;
+        container.classList.toggle("is-menu-open", open);
+        container.classList.toggle("has-modal-open", open);
+        document.documentElement.classList.toggle("has-modal-open", open);
+        if (open) (container as HTMLElement).focus();
+        else (openBtn as HTMLElement | null)?.focus();
+      };
+      openBtn?.addEventListener("click", () => setOpen(true));
+      closeBtn?.addEventListener("click", () => setOpen(false));
+      document.addEventListener("keydown", (e) => { if (e.key === "Escape" && container?.classList.contains("is-menu-open")) setOpen(false); });
+      container?.querySelectorAll("a[href]").forEach((a) => a.addEventListener("click", () => { if (container.classList.contains("is-menu-open")) setOpen(false); }));
+      nav?.querySelectorAll("[data-submenu-toggle]").forEach((btn) => {
+        btn.addEventListener("click", (e) => {
+          e.preventDefault();
+          const expanded = btn.getAttribute("aria-expanded") === "true";
+          nav.querySelectorAll("[data-submenu-toggle]").forEach((b) => b.setAttribute("aria-expanded", "false"));
+          btn.setAttribute("aria-expanded", String(!expanded));
+        });
+      });
+      document.addEventListener("click", (e) => {
+        if (!(e.target as Element).closest("[data-submenu]")) nav?.querySelectorAll("[data-submenu-toggle]").forEach((b) => b.setAttribute("aria-expanded", "false"));
+      });
+    </script>
+  </body>
+</html>

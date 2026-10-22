@@ -1,1 +1,33 @@
-@import "tailwindcss";
+/* 1. The original theme's CSS (WordPress block library + Twenty Twenty-Five
+      global styles + fonts), generated from the mirror. */
+@import "./wp-theme.css";
+/* 2. Per-page layout rules WordPress generated for the block containers. */
+@import "./wp-layouts.css";
+/* 3. Tailwind utilities (no preflight, so the theme CSS stays untouched). */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@theme {
+  --color-base: #fff7e6;
+  --color-contrast: #191919;
+  --color-accent-1: #ffffff;
+  --color-accent-2: #c60000;
+  --color-accent-3: #000000;
+  --color-accent-4: #5f5f5f;
+  --color-accent-5: #f1eee9;
+  --font-display: "Floreal", "Literata", serif;
+  --font-serif: "Literata", Georgia, serif;
+  --font-sans: "Beiruti", system-ui, sans-serif;
+}
+
+/* 4. Small additions for behaviour WordPress handled with JavaScript. */
+.wp-block-navigation__responsive-container:not(.is-menu-open) .wp-block-navigation-submenu__toggle[aria-expanded="true"] + .wp-block-navigation__submenu-container {
+  visibility: visible;
+  opacity: 1;
+  overflow: visible;
+  height: auto;
+  width: auto;
+  min-width: 200px;
+}
+.network-info a:hover { text-decoration: underline; }

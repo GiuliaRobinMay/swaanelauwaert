@@ -1,0 +1,82 @@
+---
+import Base from "../../../../../layouts/Base.astro";
+import Comments from "../../../../../components/Comments.astro";
+import { allPosts, urlOf } from "../../../../../lib/posts";
+import { UI, SUBSTACK_URL, formatDate, isoLocal, pageTitle } from "../../../../../lib/site";
+import taxonomies from "../../../../../data/taxonomies.json";
+
+export async function getStaticPaths() {
+  const posts = await allPosts();
+  return posts.map((entry, i) => {
+    const [, , year, month, day, slug] = urlOf(entry).split("/");
+    // posts are newest-first: "previous" is the older post, "next" the newer one
+    return { params: { year, month, day, slug }, props: { entry, older: posts[i + 1], newer: posts[i - 1], latest: posts.slice(0, 4) } };
+  });
+}
+const { entry, older, newer, latest } = Astro.props;
+const d = entry.data;
+const lang = "nl";
+const t = UI[lang];
+const path = urlOf(entry);
+const author = taxonomies.users.find((u) => u.name === d.author) ?? taxonomies.users[0];
+const catOf = (slug: string) => taxonomies.categories.find((c) => c.slug === slug);
+const tagOf = (slug: string) => taxonomies.tags.find((x) => x.slug === slug);
+---
+<Base lang={lang} title={pageTitle(d.title, lang)} description={d.excerpt} path={path} bodyClass={`wp-singular post-template-default single single-post postid-${d.wpId} single-format-${d.format ?? "standard"} wp-embed-responsive wp-theme-twentytwentyfive`} inlineCss={d.inlineCss} ogImage={d.image} ogType="article">
+  <main id="wp--skip-link--target" class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--60)">
+    <div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+      <h1 class="wp-block-post-title">{d.title}</h1>
+      <div class="wp-block-group has-link-color has-accent-4-color has-text-color has-small-font-size is-layout-flex wp-container-core-group-is-layout-fd1a9a6d wp-block-group-is-layout-flex" style="margin-bottom:var(--wp--preset--spacing--60)">
+        <p class="wp-block-paragraph">{t.writtenBy} </p>
+        <div class="wp-block-post-author-name"><a href={`/nl/author/${author?.slug ?? "swaanelauwaert"}/`} target="_self" class="wp-block-post-author-name__link">{author?.name ?? d.author}</a></div>
+        {d.categorySlugs.length > 0 && (<><p class="wp-block-paragraph">{t.in}</p>
+        <div style="font-weight:300" class="taxonomy-category wp-block-post-terms">{d.categorySlugs.map((s, i) => (<>{i > 0 && <span class="wp-block-post-terms__separator">, </span>}<a href={`/nl/category/${s}/`} rel="tag">{catOf(s)?.name ?? s}</a></>))}</div></>)}
+        <p class="wp-block-paragraph">{t.on}</p>
+        <div class="wp-block-post-date"><time datetime={isoLocal(d.date)}>{formatDate(d.date, lang)}</time></div>
+      </div>
+      <div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained" set:html={entry.body} />
+      <aside class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+        {d.tagSlugs.length > 0 && <div class="taxonomy-post_tag wp-block-post-terms has-small-font-size">{d.tagSlugs.map((s, i) => (<>{i > 0 && <span class="wp-block-post-terms__separator">, </span>}<a href={`/nl/tag/${s}/`} rel="tag">{tagOf(s)?.name ?? s}</a></>))}</div>}
+      </aside>
+      <aside class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+        <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide is-style-wide--6" style="margin-bottom:36px"/>
+        <p class="wp-block-paragraph"><strong>{t.likeShare}</strong></p>
+        <div class="wp-block-group is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-788841da wp-block-group-is-layout-flex"></div>
+      </aside>
+      <aside class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:48px;margin-bottom:48px;padding-top:5px;padding-bottom:5px">
+        <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide is-style-wide--7" style="margin-bottom:36px"/>
+        <h3 class="wp-block-heading has-text-align-center">{UI.nl.discover}</h3>
+        <h3 class="wp-block-heading has-text-align-center">{UI.fr.discover}</h3>
+        <p class="has-text-align-center has-small-font-size wp-block-paragraph" style="margin-top:4px;margin-bottom:0">{t.subscribeText}</p>
+        <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-f2b6297b wp-block-group-is-layout-constrained">
+          <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-35f06ea7 wp-block-buttons-is-layout-flex" style="margin-top:var(--wp--preset--spacing--30)"><div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href={SUBSTACK_URL} target="_blank" rel="noreferrer noopener">{t.subscribe}</a></div></div>
+        </div>
+      </aside>
+      <aside class="wp-block-group alignwide is-layout-flow wp-block-group-is-layout-flow" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60)">
+        <nav class="wp-block-group alignwide is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-878fe601 wp-block-group-is-layout-flex" aria-label={t.postNavAria} style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)">
+          <div class="post-navigation-link-previous wp-block-post-navigation-link">{older && <><span class="wp-block-post-navigation-link__arrow-previous is-arrow-arrow" aria-hidden="true">←</span><a href={urlOf(older)} rel="prev">{older.data.title}</a></>}</div>
+          <div class="post-navigation-link-next wp-block-post-navigation-link">{newer && <><a href={urlOf(newer)} rel="next">{newer.data.title}</a><span class="wp-block-post-navigation-link__arrow-next is-arrow-arrow" aria-hidden="true">→</span></>}</div>
+        </nav>
+      </aside>
+      <aside class="wp-block-comments wp-block-comments-query-loop" style="margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70)">
+        <h2 class="wp-block-heading has-x-large-font-size">{t.comments}</h2>
+        <Comments postId={d.wpId} lang={lang} title={d.title} />
+      </aside>
+    </div>
+    <section class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
+      <h2 class="wp-block-heading alignwide has-small-font-size" style="font-style:normal;font-weight:700;letter-spacing:1.4px;text-transform:uppercase">{t.morePosts}</h2>
+      <div class="wp-block-query alignwide is-layout-flow wp-block-query-is-layout-flow">
+        <ul class="alignfull wp-block-post-template is-layout-flow wp-container-core-post-template-is-layout-b4d04ffe wp-block-post-template-is-layout-flow">
+          {latest.map((p) => (
+            <li class={`wp-block-post post-${p.data.wpId} post type-post status-publish format-standard${p.data.image ? " has-post-thumbnail" : ""} hentry`}>
+              <div class="wp-block-group alignfull is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-cba70755 wp-block-group-is-layout-flex" style="border-bottom-color:var(--wp--preset--color--accent-6);border-bottom-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
+                <h3 class="wp-block-post-title has-large-font-size"><a href={urlOf(p)} target="_self">{p.data.title}</a></h3>
+                <div class="wp-block-post-date has-text-align-right"><a href={urlOf(p)}><time datetime={isoLocal(p.data.date)}>{formatDate(p.data.date, lang)}</time></a></div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  </main>
+</Base>

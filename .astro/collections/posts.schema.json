@@ -5,16 +5,103 @@
     "title": {
       "type": "string"
     },
+    "wpSlug": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
     "lang": {
       "type": "string",
       "enum": [
         "en",
-        "nl"
+        "nl",
+        "fr"
       ]
     },
     "date": {
       "type": "string",
       "format": "date-time"
+    },
+    "modified": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "excerpt": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "imageAlt": {
+      "type": "string"
+    },
+    "imageWidth": {
+      "type": "number"
+    },
+    "imageHeight": {
+      "type": "number"
+    },
+    "ogImage": {
+      "type": "string"
+    },
+    "wpId": {
+      "type": "number"
+    },
+    "originalUrl": {
+      "type": "string"
+    },
+    "hasRawHtml": {
+      "type": "boolean"
+    },
+    "bodySource": {
+      "type": "string"
+    },
+    "inlineCss": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "categories": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "categorySlugs": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tagSlugs": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sticky": {
+      "type": "boolean"
+    },
+    "format": {
+      "type": "string"
+    },
+    "commentStatus": {
+      "type": "string"
     },
     "$schema": {
       "type": "string"
@@ -22,7 +109,11 @@
   },
   "required": [
     "title",
+    "wpSlug",
+    "path",
     "lang",
-    "date"
+    "date",
+    "wpId",
+    "originalUrl"
   ]
 }

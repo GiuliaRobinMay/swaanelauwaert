@@ -1,0 +1,7 @@
+---
+import JournalLayout from "../../../layouts/JournalLayout.astro";
+import { allPosts, paginated } from "../../../lib/posts";
+export async function getStaticPaths() { return paginated(await allPosts(), "/nl/journal/"); }
+const { page } = Astro.props;
+---
+<JournalLayout lang="nl" page={page} path={page.url(page.current)} />

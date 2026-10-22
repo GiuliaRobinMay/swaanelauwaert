@@ -1,0 +1,24 @@
+---
+import Base from "./Base.astro";
+import JournalIntro from "../components/JournalIntro.astro";
+import PostGrid from "../components/PostGrid.astro";
+import Pagination from "../components/Pagination.astro";
+import { JOURNAL_PATH, pageTitle, type Lang } from "../lib/site";
+import type { Page, Post } from "../lib/posts";
+interface Props { lang: Lang; page?: Page<Post>; path: string; title?: string }
+const { lang, page, path, title } = Astro.props;
+const translations = { ...JOURNAL_PATH };
+---
+<Base lang={lang} title={pageTitle(title ?? "The Journal", lang)} path={path} translations={translations} bodyClass="blog wp-theme-twentytwentyfive">
+  <div id="wp--skip-link--target" class="wp-block-group ona-container has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0">
+    <JournalIntro lang={lang} />
+    {page && page.items.length > 0 && (
+      <>
+        <PostGrid posts={page.items} lang={lang} />
+        <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+        <Pagination page={page} lang={lang} />
+        <div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+      </>
+    )}
+  </div>
+</Base>
