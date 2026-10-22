@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/06/Instant_20180607_193229.jpeg"
+image: "/media/2018/06/Instant_20180607_193229.jpeg"
 imageAlt: "Instant_20180607_193229"
 imageWidth: 2000
 imageHeight: 2400
@@ -22,6 +22,6 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2724" src="/wp-content/uploads/sites/50/2018/06/Instant_20180607_193229.jpeg" alt="" width="2000" height="2400" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2724" src="/media/2018/06/Instant_20180607_193229.jpeg" alt="" width="2000" height="2400" /></p>
 <p>Horses and twisted eyes.</p>
 <p>(Saint Maximin)</p>

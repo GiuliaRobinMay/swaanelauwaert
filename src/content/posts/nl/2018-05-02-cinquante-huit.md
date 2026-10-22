@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/05/IMG_20180502_174441452.jpg"
+image: "/media/2018/05/IMG_20180502_174441452.jpg"
 imageAlt: "IMG_20180502_174441452"
 imageWidth: 1440
 imageHeight: 2560
@@ -22,6 +22,6 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2627" src="/wp-content/uploads/sites/50/2018/05/IMG_20180502_174441452.jpg" alt="" width="1440" height="2560" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2627" src="/media/2018/05/IMG_20180502_174441452.jpg" alt="" width="1440" height="2560" /></p>
 <p>Mirror, mirror, in the sky.</p>
 <p>(Marseille)</p>

@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Base from "../../layouts/Base.astro";
-import { JOURNAL_PATH, pageTitle } from "../../lib/site";
+import { JOURNAL_PATH, UI, pageTitle } from "../../lib/site";
 export async function getStaticPaths() {
   const journal = new Set(Object.values(JOURNAL_PATH));
   const pages = await getCollection("pages", (e) => !e.data.isHome && !journal.has(e.data.path));
@@ -9,13 +9,20 @@ export async function getStaticPaths() {
 }
 const { entry } = Astro.props;
 const d = entry.data;
+const t = UI[d.lang];
 ---
 <Base lang={d.lang} title={pageTitle(d.title, d.lang)} description={d.description ?? d.excerpt} path={d.path} translations={d.translations} bodyClass={d.bodyClass ?? "page"} inlineCss={d.inlineCss} ogImage={d.ogImage}>
   <main id="wp--skip-link--target" class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--60)">
     <div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)">
-      <figure class="wp-block-post-featured-image">{d.showFeatured && d.image && <img width={d.imageWidth} height={d.imageHeight} src={d.image} class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt={d.imageAlt ?? ""} decoding="async" />}</figure>
+      {d.showFeatured && d.image && <figure style="margin-bottom:var(--wp--preset--spacing--60)" class="wp-block-post-featured-image"><img width={d.imageWidth} height={d.imageHeight} src={d.image} class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt={d.imageAlt ?? ""} decoding="async" /></figure>}
       {d.showTitle !== false && <h1 class="wp-block-post-title">{d.title}</h1>}
-      <div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained" set:html={entry.body} />
+      {d.protected ? (
+        <div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
+          <p class="wp-block-paragraph">{t.protectedNotice}</p>
+        </div>
+      ) : (
+        <div class="entry-content alignfull wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained" set:html={entry.body} />
+      )}
     </div>
   </main>
 </Base>

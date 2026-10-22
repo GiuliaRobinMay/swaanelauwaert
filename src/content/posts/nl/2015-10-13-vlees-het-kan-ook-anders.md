@@ -11,7 +11,7 @@ categories:
   - "Non-fictie"
 categorySlugs:
   - "non-fictie"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/10/DSCF4196-e1518530569488-scaled.jpg"
+image: "/media/2015/10/DSCF4196-e1518530569488-scaled.jpg"
 imageAlt: "DSCF4196"
 imageWidth: 1920
 imageHeight: 2560
@@ -76,5 +76,5 @@ deden me denken aan een uitroeiingskamp.</p>
 <p>&nbsp;</p>
 <p>We kunnen misschien de vleesconsumptie niet uitroeien, maar we kunnen er wel voor zorgen dat de dieren die we eten een mooi leven hebben gehad en dat we daarvoor gerust meer, ja zelfs veel meer, moeten<br />
 betalen.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2333" src="/wp-content/uploads/sites/50/2015/10/DSCF4274-e1518530728772.jpg" alt="" width="3000" height="4000" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2332" src="/wp-content/uploads/sites/50/2015/10/DSCF4269.jpg" alt="" width="4000" height="3000" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2331" src="/wp-content/uploads/sites/50/2015/10/DSCF4196-e1518530569488.jpg" alt="" width="3000" height="4000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2333" src="/media/2015/10/DSCF4274-e1518530728772.jpg" alt="" width="3000" height="4000" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2332" src="/media/2015/10/DSCF4269.jpg" alt="" width="4000" height="3000" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2331" src="/media/2015/10/DSCF4196-e1518530569488.jpg" alt="" width="3000" height="4000" /></p>
 <p>(Zoals verschenen in Charlie Bookzine nr2, najaar 2015)</p>

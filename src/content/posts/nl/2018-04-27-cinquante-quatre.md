@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/04/DSCF4818-scaled.jpg"
+image: "/media/2018/04/DSCF4818-scaled.jpg"
 imageAlt: "DSCF4818"
 imageWidth: 1920
 imageHeight: 2560
@@ -22,5 +22,5 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2611" src="/wp-content/uploads/sites/50/2018/04/DSCF4818.jpg" alt="" width="3000" height="4000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2611" src="/media/2018/04/DSCF4818.jpg" alt="" width="3000" height="4000" /></p>
 <p>Calangue Figuerolles.</p>

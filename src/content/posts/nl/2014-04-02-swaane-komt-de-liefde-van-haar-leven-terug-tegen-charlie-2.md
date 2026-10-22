@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/21072010484.jpeg"
+image: "/media/2018/02/21072010484.jpeg"
 imageAlt: "21072010484"
 imageWidth: 960
 imageHeight: 1280
@@ -36,6 +36,6 @@ Maar soms lijken de dingen niet wat ze zijn. Achteraf blijkt dat Bert heel erg z
 <p>Natuurlijk ga ik naar dat concert maar omdat ik niet in mijn kaarten wil laten zien trommel ik wat vrienden op. Als ik met de fiets arriveer doe ik dan ook of ik bijna quasi toevallig daar beland ben: ‘Ik heb hier met vrienden afgesproken en we gaan erna iets eten. Als je zin hebt kan je meekomen?’ Ik zak door de grond als het doordringt dat er niemand van mijn vrienden komt opdagen en na afloop zegt Bert lachend: ‘Tja, dan zullen wij met ons twee iets moeten gaan eten.’ En zo geschiedde.</p>
 <p>En uit pure zenuwachtigheid zeg ik heel de avond de foute dingen zoals: ‘Ik ben zeer oraal ingesteld’ terwijl ik eigenlijk wil zeggen dat ik van eten houd. Bert trekt vervolgens grote ogen en knikt bemoedigend: <em>‘Sounds good to me!’</em>. Ik staar vuurrood in mijn bord.</p>
 <p>En dat is het begin van een <em>joint venture</em> dat ons zovelen jaren later naar de noordelijke Ardèche zal brengen. Maar hoe dat gegaan is, lees je later.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2175" src="/wp-content/uploads/sites/50/2018/02/IMG_9726.jpeg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2176" src="/wp-content/uploads/sites/50/2018/02/IMG_9599.jpeg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2177" src="/wp-content/uploads/sites/50/2018/02/21072010484.jpeg" alt="" width="960" height="1280" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2175" src="/media/2018/02/IMG_9726.jpeg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2176" src="/media/2018/02/IMG_9599.jpeg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2177" src="/media/2018/02/21072010484.jpeg" alt="" width="960" height="1280" /></p>
 <p>&nbsp;</p>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/on-est-parti-deel-2/">Charlie</a> 2014.</p>

@@ -11,7 +11,7 @@ categories:
   - "Poëzie"
 categorySlugs:
   - "poezie"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/01/Screen-Shot-2018-01-29-at-14.44.52.png"
+image: "/media/2018/01/Screen-Shot-2018-01-29-at-14.44.52.png"
 imageAlt: "Screen Shot 2018-01-29 at 14.44.52"
 imageWidth: 495
 imageHeight: 484

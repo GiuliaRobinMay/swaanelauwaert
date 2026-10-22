@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/04/DSCF4777-scaled.jpg"
+image: "/media/2018/04/DSCF4777-scaled.jpg"
 imageAlt: "DSCF4777"
 imageWidth: 2560
 imageHeight: 1920
@@ -22,6 +22,6 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2601" src="/wp-content/uploads/sites/50/2018/04/DSCF4777.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2601" src="/media/2018/04/DSCF4777.jpg" alt="" width="4000" height="3000" /></p>
 <p>La vie en noir et blanc.</p>
 <p>( Nans les Pins)</p>

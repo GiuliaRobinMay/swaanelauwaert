@@ -9,6 +9,7 @@ wpId: 5236
 originalUrl: "https://swaanelauwaert.com/nl/the-eros-sanctuary-modules/"
 hasRawHtml: false
 bodySource: "rest"
+protected: true
 showTitle: true
 showFeatured: false
 ---

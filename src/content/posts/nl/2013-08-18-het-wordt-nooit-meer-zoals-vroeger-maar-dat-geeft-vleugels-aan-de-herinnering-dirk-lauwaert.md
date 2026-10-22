@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2020/05/IMG_0471.jpeg"
+image: "/media/2020/05/IMG_0471.jpeg"
 imageAlt: "IMG_0471"
 imageWidth: 957
 imageHeight: 1280
@@ -42,4 +42,4 @@ bodySource: "rest"
 <p>De werkkamer van Dirk Lauwaert door Koen Broucke:</p>
 
 
-<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="766" height="1024" src="/wp-content/uploads/sites/50/2020/05/IMG_0471-766x1024.jpeg" alt="" data-id="3410" data-link="/img_0471/" class="wp-image-3410" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="686" height="1024" src="/wp-content/uploads/sites/50/2020/05/Werkkamer-Dirk-Lauwaert-2-lr-686x1024.jpg" alt="" data-id="3409" data-link="/werkkamer-dirk-lauwaert-2-lr/" class="wp-image-3409" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="689" height="1024" src="/wp-content/uploads/sites/50/2020/05/Werkkamer-Dirk-Lauwaert-1-lr-689x1024.jpg" alt="" data-id="3408" data-link="/werkkamer-dirk-lauwaert-1-lr/" class="wp-image-3408" /></figure></li></ul>
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="766" height="1024" src="/media/2020/05/IMG_0471.jpeg" alt="" data-id="3410" data-link="/img_0471/" class="wp-image-3410" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="686" height="1024" src="/media/2020/05/Werkkamer-Dirk-Lauwaert-2-lr.jpg" alt="" data-id="3409" data-link="/werkkamer-dirk-lauwaert-2-lr/" class="wp-image-3409" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="689" height="1024" src="/media/2020/05/Werkkamer-Dirk-Lauwaert-1-lr.jpg" alt="" data-id="3408" data-link="/werkkamer-dirk-lauwaert-1-lr/" class="wp-image-3408" /></figure></li></ul>

@@ -11,7 +11,7 @@ categories:
   - "Poëzie"
 categorySlugs:
   - "poezie"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/tumblr_o63dqlxLfP1s4zvvyo1_500.jpg"
+image: "/media/2018/02/tumblr_o63dqlxLfP1s4zvvyo1_500.jpg"
 imageAlt: "tumblr_o63dqlxLfP1s4zvvyo1_500"
 imageWidth: 500
 imageHeight: 614

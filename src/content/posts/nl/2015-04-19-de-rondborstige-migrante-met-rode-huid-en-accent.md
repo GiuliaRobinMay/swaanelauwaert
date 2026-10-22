@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/04/DSCF5140-copy-scaled.jpg"
+image: "/media/2015/04/DSCF5140-copy-scaled.jpg"
 imageAlt: "DSCF5140 copy"
 imageWidth: 2560
 imageHeight: 1920
@@ -41,5 +41,5 @@ of<br />
 of deze:<br />
 ‘Ja maar, uw product kan je toch niet echt Ardèchois noemen?’ waarna ik uitleg dat we wel degelijk in de Ardèche wonen, lokaal produceren en waar mogelijk met lokale producten werken. ‘Ja maar, U bent toch niet van de Ardèche&#8230;’</p>
 <p>En ik weet niet wat ik het ergste vind: het feit dat we nog steeds niet genoeg koekjes verkopen om van te leven of dat de mensen onze koekjes gewoon niet zien maar wel ‘een rondborstige migrante met rode huid en een accent’&#8230;</p>
-<p><img loading="lazy" decoding="async" src="/wp-content/uploads/sites/50/2015/04/DSCF5125-copy.jpg" alt="" width="4000" height="3000" class="aligncenter size-full wp-image-2157" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2156" src="/wp-content/uploads/sites/50/2015/04/DSCF5140-copy.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" src="/media/2015/04/DSCF5125-copy.jpg" alt="" width="4000" height="3000" class="aligncenter size-full wp-image-2157" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2156" src="/media/2015/04/DSCF5140-copy.jpg" alt="" width="4000" height="3000" /></p>

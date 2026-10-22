@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2014/12/IMG_8048.jpg"
+image: "/media/2014/12/IMG_8048.jpg"
 imageAlt: "IMG_8048"
 imageWidth: 640
 imageHeight: 480
@@ -35,6 +35,6 @@ bodySource: "rest"
 <p>Ik kan mezelf wel voor het hoofd slaan! Blozen terwijl dat soort mannen je een vraag stelt, komt op hetzelfde neer als op je rug gaan liggen met je benen open! In volledige overgave! Help! Ik wil hier weg! Ik gooi me op de berg papieren en begin verwoed elk document te tekenen zonder nog één moment op te kijken.</p>
 <p>Ik struikel bijna de trap af terwijl ik met mijn hand als een bezetene over mijn broek wrijf. Uiteraard hield hij bij het naar buiten gaan mijn hand net iets te lang vast. Zette hij me bijna klem tegen de muur. En fluisterde hij in mijn oor, zonder dat iemand het hoorde: ‘Ik hoop u snel nog eens terug te zien’.</p>
 <p>Ik hoop maar één ding, dat ik hem nooit! Never! Jamais! nog tegenkom…</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2257" src="/wp-content/uploads/sites/50/2015/01/Screen-Shot-2018-02-05-at-20.58.46.png" alt="" width="493" height="456" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2250" src="/wp-content/uploads/sites/50/2014/12/IMG_8054.jpg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2249" src="/wp-content/uploads/sites/50/2014/12/IMG_8048.jpg" alt="" width="640" height="480" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2257" src="/media/2015/01/Screen-Shot-2018-02-05-at-20.58.46.png" alt="" width="493" height="456" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2250" src="/media/2014/12/IMG_8054.jpg" alt="" width="640" height="480" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2249" src="/media/2014/12/IMG_8048.jpg" alt="" width="640" height="480" /></p>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/swaane9/">Charlie</a> 2015.</p>

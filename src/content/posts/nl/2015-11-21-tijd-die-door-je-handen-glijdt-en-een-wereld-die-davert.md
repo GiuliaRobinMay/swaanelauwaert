@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/11/12002553_10154295988854832_853701122067097437_o-copy.jpg"
+image: "/media/2015/11/12002553_10154295988854832_853701122067097437_o-copy.jpg"
 imageAlt: "12002553_10154295988854832_853701122067097437_o copy"
 imageWidth: 2048
 imageHeight: 1536
@@ -32,21 +32,21 @@ En het was warm, zeg maar, schroeiend heet. Weken zonder een spatje regen. Ik ka
 <p>De jongens trokken na twee maanden ‘vrij leven’ weer naar school. Wat regelmaat en structuur werd door iedereen warm onthaald. Fons zijn laatste jaar in het kleine dorpsschooltje met zijn 34 leerlingen. Het zal wennen worden volgend jaar op ‘de grote school’ in Lamastre. Maar hij is er klaar voor. ‘De kleintjes’ beginnen hem danig op de zenuwen te werken.</p>
 <p>En ik schaafde mijn Frans bij. Om mezelf uit mijn isolement te krijgen van afgelopen winter. En ook al staat er nog veel haar op, elke dag klinkt het ‘echter’. En het heeft me zeker geen windeieren gelegd. Na de aanslagen in Parijs, die de wereld doen daveren, bleek het maar goed dat ik me kon mengen in menige discussies. Oeverloos praten en discussiëren zit de Fransen in de genen. Maar een genuanceerde opinie, een onderbouwde mening, jezelf af en toe het zwijgen opleggen&#8230; dat is spijtig genoeg niet velen op deze wereld gegeven.</p>
 <p>En tussen al dat verbaal en fysiek geweld in de wereld probeer ik een rustig nest te creëren voor mijn kinderen. Ergens op een berg in Frankrijk. In de bossen. Een grote houtstapel herinnert er ons aan dat ze vanaf volgende week sneeuw voorspellen. Dan zal het wonderlijk stil worden en voel je je geborgen. Ik heb die luxe en daar kus ik mijn beide pollekes voor. Ik voel het als mijn plicht, om als tegengewicht voor alle miserie in de wereld, het beste te halen uit het leven. Elke dag opnieuw.<br />
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2115" src="/wp-content/uploads/sites/50/2015/11/11113910_10154295993379832_9167212707318361456_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2116" src="/wp-content/uploads/sites/50/2015/11/11265395_10154295983309832_166695508491524533_n-copy.jpg" alt="" width="720" height="720" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2117" src="/wp-content/uploads/sites/50/2015/11/11999706_10154295998254832_8846409298596175558_o-copy.jpg" alt="" width="1280" height="960" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2118" src="/wp-content/uploads/sites/50/2015/11/12002553_10154295988854832_853701122067097437_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2119" src="/wp-content/uploads/sites/50/2015/11/12014968_10154295994189832_4219252439975583246_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2120" src="/wp-content/uploads/sites/50/2015/11/12015164_10154295998374832_2737895281245185593_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2121" src="/wp-content/uploads/sites/50/2015/11/12022328_10154295992559832_4071624976632945402_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2122" src="/wp-content/uploads/sites/50/2015/11/12038691_10154309871604832_8596417297988434042_o-copy.jpg" alt="" width="918" height="1224" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2123" src="/wp-content/uploads/sites/50/2015/11/12039195_10154295987159832_2532719041073869788_n-copy.jpg" alt="" width="960" height="960" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2124" src="/wp-content/uploads/sites/50/2015/11/12042608_10154295986774832_4153466923191685016_n-copy.jpg" alt="" width="720" height="960" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2125" src="/wp-content/uploads/sites/50/2015/11/12045428_10205376010905182_1968004264993890595_o-copy.jpg" alt="" width="1000" height="750" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2126" src="/wp-content/uploads/sites/50/2015/11/12068510_10154295988484832_5648538990332919479_o-copy.jpg" alt="" width="2048" height="1536" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2127" src="/wp-content/uploads/sites/50/2015/11/12080350_10154305394824832_2821950672919545400_o-copy.jpg" alt="" width="1224" height="918" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2128" src="/wp-content/uploads/sites/50/2015/11/12095277_10154309871469832_407021215842716937_o-copy.jpg" alt="" width="918" height="1224" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2129" src="/wp-content/uploads/sites/50/2015/11/12182507_10205376009785154_3990892993941368284_o-copy-2.jpg" alt="" width="1000" height="750" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2130" src="/wp-content/uploads/sites/50/2015/11/12187994_10205376010105162_818511973682914739_o-copy-2.jpg" alt="" width="750" height="1000" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2131" src="/wp-content/uploads/sites/50/2015/11/IMG_20151110_173949-copy.jpg" alt="" width="3264" height="2448" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2132" src="/wp-content/uploads/sites/50/2015/11/IMG_20151117_174407-copy.jpg" alt="" width="3264" height="2448" /></p>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2115" src="/media/2015/11/11113910_10154295993379832_9167212707318361456_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2116" src="/media/2015/11/11265395_10154295983309832_166695508491524533_n-copy.jpg" alt="" width="720" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2117" src="/media/2015/11/11999706_10154295998254832_8846409298596175558_o-copy.jpg" alt="" width="1280" height="960" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2118" src="/media/2015/11/12002553_10154295988854832_853701122067097437_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2119" src="/media/2015/11/12014968_10154295994189832_4219252439975583246_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2120" src="/media/2015/11/12015164_10154295998374832_2737895281245185593_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2121" src="/media/2015/11/12022328_10154295992559832_4071624976632945402_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2122" src="/media/2015/11/12038691_10154309871604832_8596417297988434042_o-copy.jpg" alt="" width="918" height="1224" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2123" src="/media/2015/11/12039195_10154295987159832_2532719041073869788_n-copy.jpg" alt="" width="960" height="960" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2124" src="/media/2015/11/12042608_10154295986774832_4153466923191685016_n-copy.jpg" alt="" width="720" height="960" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2125" src="/media/2015/11/12045428_10205376010905182_1968004264993890595_o-copy.jpg" alt="" width="1000" height="750" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2126" src="/media/2015/11/12068510_10154295988484832_5648538990332919479_o-copy.jpg" alt="" width="2048" height="1536" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2127" src="/media/2015/11/12080350_10154305394824832_2821950672919545400_o-copy.jpg" alt="" width="1224" height="918" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2128" src="/media/2015/11/12095277_10154309871469832_407021215842716937_o-copy.jpg" alt="" width="918" height="1224" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2129" src="/media/2015/11/12182507_10205376009785154_3990892993941368284_o-copy-2.jpg" alt="" width="1000" height="750" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2130" src="/media/2015/11/12187994_10205376010105162_818511973682914739_o-copy-2.jpg" alt="" width="750" height="1000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2131" src="/media/2015/11/IMG_20151110_173949-copy.jpg" alt="" width="3264" height="2448" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2132" src="/media/2015/11/IMG_20151117_174407-copy.jpg" alt="" width="3264" height="2448" /></p>

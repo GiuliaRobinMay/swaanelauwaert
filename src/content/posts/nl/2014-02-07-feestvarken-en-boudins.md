@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2020/11/IMG_5496-scaled.jpg"
+image: "/media/2020/11/IMG_5496-scaled.jpg"
 imageAlt: "IMG_5496"
 imageWidth: 2560
 imageHeight: 1912
@@ -35,44 +35,44 @@ bodySource: "rest"
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2020/11/DSCF1101-1024x768.jpg" alt="" class="wp-image-3517" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2020/11/DSCF1101.jpg" alt="" class="wp-image-3517" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2020/11/DSCF1137-1024x768.jpg" alt="" class="wp-image-3518" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2020/11/DSCF1137.jpg" alt="" class="wp-image-3518" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2020/11/IMG_4920-1024x768.jpg" alt="" class="wp-image-3512" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2020/11/IMG_4920.jpg" alt="" class="wp-image-3512" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_5540-e1604847587999-765x1024.jpg" alt="" class="wp-image-3515" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_5540-e1604847587999.jpg" alt="" class="wp-image-3515" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_5573-e1604847555474-765x1024.jpg" alt="" class="wp-image-3514" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_5573-e1604847555474.jpg" alt="" class="wp-image-3514" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_5501-e1604847866891-765x1024.jpg" alt="" class="wp-image-3516" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_5501-e1604847866891.jpg" alt="" class="wp-image-3516" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2020/11/IMG_4920-1024x768.jpg" alt="" class="wp-image-3512" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2020/11/IMG_4920.jpg" alt="" class="wp-image-3512" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="768" height="1024" src="/wp-content/uploads/sites/50/2020/11/DSCF1581-e1604847839969-768x1024.jpg" alt="" class="wp-image-3519" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="768" height="1024" src="/media/2020/11/DSCF1581-e1604847839969.jpg" alt="" class="wp-image-3519" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2020/11/DSCF1579-1024x768.jpg" alt="" class="wp-image-3520" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2020/11/DSCF1579.jpg" alt="" class="wp-image-3520" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_5486-1024x765.jpg" alt="" class="wp-image-3522" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_5486.jpg" alt="" class="wp-image-3522" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_5496-1024x765.jpg" alt="" class="wp-image-3521" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_5496.jpg" alt="" class="wp-image-3521" /></figure>

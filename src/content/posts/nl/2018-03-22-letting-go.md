@@ -11,7 +11,7 @@ categories:
   - "Kortverhalen"
 categorySlugs:
   - "kortverhaal"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/03/DSCF3440-copy-scaled.jpg"
+image: "/media/2018/03/DSCF3440-copy-scaled.jpg"
 imageAlt: "DSCF3440 copy"
 imageWidth: 2560
 imageHeight: 1920

@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/swaane_0027_def2.jpeg"
+image: "/media/2018/02/swaane_0027_def2.jpeg"
 imageAlt: "swaane_0027_def2"
 imageWidth: 768
 imageHeight: 512
@@ -33,6 +33,6 @@ Maar twee weken voor ons uiteindelijke vertrek slaat er een bom in. De banken di
 <p>Vastberaden ontrolt zich een plan B. Er wordt een kleine caravan aangekocht, een toestemming voor thuisonderwijs aangevraagd, spullen worden gestockeerd en enkel het hoogstnodige gaat mee. Twee volwassenen, drie kleine jongens en een Griekse straathond ‘Youppi’ vinden samen onderdak op 6m2. Zonder duidelijke richting, noch bestemming op zoek naar ‘het beloofde land’. Er vast van overtuigd dat we met onze buik en ons hart wel zullen voelen waar het goed is.</p>
 <p>Familieleden en vrienden trekken grote ogen en hebben vele twijfels. Maar door knopen door te hakken zien wij ineens honderden nieuwe mogelijkheden. En hoe verder we ons verwijderen van ons vorige leven in Antwerpen, hoe meer een gevoel van immense vrijheid me overvalt. Als we de grens met Frankrijk oversteken voel ik me een dartelend veulen met kriebels in de buik van de spanning en de hunkering naar het grote avontuur. En eerlijk toegeven: toch ook gemengd met een lichte misselijkheid van de nervositeit.</p>
 <p>En die eerste nacht in de caravan vergeet ik nooit. In de buurt van Calais op een verlaten, schrale camping. Door alle spanningen zijn de kinderen en de hond ontembaar losgeslagen wild. Door de stevige rukwinden kan ik amper koken en is het ijskoud. Bert vloekt omdat hij sukkelt met de elektriciteit van ons stokoud caravannetje uit 1969. Dan passeren er in uw hoofd van die gedachten zoals: ‘Waar zijn wij in godsnaam aan begonnen?!’ Maar enkele uren later, wanneer iedereen ligt de ronken in de caravan, begin ik voor ‘t eerst te schrijven. En rechtop in ons veel te krappe bed, met allemaal snurkende jongens om me heen, in dit kleine nestje op twee wielen maakt er een diepe gelukzaligheid zich van mij meester. En heb ik er een rotsvast vertrouwen in dat we met z’n allen deze reis tot een goed einde zullen brengen.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2190" src="/wp-content/uploads/sites/50/2018/02/IMG_2666.jpeg" alt="" width="800" height="600" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2191" src="/wp-content/uploads/sites/50/2018/02/IMG_2592-1.jpg" alt="" width="600" height="800" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2192" src="/wp-content/uploads/sites/50/2018/02/swaane_0027_def2.jpeg" alt="" width="768" height="512" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2190" src="/media/2018/02/IMG_2666.jpeg" alt="" width="800" height="600" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2191" src="/media/2018/02/IMG_2592-1.jpg" alt="" width="600" height="800" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2192" src="/media/2018/02/swaane_0027_def2.jpeg" alt="" width="768" height="512" /></p>
 <p>&nbsp;</p>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/on-est-parti-deel-4/">Charlie</a> 2014.</p>

@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2020/11/IMG_6869-scaled.jpg"
+image: "/media/2020/11/IMG_6869-scaled.jpg"
 imageAlt: "IMG_6869"
 imageWidth: 2560
 imageHeight: 1912
@@ -34,56 +34,56 @@ Ja zo’n eigen huis bouwen, het is nu al een overweldigend avontuur om nooit me
 <p>Prachtig filmpje van Florent &#8216;Flosh&#8217; Gryson: <a href="https://www.youtube.com/watch?v=WQ__sxXQDmk&amp;feature=youtu.be">https://www.youtube.com/watch?v=WQ__sxXQDmk&amp;feature=youtu.be</a></p>
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_6651-e1604868379783-765x1024.jpg" alt="" class="wp-image-3582" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_6651-e1604868379783.jpg" alt="" class="wp-image-3582" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_6737-1024x765.jpg" alt="" class="wp-image-3599" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_6737.jpg" alt="" class="wp-image-3599" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_6823-e1604868337399-765x1024.jpg" alt="" class="wp-image-3595" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_6823-e1604868337399.jpg" alt="" class="wp-image-3595" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_6813-1024x765.jpg" alt="" class="wp-image-3597" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_6813.jpg" alt="" class="wp-image-3597" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/sites/50/2020/11/0666095-1024x678.jpg" alt="" class="wp-image-3598" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/media/2020/11/0666095.jpg" alt="" class="wp-image-3598" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/11/IMG_6788-e1604868325873-765x1024.jpg" alt="" class="wp-image-3596" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/11/IMG_6788-e1604868325873.jpg" alt="" class="wp-image-3596" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_6869-1024x765.jpg" alt="" class="wp-image-3594" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_6869.jpg" alt="" class="wp-image-3594" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_6713-1024x765.jpg" alt="" class="wp-image-3600" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_6713.jpg" alt="" class="wp-image-3600" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="960" height="695" src="/wp-content/uploads/sites/50/2020/11/10405519_10204081076968044_8199137152199023379_n.jpg" alt="" class="wp-image-3593" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="960" height="695" src="/media/2020/11/10405519_10204081076968044_8199137152199023379_n.jpg" alt="" class="wp-image-3593" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="575" src="/wp-content/uploads/sites/50/2020/11/P1050358-1024x575.jpg" alt="" class="wp-image-3585" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="575" src="/media/2020/11/P1050358.jpg" alt="" class="wp-image-3585" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/wp-content/uploads/sites/50/2020/11/IMG_6569-1024x765.jpg" alt="" class="wp-image-3583" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="765" src="/media/2020/11/IMG_6569.jpg" alt="" class="wp-image-3583" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/sites/50/2020/11/0666812-1024x678.jpg" alt="" class="wp-image-3592" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/media/2020/11/0666812.jpg" alt="" class="wp-image-3592" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/sites/50/2020/11/0666831-1024x678.jpg" alt="" class="wp-image-3591" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/media/2020/11/0666831.jpg" alt="" class="wp-image-3591" /></figure>
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/wp-content/uploads/sites/50/2020/11/0666949-1024x678.jpg" alt="" class="wp-image-3590" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="678" src="/media/2020/11/0666949.jpg" alt="" class="wp-image-3590" /></figure>

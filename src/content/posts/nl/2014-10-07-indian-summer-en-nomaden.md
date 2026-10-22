@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2014/10/0666749-copy.jpg"
+image: "/media/2014/10/0666749-copy.jpg"
 imageAlt: "_0666749 copy"
 imageWidth: 1600
 imageHeight: 1060
@@ -31,12 +31,12 @@ bodySource: "rest"
 <p>En voor alles een eerste keer. Zo droom ik over papa zonder uitbundig te huilen waardoor hij het op een lopen zet. En deze keer liggen we, zoals we op het einde wel meer deden, samen op bed films te bekijken. We praten en lachen om de stomste dingen. Ik voel zijn warmte. Het is zo echt. En als ik wakker word ben ik zeer goedgezind en gelukkig. Net zoals vroeger na een leuke avond met papa. Ik kijk al uit naar onze volgende ontmoeting.</p>
 <p>En over ontmoetingen gesproken. Voor het eerst ga ik op stap in Lamastre. Beetje opgetut. Hakjes van onder het stof. En hup, den berg af. Geen kat meer op straat maar het café is wel open. En we mogen tot 23h blijven zitten, stel je voor! Maar dan zijn Freija en ik nog niet uitgepraat. Dus babbelen wij nog uren lustig verder in de auto, aan de rand van een bos, in het pikkedonker onder een prachtige sterrenhemel. Zo kan het dus ook!</p>
 <p>En zoveel mensen die passeren en kortstondig of langdurig meehelpen. Heerlijk dat de wereld naar ons toekomt. Voor de kinderen ook een geweldige tijd met zoveel nieuwe ervaringen en mensen. Maar in het leven blijft niets duren. Sommige vaste bergbewoners beslissen om weer te gaan. Het leven stuurt ze een andere richting uit. En dat doet wel pijn, zo’n vertrek. Want in zo’n kleine gemeenschap bouwt ge op korte tijd diepe vriendschappen op. Een bende nomaden bij elkaar. Niemand is zeker of er over een paar maanden nog wel voldoende geld zal zijn om te kunnen blijven. Soms trekt de stad. Of familie. Is er nood aan een ander schoolsysteem. Of zijn het die lange winters die mensen zuidelijker drijven. Het is zeker niet het meest makkelijke leven, zo ergens anders van nul beginnen. En er zijn vele momenten van twijfels. Maar ik zou het onmiddellijk allemaal terug opnieuw doen want het is ook het meest mooie avontuur uit mijn leven en ik heb me de afgelopen jaren nog geen seconde verveelt. Laat staan dat ik een greintje sleur heb gekend. De band in ons gezin is hechter dan ooit. De stress die we kennen is van een totaal andere orde. En ik heb zoveel mooie menselijke daden gezien. En eindelijk komt er stilaan meer tijd om te doen wat ik het liefste doe, namelijk schrijven.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2403" src="/wp-content/uploads/sites/50/2014/10/DSCF1245-copy.jpg" alt="" width="720" height="540" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2404" src="/wp-content/uploads/sites/50/2014/10/DSCF1264-copy.jpg" alt="" width="720" height="540" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2405" src="/wp-content/uploads/sites/50/2014/10/0666749-copy.jpg" alt="" width="1600" height="1060" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2407" src="/wp-content/uploads/sites/50/2014/10/DSCF1223-copy.jpg" alt="" width="720" height="540" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2408" src="/wp-content/uploads/sites/50/2014/10/DSCF1700-copy.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2403" src="/media/2014/10/DSCF1245-copy.jpg" alt="" width="720" height="540" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2404" src="/media/2014/10/DSCF1264-copy.jpg" alt="" width="720" height="540" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2405" src="/media/2014/10/0666749-copy.jpg" alt="" width="1600" height="1060" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2407" src="/media/2014/10/DSCF1223-copy.jpg" alt="" width="720" height="540" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2408" src="/media/2014/10/DSCF1700-copy.jpg" alt="" width="4000" height="3000" /></p>
 <p>&nbsp;</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2410" src="/wp-content/uploads/sites/50/2014/10/DSCF1234-copy.jpg" alt="" width="720" height="540" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2411" src="/wp-content/uploads/sites/50/2014/10/DSCF1236-copy.jpg" alt="" width="540" height="720" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2412" src="/wp-content/uploads/sites/50/2014/10/DSCF1190-copy.jpg" alt="" width="540" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2410" src="/media/2014/10/DSCF1234-copy.jpg" alt="" width="720" height="540" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2411" src="/media/2014/10/DSCF1236-copy.jpg" alt="" width="540" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2412" src="/media/2014/10/DSCF1190-copy.jpg" alt="" width="540" height="720" /></p>

@@ -10,6 +10,7 @@ wpId: 5101
 originalUrl: "https://swaanelauwaert.com/fr/flavours-of-desire-2/modules/"
 hasRawHtml: false
 bodySource: "rest"
+protected: true
 showTitle: true
 showFeatured: false
 ---

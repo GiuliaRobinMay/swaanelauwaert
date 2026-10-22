@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2020/05/unnamed-file-1.jpg"
+image: "/media/2020/05/unnamed-file-1.jpg"
 imageAlt: ".jpg"
 imageWidth: 1620
 imageHeight: 1078
@@ -37,8 +37,8 @@ bodySource: "rest"
 <p>De frons van &nbsp;pijn en onrust in je gezicht is gladgestreken. Weer de mooie man die je altijd bent geweest. Slaap zacht.</p>
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="681" src="/wp-content/uploads/sites/50/2020/05/unnamed-file-1-1024x681.jpg" alt="" class="wp-image-3390" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="681" src="/media/2020/05/unnamed-file-1.jpg" alt="" class="wp-image-3390" /></figure>
 
 
 
-<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/05/IMG_3288-e1589141876108-765x1024.jpg" alt="" data-id="3401" data-link="/img_3288/" class="wp-image-3401" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="765" height="1024" src="/wp-content/uploads/sites/50/2020/05/IMG_3293-e1589141842832-765x1024.jpg" alt="" data-id="3397" data-link="/img_3293/" class="wp-image-3397" /></figure></li></ul>
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/05/IMG_3288-e1589141876108.jpg" alt="" data-id="3401" data-link="/img_3288/" class="wp-image-3401" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="765" height="1024" src="/media/2020/05/IMG_3293-e1589141842832.jpg" alt="" data-id="3397" data-link="/img_3293/" class="wp-image-3397" /></figure></li></ul>

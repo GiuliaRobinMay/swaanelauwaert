@@ -1,6 +1,7 @@
 ---
 import Base from "../../../../../layouts/Base.astro";
 import Comments from "../../../../../components/Comments.astro";
+import ShareButtons from "../../../../../components/ShareButtons.astro";
 import { allPosts, urlOf } from "../../../../../lib/posts";
 import { UI, SUBSTACK_URL, formatDate, isoLocal, pageTitle } from "../../../../../lib/site";
 import taxonomies from "../../../../../data/taxonomies.json";
@@ -41,7 +42,10 @@ const tagOf = (slug: string) => taxonomies.tags.find((x) => x.slug === slug);
       <aside class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
         <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide is-style-wide--6" style="margin-bottom:36px"/>
         <p class="wp-block-paragraph"><strong>{t.likeShare}</strong></p>
-        <div class="wp-block-group is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-788841da wp-block-group-is-layout-flex"></div>
+        <div class="wp-block-group is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-is-layout-788841da wp-block-group-is-layout-flex">
+          <div class="wp-block-jetpack-like"></div>
+          <ShareButtons url={path} title={d.title} image={d.image} postId={d.wpId} />
+        </div>
       </aside>
       <aside class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:48px;margin-bottom:48px;padding-top:5px;padding-bottom:5px">
         <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide is-style-wide--7" style="margin-bottom:36px"/>

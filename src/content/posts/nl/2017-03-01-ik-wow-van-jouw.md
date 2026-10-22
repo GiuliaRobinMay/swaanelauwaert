@@ -11,7 +11,7 @@ categories:
   - "Interviews"
 categorySlugs:
   - "interviews"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2017/03/Screen-Shot-2018-02-05-at-14.52.10.png"
+image: "/media/2017/03/Screen-Shot-2018-02-05-at-14.52.10.png"
 imageAlt: "Screen Shot 2018-02-05 at 14.52.10"
 imageWidth: 447
 imageHeight: 480
@@ -22,6 +22,6 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-14.47.06.png" alt="" width="1099" height="738" class="aligncenter size-full wp-image-2108" /></p>
-<p><img loading="lazy" decoding="async" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-14.47.28.png" alt="" width="562" height="731" class="aligncenter size-full wp-image-2109" /></p>
+<p><img loading="lazy" decoding="async" src="/media/2018/02/Screen-Shot-2018-02-05-at-14.47.06.png" alt="" width="1099" height="738" class="aligncenter size-full wp-image-2108" /></p>
+<p><img loading="lazy" decoding="async" src="/media/2018/02/Screen-Shot-2018-02-05-at-14.47.28.png" alt="" width="562" height="731" class="aligncenter size-full wp-image-2109" /></p>
 <p>Zoals verschenen in Charlie Bookzine nr 5.</p>

@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-16.00.31.png"
+image: "/media/2018/02/Screen-Shot-2018-02-05-at-16.00.31.png"
 imageAlt: "Screen Shot 2018-02-05 at 16.00.31"
 imageWidth: 830
 imageHeight: 463
@@ -41,7 +41,7 @@ En in al mijn naïviteit denk ik: ‘Dat doe ik dan enkele jaartjes, dan vlieg i
 <p>Maar terwijl ik voorzichtig plannen maak voor een eigen horecazaak in Antwerpen zal er iets gebeuren dat mijn leven helemaal op zijn kop zet.</p>
 <p>(Photo&#8217;s by <a href="http://afterhours-dvl.tumblr.com/">Davy Van Laere</a>).</p>
 </div>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2165" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-16.00.31.png" alt="" width="830" height="463" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2166" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-16.00.45.png" alt="" width="595" height="385" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2167" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-16.01.10.png" alt="" width="588" height="383" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2168" src="/wp-content/uploads/sites/50/2018/02/Screen-Shot-2018-02-05-at-16.01.29.png" alt="" width="392" height="581" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2165" src="/media/2018/02/Screen-Shot-2018-02-05-at-16.00.31.png" alt="" width="830" height="463" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2166" src="/media/2018/02/Screen-Shot-2018-02-05-at-16.00.45.png" alt="" width="595" height="385" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2167" src="/media/2018/02/Screen-Shot-2018-02-05-at-16.01.10.png" alt="" width="588" height="383" /><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2168" src="/media/2018/02/Screen-Shot-2018-02-05-at-16.01.29.png" alt="" width="392" height="581" /></p>
 </div>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/on-est-parti-deel-1/">Charlie</a> 2014.</p>
 </div>

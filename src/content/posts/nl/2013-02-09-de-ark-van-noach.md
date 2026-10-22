@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2013/02/IMG_1405-scaled.jpg"
+image: "/media/2013/02/IMG_1405-scaled.jpg"
 imageAlt: "IMG_1405"
 imageWidth: 2560
 imageHeight: 1912

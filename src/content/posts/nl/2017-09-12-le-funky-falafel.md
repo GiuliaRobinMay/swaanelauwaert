@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2017/09/20133707_1030688430401029_645107463_o.jpg"
+image: "/media/2017/09/20133707_1030688430401029_645107463_o.jpg"
 imageAlt: "20133707_1030688430401029_645107463_o"
 imageWidth: 1100
 imageHeight: 729
@@ -34,8 +34,8 @@ Achterom kijken is zoals een collage maken van alle mooie, spannende en speciale
 <p>Dus met knikkende knietjes en een caravan vol kikkererwten trekken we begin juli naar een eerste festival… Maar wat was me dat! Een prachtige locatie, heerlijk zomerweer en niet onbelangrijk: duizenden bezoekers. De falafelbroodjes vlogen over de toonbank en wij, die zo onvoorbereid waren als maar kan, probeerden die lange rijen mensen niet teleur te stellen. De meesten klanten hadden nog nooit van falafel gehoord: ‘C’est quoi falafel? Des boulettes de viande?’ Maar blijkbaar konden onze gefrituurde kikkererwtenballetjes ook de notoire Franse vleeseter bekoren. Want ze kwamen terug. Tweemaal, driemaal,… Meer bevestiging dat je misschien eindelijk een ‘gat in de markt’ hebt gevonden kan je hier niet verlangen.</p>
 <p>Na twee dagen van vijftien uren non-stop werken, een nacht met amper slaap en zo’n 7.000 falafelbolletjes gedraaid te hebben, keerden we uitgeput maar lichtelijk euforisch weer huiswaarts.</p>
 <p>De zomer kon beginnen, met minder financiële stress, nog enkele kleine evenementen op zak, meer tijd voor het gezin maar vooral met hoop! Veel hoop! En nu september weer aangebroken is, kan ik zeggen dat die hoop vervuld is. Voor grote festivals was het ondertussen te laat, daar moet je je maanden op voorhand voor inschrijven, maar de mond-tot-mondreclame doet hier goed zijn werk. Zo was Le Funky Falafel paraat op enkele kleinere evenementen in de buurt. Minder druk, maar daarom niet minder leuk. En onze Funky Falafel-agenda voor volgende zomer? Die geraakt steeds meer gevuld.</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2012 size-full" src="/wp-content/uploads/sites/50/2017/09/19679424_10156375722249832_1066641297681878079_o.jpg" alt="" width="1080" height="1440" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2018 size-full" src="/wp-content/uploads/sites/50/2017/09/19875438_10156386737534832_8298657061382875082_n.jpg" alt="" width="960" height="720" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2020 size-full" src="/wp-content/uploads/sites/50/2017/09/19884453_10210099734835328_4716190459656627963_n.jpg" alt="" width="960" height="720" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2014 size-full" src="/wp-content/uploads/sites/50/2017/09/19732006_10155313290906147_1042537624423819825_n.jpg" alt="" width="960" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2012 size-full" src="/media/2017/09/19679424_10156375722249832_1066641297681878079_o.jpg" alt="" width="1080" height="1440" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2018 size-full" src="/media/2017/09/19875438_10156386737534832_8298657061382875082_n.jpg" alt="" width="960" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2020 size-full" src="/media/2017/09/19884453_10210099734835328_4716190459656627963_n.jpg" alt="" width="960" height="720" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-2014 size-full" src="/media/2017/09/19732006_10155313290906147_1042537624423819825_n.jpg" alt="" width="960" height="720" /></p>
 <p>Gepubliceerd op 12 september 2017 in <a href="https://www.charliemag.be/mensen/on-est-parti-15/">Charlie Magazine</a></p>

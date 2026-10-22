@@ -11,7 +11,7 @@ categories:
   - "Actually, Magazine"
 categorySlugs:
   - "actually-magazine"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2017/12/16195442_1784385101887793_8199533501322025174_n.jpg"
+image: "/media/2017/12/16195442_1784385101887793_8199533501322025174_n.jpg"
 imageAlt: "16195442_1784385101887793_8199533501322025174_n"
 imageWidth: 640
 imageHeight: 480

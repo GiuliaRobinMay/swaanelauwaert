@@ -5,3 +5,4 @@ scripts/mirror/node_modules/
 dist/
 .astro/
 docs/screenshots/
+docs/fidelity/

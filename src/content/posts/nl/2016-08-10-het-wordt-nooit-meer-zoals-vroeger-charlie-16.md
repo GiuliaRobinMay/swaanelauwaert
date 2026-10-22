@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2016/08/920547_4993210712644_422552052_o-copy.jpeg"
+image: "/media/2016/08/920547_4993210712644_422552052_o-copy.jpeg"
 imageAlt: "920547_4993210712644_422552052_o copy"
 imageWidth: 640
 imageHeight: 426
@@ -42,5 +42,5 @@ bodySource: "rest"
 <p>Jozef Janssen (1947 – 2013)</p>
 <p>Dirk Lauwaert (1944 – 2013)</p>
 <p><em>Mijn vader schreef een tekst over zijn ziekte: </em>“De niet meer gezonde man”.<em> Deze tekst is te lezen op de <a href="http://www.dewitteraaf.be/artikel/detail/nl/3870" target="_blank" rel="noopener">website van De Witte Raaf</a>.</em></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2364" src="/wp-content/uploads/sites/50/2016/08/920547_4993210712644_422552052_o-copy.jpeg" alt="" width="640" height="426" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2365" src="/wp-content/uploads/sites/50/2016/08/IMG_0471-copy.jpeg" alt="" width="479" height="640" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2364" src="/media/2016/08/920547_4993210712644_422552052_o-copy.jpeg" alt="" width="640" height="426" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2365" src="/media/2016/08/IMG_0471-copy.jpeg" alt="" width="479" height="640" /></p>
 <p>(Zoals verschenen in <a href="https://www.charliemag.be/mensen/afscheid-vader/">Charlie</a>😉</p>

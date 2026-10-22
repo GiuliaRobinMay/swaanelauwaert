@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/DSCF9917.jpg"
+image: "/media/2018/02/DSCF9917.jpg"
 imageAlt: "DSCF9917"
 imageWidth: 480
 imageHeight: 640
@@ -31,6 +31,6 @@ bodySource: "rest"
 <p>Er breekt een chaotische tijd aan. Veel heen en weer gereis. Dagelijks telefoneren. Je leeft in Frankrijk maar je hoofd en hart vertoeven in België. Een nieuw leven opstarten blijkt een hele onderneming als je tussen twee plekken bungelt.</p>
 <p>En je verstaat elkaar zo goed. Je zit in een zelfde soort boot. En toch is het zo’n verschillend verhaal. Soms roei je naarstig samen, dan drijf je weer ver uit elkaar. De kinderen stellen vragen over de dood en de hemel. Met grote ogen kijken ze naar al dat verdriet en die vele tranen. Het definitieve karakter van de dood ontgaat hen. De opa’s gaan gewoon naar een andere plek waar ook onze dode hond nu woont. En of ze iets kunnen meegeven? Je zou zelf ook zo willen denken. De dood die geen angst inboezemt maar gewoon een dagelijks feit is. We kunnen soms zoveel leren van onze kinderen.</p>
 <p>En voor hen doe je zo normaal mogelijk verder. De meeste tranen laat je pas na bedtijd en de moeilijke gesprekken met stervenden voer je in het duister. ‘s Morgens stap je monter uit bed ook al heb je een nacht liggen woelen. Want voor die drie jongens is elke dag nog één groot feest en is dit plattelandsleven een nieuwe wereld waarin ze keer op keer op ontdekkingstocht gaan. En stilaan nadert de eerste schooldag…</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2271" src="/wp-content/uploads/sites/50/2018/02/IMG_0313-2.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2272" src="/wp-content/uploads/sites/50/2018/02/DSCF9918.jpg" alt="" width="480" height="640" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2273" src="/wp-content/uploads/sites/50/2018/02/DSC07757.jpeg" alt="" width="854" height="1280" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2274" src="/wp-content/uploads/sites/50/2018/02/DSC07728.jpeg" alt="" width="1280" height="854" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2275" src="/wp-content/uploads/sites/50/2018/02/DSCF9917.jpg" alt="" width="480" height="640" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2271" src="/media/2018/02/IMG_0313-2.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2272" src="/media/2018/02/DSCF9918.jpg" alt="" width="480" height="640" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2273" src="/media/2018/02/DSC07757.jpeg" alt="" width="854" height="1280" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2274" src="/media/2018/02/DSC07728.jpeg" alt="" width="1280" height="854" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2275" src="/media/2018/02/DSCF9917.jpg" alt="" width="480" height="640" /></p>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/on-est-parti/">Charlie</a> 2015.</p>

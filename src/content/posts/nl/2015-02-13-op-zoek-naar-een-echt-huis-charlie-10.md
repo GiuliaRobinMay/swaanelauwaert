@@ -13,7 +13,7 @@ categories:
 categorySlugs:
   - "charlie-rubriek"
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/02/IMG_0101-1-e1517861223443.jpeg"
+image: "/media/2018/02/IMG_0101-1-e1517861223443.jpeg"
 imageAlt: "IMG_0101 (1)"
 imageWidth: 1280
 imageHeight: 957
@@ -32,5 +32,5 @@ bodySource: "rest"
 <p>En zo komt het dat we plots terug in een echt huis wonen. In Frankrijk. Met aparte slaapkamers en echte bedden. Met een keuken, oven en ijskast. Een badkamer met bad en wasmachine. En met een prachtig uitzicht over de vallei. Ons geluk kan niet op! Je weet pas wat comfort is wanneer je het langere tijd moet missen, zoveel is zeker.</p>
 <p>Ons hebben en houden verhuizen we van België naar een schuur dichtbij en na zes maanden worden we herenigd met onze Antwerpse stadskat, die na een helse rit van twaalf uren meteen een boom van wel vijftien meter inschiet en zich daar vast klauwt aan een tak om pas uren later weer af te dalen.</p>
 <p>Soms voelt het allemaal te mooi om waar te zijn. En gelukkig weet een mens nooit op voorhand wat er allemaal boven zijn hoofd hangt…</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2261" src="/wp-content/uploads/sites/50/2018/02/IMG_0009.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2262" src="/wp-content/uploads/sites/50/2018/02/IMG_0101-1-e1517861223443.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2263" src="/wp-content/uploads/sites/50/2018/02/IMG_0921.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2264" src="/wp-content/uploads/sites/50/2018/02/IMG_0924.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2265" src="/wp-content/uploads/sites/50/2018/02/IMG_1238.jpeg" alt="" width="1280" height="957" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2261" src="/media/2018/02/IMG_0009.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2262" src="/media/2018/02/IMG_0101-1-e1517861223443.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2263" src="/media/2018/02/IMG_0921.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2264" src="/media/2018/02/IMG_0924.jpeg" alt="" width="1280" height="957" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2265" src="/media/2018/02/IMG_1238.jpeg" alt="" width="1280" height="957" /></p>
 <p>Zoals verschenen in <a href="https://www.charliemag.be/mensen/parti10/">Charlie</a> 2015.</p>

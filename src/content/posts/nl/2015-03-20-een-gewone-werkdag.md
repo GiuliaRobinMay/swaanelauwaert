@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/03/IMG_20150319_153355.jpg"
+image: "/media/2015/03/IMG_20150319_153355.jpg"
 imageAlt: "IMG_20150319_153355"
 imageWidth: 488
 imageHeight: 651
@@ -34,5 +34,5 @@ bodySource: "rest"
 <p>Zij ploffen zich neer voor de biscuiterie en ik neem een stoel en zet me ernaast. En met mijn ogen dicht, de zon warm op mijn huid denk ik heel langzaam en geeuwend: ‘die koeken bakken, dat kan morgen ook nog&#8230;’ Ik sluimer terwijl ik wacht tot de kerktoren half vijf slaat en ik de kinderen moet ophalen aan het schooltje in de schaduw van de kerk. Zo schoon kan het leven hier dus ook zijn&#8230;<br />
 <em><br />
 (Ok, dat laatste verzon ik er maar bij. Het Franse ritme heb ik me nog niet geheel meester gemaakt. Die koeken zijn dus alsnog gebakken, zoals het een noest werkende Vlaming betaamt. Maar mijn einde klonk gewoon mooier in de oren, wat idyllischer, nietwaar?)</em></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2373" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_150746.jpg" alt="" width="3264" height="2448" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2374" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_150759_1.jpg" alt="" width="3264" height="2448" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2376" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_153325_1.jpg" alt="" width="488" height="651" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2377" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_153355.jpg" alt="" width="488" height="651" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2379" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_154901_1.jpg" alt="" width="868" height="651" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2371" src="/wp-content/uploads/sites/50/2015/03/IMG_20150319_150518_1.jpg" alt="" width="3264" height="2448" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2373" src="/media/2015/03/IMG_20150319_150746.jpg" alt="" width="3264" height="2448" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2374" src="/media/2015/03/IMG_20150319_150759_1.jpg" alt="" width="3264" height="2448" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2376" src="/media/2015/03/IMG_20150319_153325_1.jpg" alt="" width="488" height="651" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2377" src="/media/2015/03/IMG_20150319_153355.jpg" alt="" width="488" height="651" /> <img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2379" src="/media/2015/03/IMG_20150319_154901_1.jpg" alt="" width="868" height="651" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2371" src="/media/2015/03/IMG_20150319_150518_1.jpg" alt="" width="3264" height="2448" /></p>

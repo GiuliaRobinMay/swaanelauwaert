@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2020/05/IMG_1011-scaled.jpg"
+image: "/media/2020/05/IMG_1011-scaled.jpg"
 imageAlt: "IMG_1011"
 imageWidth: 2560
 imageHeight: 1912
@@ -48,4 +48,4 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="/wp-content/uploads/sites/50/2020/05/IMG_1082.jpg" alt="" class="wp-image-3303" /></figure>
+<figure class="wp-block-image"><img decoding="async" src="/media/2020/05/IMG_1082.jpg" alt="" class="wp-image-3303" /></figure>

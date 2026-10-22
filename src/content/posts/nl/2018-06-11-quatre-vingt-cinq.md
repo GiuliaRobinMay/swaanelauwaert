@@ -10,7 +10,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/06/Instant_20180611_173331.jpg"
+image: "/media/2018/06/Instant_20180611_173331.jpg"
 imageAlt: "Instant_20180611_173331"
 imageWidth: 2000
 imageHeight: 2400
@@ -21,4 +21,4 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2731" src="/wp-content/uploads/sites/50/2018/06/Instant_20180611_173331.jpg" alt="" width="2000" height="2400" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2731" src="/media/2018/06/Instant_20180611_173331.jpg" alt="" width="2000" height="2400" /></p>

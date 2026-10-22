@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2013/08/foto-copy-3.jpg"
+image: "/media/2013/08/foto-copy-3.jpg"
 imageAlt: "foto copy 3"
 imageWidth: 1632
 imageHeight: 1224
@@ -38,4 +38,4 @@ bodySource: "rest"
 <p>En ik wil meer leven zoals papa. Waarachtig. Intens. Eerlijk zijn met jezelf en tegenover jezelf. Wijze woorden van papa. En ja, ik moet stoppen met roken. En moet minder drinken. En dringend afvallen. En meer schrijven. En meer spelen met de kinderen. Ze wijze levenslessen bijbrengen. En meer wandelingen maken in de bergen. En meer genieten van de zonsondergang of vallende bladeren. En ik moet meer lezen. En ik moet meer tijd besteden aan mijn familie en vrienden. En ik moet&#8230;en ik moet&#8230;en eigenlijk moet ik helemaal niets, zeker nu niet.</p>
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/wp-content/uploads/sites/50/2013/08/foto-copy-3-1024x768.jpg" alt="" class="wp-image-3414" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="768" src="/media/2013/08/foto-copy-3.jpg" alt="" class="wp-image-3414" /></figure>

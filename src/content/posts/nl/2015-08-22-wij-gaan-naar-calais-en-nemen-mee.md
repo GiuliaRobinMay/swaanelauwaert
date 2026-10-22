@@ -11,7 +11,7 @@ categories:
   - "Non-fictie"
 categorySlugs:
   - "non-fictie"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/08/Screen-Shot-2018-02-05-at-15.15.24.png"
+image: "/media/2015/08/Screen-Shot-2018-02-05-at-15.15.24.png"
 imageAlt: "Screen Shot 2018-02-05 at 15.15.24"
 imageWidth: 1067
 imageHeight: 674
@@ -31,7 +31,7 @@ Waarom wachten tot de politici stoppen met hun zwarte piet door te schuiven om a
 <p>Al maanden loop ik rond met een gevoel dat ik iets concreets moet doen. Et voilà, ik ga met een volle camionette vanuit de Ardèche naar Calais en blijf daar enkele dagen om me achter het project van Peter Terryn te scharen. Dat heeft meerdere kanten. We verzamelen spullen en brengen die in het weekend van 4 en 5 september naar Calais. We delen ze niet zelf uit maar overhandigen hen aan de organisaties die zich over de vluchtelingen ontfermen. We zullen hen trachten te helpen waar nodig. Maar ook: we proberen in contact te komen met de vluchtelingen zelf. We willen luisteren naar hun verhalen, hun hoop, hun dromen.</p>
 <p>Over die verhalen en over wat ik zie, zal ik schrijven. Fotografe Sarah gaat mee om foto’s te nemen. Samen zullen wij verslag uitbrengen voor Charlie. Je hoort nog van ons.</p>
 <p>(foto&#8217;s van Vice: http://www.vice.com/nl/read/Vluchtelingen-in-Calais-894)</p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2134" src="/wp-content/uploads/sites/50/2015/08/Screen-Shot-2018-02-05-at-15.15.09.png" alt="" width="1082" height="682" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2135" src="/wp-content/uploads/sites/50/2015/08/Screen-Shot-2018-02-05-at-15.15.24.png" alt="" width="1067" height="674" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2137" src="/wp-content/uploads/sites/50/2015/08/Screen-Shot-2018-02-05-at-15.14.35.png" alt="" width="1070" height="659" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2138" src="/wp-content/uploads/sites/50/2015/08/Screen-Shot-2018-02-05-at-15.15.33.png" alt="" width="1064" height="671" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2134" src="/media/2015/08/Screen-Shot-2018-02-05-at-15.15.09.png" alt="" width="1082" height="682" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2135" src="/media/2015/08/Screen-Shot-2018-02-05-at-15.15.24.png" alt="" width="1067" height="674" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2137" src="/media/2015/08/Screen-Shot-2018-02-05-at-15.14.35.png" alt="" width="1070" height="659" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2138" src="/media/2015/08/Screen-Shot-2018-02-05-at-15.15.33.png" alt="" width="1064" height="671" /></p>

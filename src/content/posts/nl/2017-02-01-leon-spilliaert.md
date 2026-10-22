@@ -11,7 +11,7 @@ categories:
   - "Kortverhalen"
 categorySlugs:
   - "kortverhaal"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/01/Screen-Shot-2018-01-29-at-13.40.21.png"
+image: "/media/2018/01/Screen-Shot-2018-01-29-at-13.40.21.png"
 imageAlt: "Screen Shot 2018-01-29 at 13.40.21"
 imageWidth: 612
 imageHeight: 381

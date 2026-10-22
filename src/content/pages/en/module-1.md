@@ -9,6 +9,7 @@ wpId: 5247
 originalUrl: "https://swaanelauwaert.com/en/module-1/"
 hasRawHtml: false
 bodySource: "rest"
+protected: true
 showTitle: true
 showFeatured: false
 ---

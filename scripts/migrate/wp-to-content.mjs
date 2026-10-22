@@ -133,6 +133,10 @@ function fixRelative(html, rawFile) {
 const HTML2 = path.join(ROOT, "mirror/html");
 const rawFile_isCapture = (f) => !!f && f.startsWith(HTML2);
 const redirects = {};
+// Manual decisions about odd pages in the WordPress export (see docs/site-audit.md).
+const PAGE_OVERRIDES = {
+  5530: { skip: true, redirectTo: "/en/work-with-me/" }, // empty page with a Dutch title in the English language set
+};
 const captureFile = (link) => { const s = link.replace(/^https?:\/\//, "").replace(/[^a-z0-9]+/gi, "-").replace(/^-+|-+$/g, "").slice(0, 120); const f = path.join(HTML2, `${s}.html`); return fs.existsSync(f) ? f : null; };
 function rawFileFor(lang, slug, isHome, link) {
   const c = isHome ? [path.join(RAW, `${lang}.html`), path.join(RAW, lang, "index.html")] : [path.join(RAW, pathOf(link).replace(/^\/|\/$/g, ""), "index.html"), path.join(RAW, lang, slug, "index.html")];
@@ -163,7 +167,7 @@ function fromRaw(file) {
   if (!file) return {};
   const html = fs.readFileSync(file, "utf8");
   const entry = innerOf(html, /<div class="entry-content[^"]*"[^>]*>/);
-  const showsFeatured = /<figure class="wp-block-post-featured-image">\s*<(img|a)/.test(html);
+  const showsFeatured = /<figure[^>]*class="wp-block-post-featured-image"[^>]*>\s*<(img|a)/.test(html);
   const showsTitle = /<h1 class="wp-block-post-title">[^<]+<\/h1>/.test(html);
   const css = [];
   for (const id of ["core-block-supports-inline-css", "block-style-variation-styles-inline-css"]) {
@@ -211,6 +215,8 @@ const stats = { posts: {}, pages: {}, rawHtmlPages: 0, rawHtmlPosts: 0 };
 for (const p of pages) {
   if (p.status && p.status !== "publish") continue;
   const lang = langOf(p);
+  const override = PAGE_OVERRIDES[p.id];
+  if (override?.skip) { if (override.redirectTo) redirects[pathOf(p.link)] = override.redirectTo; continue; }
   const isHome = pathOf(p.link) === `/${lang}/`;
   const raw = rawFileFor(lang, p.slug, isHome, p.link);
   if (raw) stats.rawHtmlPages++;
@@ -239,6 +245,7 @@ for (const p of pages) {
     originalUrl: p.link,
     hasRawHtml: !!raw,
     bodySource: extra.renderedBody ? "rendered" : "rest",
+    protected: p.content?.protected ? true : undefined,
     showTitle: raw ? extra.showsTitle : !isHome && p.template !== "page-no-title",
     showFeatured: raw ? extra.showsFeatured : !isHome && !!p.featured_media,
     inlineCss: extra.inlineCss || undefined,

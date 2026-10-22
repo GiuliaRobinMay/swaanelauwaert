@@ -9,6 +9,7 @@ wpId: 5113
 originalUrl: "https://swaanelauwaert.com/en/flavours-of-desire-modules-english/"
 hasRawHtml: false
 bodySource: "rest"
+protected: true
 showTitle: true
 showFeatured: false
 ---

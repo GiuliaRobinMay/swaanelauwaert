@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/03/DSCF3730-scaled.jpg"
+image: "/media/2018/03/DSCF3730-scaled.jpg"
 imageAlt: "DSCF3730"
 imageWidth: 1920
 imageHeight: 2560
@@ -22,5 +22,5 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2482" src="/wp-content/uploads/sites/50/2018/03/DSCF3730.jpg" alt="" width="3000" height="4000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2482" src="/media/2018/03/DSCF3730.jpg" alt="" width="3000" height="4000" /></p>
 <p>(La grotte de Sainte Baume).</p>

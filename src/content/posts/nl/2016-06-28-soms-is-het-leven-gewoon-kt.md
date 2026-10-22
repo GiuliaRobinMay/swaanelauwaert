@@ -11,7 +11,7 @@ categories:
   - "On est parti!"
 categorySlugs:
   - "on-est-parti"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2016/06/14717073_10207813770967660_7000959619128932127_n-copy-2.jpg"
+image: "/media/2016/06/14717073_10207813770967660_7000959619128932127_n-copy-2.jpg"
 imageAlt: "14717073_10207813770967660_7000959619128932127_n copy 2"
 imageWidth: 528
 imageHeight: 960
@@ -43,9 +43,9 @@ En wat wilt ge dan dicht bij uw familie zijn. Bij uw vrienden. Uw nest. Om eens 
 <p>Maar het leven heeft ook zo zijn eigen logica en volgt zijn eigen wetten. Als ge het gevoel hebt dat ge niet meer vooruit kunt maar ook niet meer achteruit. Als het enigste wat ge doet is u vastklampen aan een laatste strootje om niet in een diep gat te glijden. Als ge met uw laatste krachten alles probeert bij elkaar te houden. Dan soms geeft het leven u iets terug. Zomaar. Ge hebt gesmeekt en gebeden en ge werd niet gehoord, of toch?</p>
 <p>Bij mij borrelde er ineens weer wat kracht en geloof vanbinnen. ‘t Was een zielig miezerig straaltje in het begin en ik had er niet veel vertrouwen in dat het iets te betekenen had. Maar het werd stilaan groter. En plots kijkt ge rondom u heen en ziet ge weer mogelijkheden. En die bergen en bomen krijgen hun kleur terug. En Bert wordt weer mijn schitterende rosse Viking waarmee ik samen aan het roer sta. En ik vind leuk werk. Heel snel. En op datzelfde moment vliegen de koekenbestellingen me rond de oren. Van Marseille tot Bordeaux, van waar komt dat ineens? Er is gewoon geen tijd meer om te kniezen. En vriendschappen worden dieper. Omdat miserie mensen nu eenmaal dichter bij elkaar brengt. En daardoor groeit ook mijn vocabulaire. Plots zit ik in ‘t Frans over mijn diepste zielenroerselen te praten. En word ik gevraagd om mee te werken aan een kunstproject. Mijn tekst in het Frans, stel je voor!</p>
 <p>En ja, ons huis. Zelfs half afgewerkt is het een pronkstuk. ‘<em>Plus jamais de ma vie</em>’ dat ik me nog aan zoiets zal wagen maar God, al dat bloed, zweet en tranen, maar ook al die schone momenten en die helpende handen die daarin verweven zitten, het kan niet anders dan het schoonste huis van de wereld worden. Of toch dat van onze wereld. Die wereld van Bert, mezelf en mijn drie jongens die zo de moeite waard is om voor te vechten. En we zeilen vol moed de zomer tegemoet! <em>Peace!</em></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2068" src="/wp-content/uploads/sites/50/2016/06/20161115_193554-copy-e1517312655248.jpg" alt="" width="2322" height="4128" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2073" src="/wp-content/uploads/sites/50/2016/06/DSCF7894-copy.jpg" alt="" width="4000" height="3000" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2072" src="/wp-content/uploads/sites/50/2016/06/DSCF7881-copy.jpg" alt="" width="4000" height="3000" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2071" src="/wp-content/uploads/sites/50/2016/06/DSCF7661-copy.jpg" alt="" width="4000" height="3000" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2070" src="/wp-content/uploads/sites/50/2016/06/DSCF7640-copy-e1517312623241.jpg" alt="" width="3000" height="4000" /></p>
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2069" src="/wp-content/uploads/sites/50/2016/06/DSCF7636-copy-e1517312641486.jpg" alt="" width="3000" height="4000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2068" src="/media/2016/06/20161115_193554-copy-e1517312655248.jpg" alt="" width="2322" height="4128" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2073" src="/media/2016/06/DSCF7894-copy.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2072" src="/media/2016/06/DSCF7881-copy.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2071" src="/media/2016/06/DSCF7661-copy.jpg" alt="" width="4000" height="3000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2070" src="/media/2016/06/DSCF7640-copy-e1517312623241.jpg" alt="" width="3000" height="4000" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2069" src="/media/2016/06/DSCF7636-copy-e1517312641486.jpg" alt="" width="3000" height="4000" /></p>

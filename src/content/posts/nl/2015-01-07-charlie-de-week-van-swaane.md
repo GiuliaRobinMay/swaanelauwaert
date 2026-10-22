@@ -11,7 +11,7 @@ categories:
   - "Non-fictie"
 categorySlugs:
   - "non-fictie"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2015/01/10898193_10152703115663843_8732448317403600042_n.jpg"
+image: "/media/2015/01/10898193_10152703115663843_8732448317403600042_n.jpg"
 imageAlt: "10898193_10152703115663843_8732448317403600042_n"
 imageWidth: 636
 imageHeight: 900

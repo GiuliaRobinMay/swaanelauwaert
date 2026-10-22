@@ -11,7 +11,7 @@ categories:
   - "une par jour"
 categorySlugs:
   - "une-par-jour"
-image: "https://swaanelauwaert.com/wp-content/uploads/sites/50/2018/03/IMG_20180315_200058.jpg"
+image: "/media/2018/03/IMG_20180315_200058.jpg"
 imageAlt: "IMG_20180315_200058"
 imageWidth: 2560
 imageHeight: 1920
@@ -22,6 +22,6 @@ hasRawHtml: false
 bodySource: "rest"
 ---
 
-<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2501" src="/wp-content/uploads/sites/50/2018/03/IMG_20180315_200058.jpg" alt="" width="2560" height="1920" /></p>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-2501" src="/media/2018/03/IMG_20180315_200058.jpg" alt="" width="2560" height="1920" /></p>
 <p>Back to the past with &#8216;Back to the future&#8217;.</p>
 <p>(Nans les Pins)</p>

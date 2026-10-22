@@ -52,6 +52,6 @@ inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-c
 <p>&#8211;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stamp de aardappelen fijn</p>
 <p>&#8211;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meng er dan de look, de erwten, de zure room, de mosterd, de salie en peterselie en/of bieslook onder</p>
 <p>&#8211;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; en kruid af met peper en zout</p>
-<p><a href="/stoemp-met-erwten-en-salie/img_2989/" rel="attachment wp-att-494"><img decoding="async" class="aligncenter size-full wp-image-494" title="IMG_2989" alt="" src="/wp-content/uploads/sites/50/2012/07/IMG_2989.jpg" width="2592" height="1936"></a></p>
+<p><a href="/stoemp-met-erwten-en-salie/img_2989/" rel="attachment wp-att-494"><img decoding="async" class="aligncenter size-full wp-image-494" title="IMG_2989" alt="" src="/media/2012/07/IMG_2989.jpg" width="2592" height="1936"></a></p>
 <p>Wij hebben er van gesmuld met een lekker vers varkenskoteletje erbij.</p>
 <p>Meer moet dat niet zijn!</p>

@@ -22,7 +22,7 @@ originalUrl: "https://swaanelauwaert.com/fr/a-propos/"
 hasRawHtml: true
 bodySource: "rendered"
 showTitle: true
-showFeatured: false
+showFeatured: true
 inlineCss: ".wp-container-core-group-is-layout-4f9efd84{gap:5px;}.wp-container-core-navigation-is-layout-6e943505{justify-content:flex-end;}.wp-container-core-group-is-layout-061990c5{flex-wrap:nowrap;justify-content:flex-end;align-items:center;}.wp-container-core-group-is-layout-ec1e7a1e{flex-wrap:nowrap;justify-content:space-between;}.wp-container-4{top:calc(0px + var(--wp-admin--admin-bar--position-offset, 0px));position:sticky;z-index:10;}.wp-container-core-group-is-layout-f0b6b26e{gap:0;flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-b61a1d7d{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-788841da{flex-wrap:nowrap;justify-content:space-between;}.wp-container-core-group-is-layout-831b2db5{flex-direction:column;align-items:flex-start;}.wp-container-core-group-is-layout-d8dce8eb{flex-direction:column;align-items:stretch;}.wp-container-core-group-is-layout-cf54d0a6{justify-content:space-between;align-items:flex-start;}\n/*# sourceURL=core-block-supports-inline-css */\n:root :where(.wp-block-separator.is-style-wide--5){}:root :where(.wp-block-separator.is-style-wide--5:not(.alignfull)){max-width: var(--wp--style--global--wide-size) !important;}\n/*# sourceURL=block-style-variation-styles-inline-css */"
 ---
 
