@@ -2,6 +2,22 @@
 
 Status: proposal (phase 2, after the public site is live). Nothing here is built yet.
 
+## What exists today (from the site audit)
+
+| Offer | Where it lives now | Sales / sign-up mechanics |
+| --- | --- | --- |
+| 1:1 sessions (coaching, bodywork, intimacy) — €75 / 60 min | `/nl/samenwerken/`, `/en/work-with-me/`, `/fr/accompagnement/` | Calendly `calendly.com/swaanelauwaert/let-s-meet` + contact form |
+| **The Eros Sanctuary** — 6-week live online programme (next edition 2027) | sales pages per language; course material on password-protected pages `/nl/the-eros-sanctuary-modules/` and `/en/module-1/` | Flodesk wait-list (`erosnl`, `theerossanctuaryeng`) |
+| **Flavours of Desire** — mini online course at your own pace | sales pages per language; modules on password-protected pages `/nl/flavours-of-desire-3/modules/`, `/en/flavours-of-desire-modules-english/`, `/fr/flavours-of-desire-2/modules/` | Flodesk checkout (`flavoursofdesireprogramma`, `flavoursofdesireminicourse`), password handed out after purchase |
+| PLAY weekend retreat — 27–29 Nov 2026, Antwerp | `/nl/weekendretreat-27-28-29-november-2026-play/` | Flodesk programme page (`jgy17ky7ao`) |
+| Maria Magdalena "Wild & Rooted" retreat — 5–10 April 2027, Rougiers (Var) | `/nl/maria-magdalena-retreat-zuid-frankrijk-2026/`, EN/FR retreat pages | Flodesk programme + booking (`mariamagdalena2027`) |
+| Cookbook *The Taste of Her Journey* | `/en/cookbook/`, `/nl/kookboek/`, `/fr/livre-de-cuisine/` | Books2Read `books2read.com/u/4DwK0r` |
+| Sainte-Baume guide | `/en/sainte-baume-guide/`, `/nl/sainte-baume-gids/` | external site saintebaumeguide.com |
+
+The two online courses are the portal's first content. Their module pages are password-protected in
+WordPress, so the public API returns them empty: the text, videos and downloads have to be exported
+from the WordPress admin (or the passwords shared) before they can be moved into the portal.
+
 ## Goal
 
 Let Swaane sell and deliver online courses from her own domain: a member logs in,
@@ -16,7 +32,7 @@ and can buy new courses or a membership. Swaane manages courses and members with
 | Auth + database | Supabase (Postgres + Auth, magic-link / email+password, row-level security) | Hosted in the EU (Frankfurt), generous free tier, the account is already connected to this workspace. Alternatives: Clerk, Auth.js. |
 | Payments | Stripe Checkout + Customer Portal, webhooks grant access | Works for one-off courses and recurring memberships, handles EU VAT via Stripe Tax. |
 | Video | Vimeo (private, domain-restricted embeds) or Mux | Keeps large files off the site host; both block hot-linking. Vimeo Pro is the cheapest for a few courses. |
-| Email | Kit (already used for the newsletter) for marketing + Supabase/Resend for transactional mail | Tag buyers in Kit automatically from the Stripe webhook. |
+| Email | Flodesk (used today for the newsletter and sign-ups) for marketing + Resend/Supabase for transactional mail | Add buyers to the right Flodesk segment from the Stripe webhook (Flodesk API). |
 | Downloads (PDF workbooks, audio) | Supabase Storage with signed URLs | Only logged-in members with access can download. |
 
 ## Data model (Supabase)
@@ -48,6 +64,7 @@ courses they are enrolled in (or marked free preview). Swaane's account has an `
 2. **Login**: magic link or password → session cookie (httpOnly) → middleware protects `/portal/*`.
 3. **Watch**: lesson page fetches a signed Vimeo/Mux embed, saves progress every 15 s and on "mark complete".
 4. **Cancel/refund**: Stripe Customer Portal; webhook `customer.subscription.deleted` sets `expires_at`.
+5. **Existing buyers**: import the current Flavours of Desire / Eros Sanctuary participants (from Flodesk) as enrollments so nobody loses access when the password pages are retired.
 
 ## Hosting notes
 
@@ -64,7 +81,11 @@ courses they are enrolled in (or marked free preview). Swaane's account has an `
 
 ## Open questions for Swaane
 
-- Which courses exist today or are planned (titles, languages, price, lifetime vs subscription)?
-- Where are the videos hosted now (Vimeo, YouTube unlisted, local files)?
+- Export of the five password-protected module pages (or their passwords) — what do the modules contain
+  (video platform, PDFs, audio)?
+- Prices and licence model per course (one-off purchase vs subscription; Flavours of Desire is sold via
+  Flodesk today, price not shown on the site).
+- Keep Flodesk as the newsletter/checkout tool, or move checkout to Stripe inside the portal and keep
+  Flodesk only for e-mail?
 - Does she want community features (comments, Q&A) or just content delivery?
-- Should the newsletter (Kit) stay the single email list, with buyers tagged there?
+- Languages of the portal UI: NL and EN (FR sales pages exist, module pages exist in FR too).
